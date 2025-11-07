@@ -1,85 +1,295 @@
-<div class="container-fluid mt-4">
-  <!-- Header -->
-  <div class="row mb-4">
-    <div class="col">
-      <h2>AutoQP Dashboard</h2>
-      <p class="text-muted">Automated Prop Betting Analysis</p>
+<div class="dashboard-container">
+  <!-- Header Section -->
+  <div class="dashboard-header">
+    <div class="header-content">
+      <div>
+        <h1 class="dashboard-title">🎯 AutoQP Dashboard</h1>
+        <p class="dashboard-subtitle">Find value betting opportunities on SplashProps</p>
+      </div>
+      <div class="header-stats">
+        <div class="stat-card">
+          <div class="stat-label">Total Props</div>
+          <div class="stat-value">{{ totalProps }}</div>
+        </div>
+        <div class="stat-card highlight">
+          <div class="stat-label">Value Plays</div>
+          <div class="stat-value">{{ valuePlayCount }}</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Avg Edge</div>
+          <div class="stat-value">{{ averageEdge }}%</div>
+        </div>
+      </div>
     </div>
   </div>
 
-  <!-- Filter Controls & Stats -->
-  <div class="row mb-3">
-    <div class="col-md-6">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Filters</h5>
-          <div class="form-check form-switch">
+  <!-- Controls Section -->
+  <div class="controls-section">
+    <div class="row g-3">
+      <!-- Search -->
+      <div class="col-md-4">
+        <div class="search-box">
+          <input 
+            type="text" 
+            class="form-control form-control-lg" 
+            placeholder="🔍 Search by player or prop type..."
+            [(ngModel)]="searchQuery"
+            (ngModelChange)="onFilterChange()"
+          />
+        </div>
+      </div>
+
+      <!-- Odds Threshold Filter -->
+      <div class="col-md-3">
+        <div class="filter-group">
+          <label class="filter-label">Odds Threshold</label>
+          <div class="input-group">
+            <span class="input-group-text">≤</span>
             <input 
-              class="form-check-input" 
-              type="checkbox" 
-              id="oddsFilter"
-              [checked]="filterActive"
-              (change)="toggleFilter()">
-            <label class="form-check-label" for="oddsFilter">
-              Show odds {{ oddsThreshold }} or better
-            </label>
+              type="number" 
+              class="form-control" 
+              [(ngModel)]="filterOddsThreshold"
+              (ngModelChange)="onFilterChange()"
+            />
           </div>
+          <small class="text-muted">Typically -135</small>
         </div>
       </div>
-    </div>
-    <div class="col-md-6">
-      <div class="card">
-        <div class="card-body">
-          <h5 class="card-title">Summary</h5>
-          <p class="mb-1"><strong>Total Props:</strong> {{ totalProps }}</p>
-          <p class="mb-0"><strong>Displayed:</strong> {{ filteredCount }}</p>
+
+      <!-- Exchange Filter -->
+      <div class="col-md-3">
+        <div class="filter-group">
+          <label class="filter-label">Exchange</label>
+          <select 
+            class="form-select form-select-sm"
+            [(ngModel)]="filterExchange"
+            (ngModelChange)="onFilterChange()"
+          >
+            <option value="all">All Exchanges</option>
+            <option value="ProphetX">ProphetX</option>
+            <option value="Novig">Novig</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Sort Options -->
+      <div class="col-md-2">
+        <div class="filter-group">
+          <label class="filter-label">Sort By</label>
+          <div class="sort-buttons">
+            <button 
+              class="sort-btn"
+              [class.active]="sortBy === 'average_odds'"
+              (click)="onSortChange('average_odds')"
+              title="Sort by average odds"
+            >
+              AVG {{ sortDescending && sortBy === 'average_odds' ? '↓' : '↑' }}
+            </button>
+            <button 
+              class="sort-btn"
+              [class.active]="sortBy === 'best_odds'"
+              (click)="onSortChange('best_odds')"
+              title="Sort by best odds"
+            >
+              BEST {{ sortDescending && sortBy === 'best_odds' ? '↓' : '↑' }}
+            </button>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Props Table -->
-  <div class="row">
-    <div class="col">
-      <div class="card">
-        <div class="card-header">
-          <h5 class="mb-0">Props</h5>
-        </div>
-        <div class="card-body p-0">
-          <div class="table-responsive">
-            <table class="table table-hover table-striped mb-0">
-              <thead class="table-light">
-                <tr>
-                  <th>Player</th>
-                  <th>Prop Type</th>
-                  <th class="text-end">Line</th>
-                  <th class="text-end">Odds</th>
-                  <th class="text-center">Books</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr *ngFor="let prop of displayedProps">
-                  <td>{{ prop.entity_name }}</td>
-                  <td>
-                    <span class="badge bg-light text-dark border">
-                      {{ prop.type_display }}
-                    </span>
-                  </td>
-                  <td class="text-end">{{ prop.line }}</td>
-                  <td class="text-end">
-                    <span [class]="prop.odds >= oddsThreshold ? 'text-success fw-bold' : ''">
-                      {{ prop.odds > 0 ? '+' : '' }}{{ prop.odds }}
-                    </span>
-                  </td>
-                  <td class="text-center">
-                    <span class="badge bg-secondary">{{ prop.books }}</span>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
+  <!-- Props Table Section -->
+  <div class="props-section">
+    <div class="section-header">
+      <h2>Available Props</h2>
+      <span class="badge bg-primary">{{ filteredProps.length }} shown</span>
+    </div>
+
+    <div class="table-responsive">
+      <table class="props-table">
+        <thead>
+          <tr>
+            <th class="col-player">Player</th>
+            <th class="col-prop">Prop Type</th>
+            <th class="col-line">Splash Line</th>
+            <th class="col-odds">Market Odds</th>
+            <th class="col-average">Average</th>
+            <th class="col-exchanges">Exchanges</th>
+            <th class="col-actions">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngIf="filteredProps.length === 0" class="empty-state">
+            <td colspan="7" class="text-center py-5">
+              <p class="text-muted mb-2">No props match your criteria</p>
+              <small class="text-muted">Try adjusting your filters or enter odds for available props</small>
+            </td>
+          </tr>
+
+          <tr *ngFor="let prop of filteredProps" 
+              [class.value-play]="prop.is_value_play"
+              class="prop-row">
+            <!-- Player Name -->
+            <td class="col-player">
+              <div class="player-info">
+                <strong>{{ prop.entity_name }}</strong>
+              </div>
+            </td>
+
+            <!-- Prop Type -->
+            <td class="col-prop">
+              <span class="badge bg-light text-dark">{{ prop.type_display }}</span>
+            </td>
+
+            <!-- Splash Line -->
+            <td class="col-line">
+              <span class="line-badge">{{ prop.line }}</span>
+            </td>
+
+            <!-- Market Odds Entry -->
+            <td class="col-odds">
+              <div class="odds-entry-cell">
+                <div *ngIf="prop.odds_entries.length === 0" class="empty-odds">
+                  <button 
+                    class="btn btn-sm btn-outline-primary"
+                    (click)="setEditingProp(prop.id)"
+                  >
+                    + Add Odds
+                  </button>
+                </div>
+
+                <div *ngIf="editingPropId === prop.id" class="odds-form">
+                  <div class="input-group input-group-sm mb-2">
+                    <input 
+                      type="text" 
+                      class="form-control" 
+                      placeholder="Sportsbook"
+                      [(ngModel)]="newOddsEntry.sportsbook"
+                    />
+                    <input 
+                      type="number" 
+                      class="form-control" 
+                      placeholder="Odds (e.g., -135)"
+                      [(ngModel)]="newOddsEntry.odds"
+                    />
+                    <select class="form-select form-select-sm" [(ngModel)]="newOddsEntry.exchange">
+                      <option value="">Exchange</option>
+                      <option value="ProphetX">ProphetX</option>
+                      <option value="Novig">Novig</option>
+                      <option value="Other">Other</option>
+                    </select>
+                  </div>
+                  <div class="d-flex gap-2">
+                    <button 
+                      class="btn btn-sm btn-success"
+                      (click)="addOddsEntry(prop.id)"
+                    >
+                      ✓ Add
+                    </button>
+                    <button 
+                      class="btn btn-sm btn-secondary"
+                      (click)="setEditingProp(null)"
+                    >
+                      ✕ Cancel
+                    </button>
+                  </div>
+                </div>
+
+                <div *ngIf="editingPropId !== prop.id && prop.odds_entries.length > 0" class="odds-list">
+                  <div *ngFor="let entry of prop.odds_entries; let i = index" class="odds-item">
+                    <div class="odds-item-content">
+                      <strong [ngClass]="getOddsColor(entry.odds)">{{ entry.odds }}</strong>
+                      <span class="odds-item-label">{{ entry.sportsbook }}</span>
+                      <span *ngIf="entry.exchange" class="exchange-badge">{{ entry.exchange }}</span>
+                    </div>
+                    <button 
+                      class="btn btn-sm btn-link text-danger p-0"
+                      (click)="removeOddsEntry(prop.id, i)"
+                      title="Remove this odds entry"
+                    >
+                      ✕
+                    </button>
+                  </div>
+                  <button 
+                    class="btn btn-sm btn-outline-primary mt-2 w-100"
+                    (click)="setEditingProp(prop.id)"
+                  >
+                    + Add Another
+                  </button>
+                </div>
+              </div>
+            </td>
+
+            <!-- Average Odds -->
+            <td class="col-average text-center">
+              <div *ngIf="prop.average_odds !== undefined" class="average-odds">
+                <strong [ngClass]="getOddsColor(prop.average_odds)">{{ prop.average_odds }}</strong>
+                <div class="text-muted small">
+                  {{ oddsToImpliedProbability(prop.average_odds) }}% win prob
+                </div>
+              </div>
+              <div *ngIf="prop.average_odds === undefined" class="text-muted">
+                —
+              </div>
+            </td>
+
+            <!-- Exchanges Included -->
+            <td class="col-exchanges">
+              <div *ngIf="prop.exchanges_included && prop.exchanges_included.length > 0" class="exchange-badges">
+                <span *ngFor="let exchange of prop.exchanges_included" class="exchange-badge-primary">
+                  {{ exchange }}
+                </span>
+              </div>
+              <div *ngIf="!prop.exchanges_included || prop.exchanges_included.length === 0" class="text-muted small">
+                —
+              </div>
+            </td>
+
+            <!-- Actions -->
+            <td class="col-actions">
+              <div class="action-buttons">
+                <button 
+                  class="btn btn-sm btn-outline-success"
+                  *ngIf="prop.is_value_play"
+                  title="This is a value play!"
+                >
+                  ⭐ Value
+                </button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Legend -->
+    <div class="table-legend">
+      <div class="legend-item">
+        <span class="legend-color good"></span>
+        <span>Great odds (≤ -150)</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-color okay"></span>
+        <span>Good odds (-135 to -150)</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-color poor"></span>
+        <span>Fair odds (-110 to -135)</span>
       </div>
     </div>
+  </div>
+
+  <!-- Tips Section -->
+  <div class="tips-section">
+    <h5>💡 Quick Tips</h5>
+    <ul>
+      <li><strong>Add Market Odds:</strong> Click "+ Add Odds" to manually enter odds from Unabated</li>
+      <li><strong>Track Exchanges:</strong> Mark ProphetX and Novig for higher liquidity plays</li>
+      <li><strong>Value Plays:</strong> Props marked with ⭐ are better than -135 threshold</li>
+      <li><strong>Implied Probability:</strong> See what the market thinks the true win probability is</li>
+      <li><strong>Average Odds:</strong> Simple average across all entered odds—directionally correct, not precise</li>
+    </ul>
   </div>
 </div>

@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { PropDataService } from './prop-data';
+import { PropsService } from './props';
 
 describe('PropData', () => {
-  let service: PropDataService;
+  let service: PropsService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(PropDataService);
+    service = TestBed.inject(PropsService);
   });
 
   it('should be created', () => {
