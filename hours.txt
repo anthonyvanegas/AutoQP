@@ -7,6 +7,9 @@
     - 11-12pm (1 hour): Enviornment Creation
     - 12-3:30 (3.5 hours): Initial Dashboard Creation
     - 6-7pm (1 hour): Dockerization of the Front End
+- 11/08/25
+    - 9:30am-10:30am (1 hour): Unabated Webscrape tried, gathered spank odds data instead
 - 11/10/25
-    - 9:30-10:30 (1 hour): Unabated Webscrape tried, gathered spank odds data instead
-        
+    - 2pm-3pm (1 hour): Code clean-up & feature documentation
+    - 8pm-10pm (2 hours): Creating Data Viewing Screen (important for data verification)
+    - 
