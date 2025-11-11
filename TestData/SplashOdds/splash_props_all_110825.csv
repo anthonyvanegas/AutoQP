@@ -1,0 +1,1849 @@
+id,entity_name,league,team,type_display,line
+prop_690f622c77e2ed7d7e297b59b8bab21a,Kevin Jennings,ncaaf,SMU,Pass Yds,283.5
+prop_690f5b24e6179ef11b17081646be543f,Lewis Bond,ncaaf,BC,Rec Yds,74.5
+prop_690f5570ab0c6f9f11c8b832052e179f,Jordan Hudson,ncaaf,SMU,Rec Yds,69.5
+prop_690a28dd462e7a3877bca072c8f2d70b,Turbo Richard,ncaaf,BC,Rush Yds,49.5
+prop_690e2e13db7783e88b2dbed213d248da,Romello Brinson,ncaaf,SMU,Rec Yds,49.5
+prop_690f5084d96efd66b765c82bbf1f1170,TJ Harden,ncaaf,SMU,Rush Yds,46.5
+prop_690f578c2564de323e6ab475281fe1dc,Behren Morton,ncaaf,TTU,Pass Yds,254.5
+prop_690f5c78d3ab3359066ae33ac5fbef37,Bear Bachmeier,ncaaf,BYU,Pass Yds,195.5
+prop_690f5c78ee2dfc5f139b4a79e657ce8a,Cameron Dickey,ncaaf,TTU,Rush Yds,77.5
+prop_690f61239c1dc67cf1d7e536c8698e76,LJ Martin,ncaaf,BYU,Rush Yds,66.5
+prop_690ef62f966cea744666691d7da18d37,Caleb Douglas,ncaaf,TTU,Rec Yds,65.5
+prop_690e5936a4bc8696caddbcff6be9ca0d,Chase Roberts,ncaaf,BYU,Rec Yds,60.5
+prop_690ef5218f3270949d2b41fe259c682f,J'Koby Williams,ncaaf,TTU,Rush Yds,63.5
+prop_690f58a464f742191347cc99862bb151,Parker Kingston,ncaaf,BYU,Rec Yds,52.5
+prop_690f64939116f27bb67c80fb4ae381a1,Coy Eakin,ncaaf,TTU,Rec Yds,47.5
+prop_690ed7dfec8c06e355c70004a54f0d62,Bear Bachmeier,ncaaf,BYU,Rush Yds,43.5
+prop_690f578c235bc07e647b272f591bc92a,Reggie Virgil,ncaaf,TTU,Rec Yds,44.5
+prop_690eb5d55cc56ea465b2028e6a19314a,Carsen Ryan,ncaaf,BYU,Rec Yds,26.5
+prop_690e908706ac6333b4df18cc169cce14,Terrance Carter Jr.,ncaaf,TTU,Rec Yds,42.5
+prop_690ee36f01a895ed1297b538c7a936f3,J'Koby Williams,ncaaf,TTU,Rec Yds,20.5
+prop_690f5e94cf0fd3e6790dde321ddf39c5,Fernando Mendoza,ncaaf,IND,Pass Yds,238.5
+prop_690ebbd3ebbc7ceaa968b45b8b6df991,Ethan Grunkemeyer,ncaaf,PSU,Pass Yds,145.5
+prop_690f5c7802fe8b91daca283b711decc5,Roman Hemby,ncaaf,IND,Rush Yds,66.5
+prop_690f5b24a36e755a4fcf56bab0849259,Kaytron Allen,ncaaf,PSU,Rush Yds,70.5
+prop_690f578cf8c5eaffa459d72ed07885ff,Kaelon Black,ncaaf,IND,Rush Yds,49.5
+prop_690f5a201f88bdd8855888e3e56df2d5,Nicholas Singleton,ncaaf,PSU,Rush Yds,36.5
+prop_690eda1f33fd79f59bf20a3acf40604b,Fernando Mendoza,ncaaf,IND,Rush Yds,27.5
+prop_690f4f7197616341e78cf4a9d8605bab,Devonte Ross,ncaaf,PSU,Rec Yds,23.5
+prop_690f44f0fce77ce28df288ffb56000c0,Fernando Mendoza,ncaaf,IND,Pass Comp,18.5
+prop_690f5084ce6719470b1d58852eea3f59,Trebor Pena,ncaaf,PSU,Rec Yds,22.5
+prop_690f6493441acffb879eea838aa0b14b,Ethan Grunkemeyer,ncaaf,PSU,Pass Comp,16.5
+prop_690f5a2054cb733a897ff190e553a467,Nicholas Singleton,ncaaf,PSU,Rec Yds,14.5
+prop_690f6493fde9688b56df843753b82424,Gunner Stockton,ncaaf,UGA,Pass Yds,235.5
+prop_690f578ca10b4392ef278f840bb273e9,Blake Shapen,ncaaf,MSST,Pass Yds,225.5
+prop_690f4aa86190e04335d5fbaa9c13244d,Zachariah Branch,ncaaf,UGA,Rec Yds,68.5
+prop_690f58a4573b0468ab839c54b0aa0159,Brenen Thompson,ncaaf,MSST,Rec Yds,63.5
+prop_690f61239ffb72fa62774ed922531a92,Nate Frazier,ncaaf,UGA,Rush Yds,57.5
+prop_690f638a397b52719b91d4b026a5601c,Anthony Evans III,ncaaf,MSST,Rec Yds,61.5
+prop_690ed0cdb098f6eb5cf8457c004c339d,Gunner Stockton,ncaaf,UGA,Rush Yds,39.5
+prop_690e6f661a1a259abce68b535ffdc32f,Seydou Traore,ncaaf,MSST,Rec Yds,26.5
+prop_690f578c18125e3f7c7c7bc82e24cf1b,Dillon Bell,ncaaf,UGA,Rec Yds,26.5
+prop_690f64931fd7e87fd62b9be6fc104049,Blake Shapen,ncaaf,MSST,Pass Comp,18.5
+prop_690e9c30cf53b24345f5f76f7b53f80c,London Humphreys,ncaaf,UGA,Rec Yds,19.5
+prop_690f1ae73a17985533877b9365a063b6,Oscar Delp,ncaaf,UGA,Rec Yds,16.5
+prop_690f508497a1c093a27369f8d5fc9a12,Scotty Fox Jr.,ncaaf,WVU,Pass Yds,182.5
+prop_690f6493f39bc25aca1e4bc52f85fc6a,Omarion Miller,ncaaf,COLO,Rec Yds,63.5
+prop_690f638af2f26f02bcebec8aeb13af22,Diore Hubbard,ncaaf,WVU,Rush Yds,82.5
+prop_690f12a9733eab3cbf494311e969d546,Joseph Williams,ncaaf,COLO,Rec Yds,50.5
+prop_690f12a9037feaa1595b3e5df4bb16f3,Cam Vaughn,ncaaf,WVU,Rec Yds,48.5
+prop_690f578cce2194537d830219c9a1c7f0,Scotty Fox Jr.,ncaaf,WVU,Rush Yds,40.5
+prop_690f6493106eb096a62818ee4174eb2a,Khalil Dinkins,ncaaf,PSU,Rec Yds,10.5
+prop_690f540d94ecd9cc4d1e797118264e19,Kaytron Allen,ncaaf,PSU,Rec Yds,10.5
+prop_690e8a78ce269c5063246f0a1cd2baee,Cameron Dickey,ncaaf,TTU,Rec Yds,8.5
+prop_690f4756742473c850619ac0fd81bf96,Terrance Carter Jr.,ncaaf,TTU,Rec,3.5
+prop_690bd6f288a2a500826e29d26af42b1c,Peyton Woodring,ncaaf,UGA,Kicking Pts,7.5
+prop_690f4e63057fd0ebc146860b17781774,Kyle Ferrie,ncaaf,MSST,Kicking Pts,6.5
+prop_690a42a5ab978f52344586d149e1d686,Gunner Stockton,ncaaf,UGA,Pass TDs,1.5
+prop_690f47560ad788391488b56f25ffe351,Anthony Evans III,ncaaf,MSST,Rec,5.5
+prop_690bd6f2cd44dea15f1e2d7dd5ee7ae8,Gunner Stockton,ncaaf,UGA,INT,0.5
+prop_690e6d5ef0a25c68e3e4703aedbe4958,Luca Lombardo,ncaaf,BC,Kicking Pts,5.5
+prop_690cc152ae3f600a436663d4ae58224a,Kevin Jennings,ncaaf,SMU,INT,0.5
+prop_690f4756d4552e4d0765b9d81e08a9ea,Omarion Miller,ncaaf,COLO,Rec,4.5
+prop_690f567ef7bc5e9d4f6defbfd7ad2b37,Cam Vaughn,ncaaf,WVU,Rec,3.5
+prop_690ea273f459080ff8e4989e10c9a2a0,Jack Hughes,nhl,NJ,Shots on Goal,3.5
+prop_690ea273023d98f55b791f3177b4b940,Sidney Crosby,nhl,PIT,Shots on Goal,2.5
+prop_690ea5114554546316241012dea5b5af,Stefan Noesen,nhl,NJ,Shots on Goal,1.5
+prop_690f6055cf203b743d532c5fd4896cb8,Kris Letang,nhl,PIT,Shots on Goal,1.5
+prop_690ea511e94139038654087495bfdb34,Dawson Mercer,nhl,NJ,Points,0.5
+prop_690f55e2cbc92b96bf4b7651674eaaaa,Sidney Crosby,nhl,PIT,Assists,0.5
+prop_690eac15aa1aa6479c45ad6b0cfe04e1,Jack Hughes,nhl,NJ,Assists,0.5
+prop_690ea511cb82e857d20e0e847863ad09,Erik Karlsson,nhl,PIT,Points,0.5
+prop_690ea511da322321f50c656caa6de3dd,Luke Hughes,nhl,NJ,Points,0.5
+prop_690ea511bbb5076d98762cd7971248e1,Evgeni Malkin,nhl,PIT,Assists,0.5
+prop_690eac15be458910704069f862e2b841,Timo Meier,nhl,NJ,Points,0.5
+prop_690f56e6f956d7a1a4b568576de4844a,Ben Kindel,nhl,PIT,Points,0.5
+prop_690f567e06a91f5edede01001511b57b,Julian Sayin,ncaaf,OSU,Pass Yds,300.5
+prop_690f45f40f9f06579be8c99a78e6e2d4,Michael Jackson III,ncaaf,PUR,Rec Yds,42.5
+prop_690f612376e83781ed1bdd6774e8862d,Jeremiah Smith,ncaaf,OSU,Rec Yds,89.5
+prop_690f45f41d8c2889d16428f38db7f497,Nitro Tuggle,ncaaf,PUR,Rec Yds,32.5
+prop_690f638abca278e909e0d5e02f952930,Carnell Tate,ncaaf,OSU,Rec Yds,78.5
+prop_690f45f47a782c2722f12bbf31bf7eaf,EJ Horton Jr.,ncaaf,PUR,Rec Yds,26.5
+prop_690f5b2442b25d0cf8764aa3a0829919,Bo Jackson,ncaaf,OSU,Rush Yds,71.5
+prop_690f3c7b93c536777efb756ef9901290,Max Klare,ncaaf,OSU,Rec Yds,30.5
+prop_690e603966d0fbc5e6eda5b526f1e2b5,Brandon Inniss,ncaaf,OSU,Rec Yds,23.5
+prop_690e603982bcb05e2c24120e86796155,CJ Donaldson,ncaaf,OSU,Rush Yds,21.5
+prop_690f4152bfc9fe3e0b096817a626dd12,Julian Sayin,ncaaf,OSU,Pass Comp,21.5
+prop_690e7560176dca38d17218ca10e5f3fc,Bo Jackson,ncaaf,OSU,Rec Yds,11.5
+prop_690ed1e06f050949df43b72c3e8cfafd,Julian Sayin,ncaaf,OSU,Rush Yds,5.5
+prop_690ea273abc25d28405b106a1d740538,Owen Tippett,nhl,PHI,Shots on Goal,2.5
+prop_690ea273f31cf61b8b6d2a6e487e7b88,Thomas Chabot,nhl,OTT,Shots on Goal,1.5
+prop_690ea2735e96d887f03f588a0fe07fb8,Bobby Brink,nhl,PHI,Shots on Goal,1.5
+prop_690ea511ce18f62da771c02e5089aeb7,Jake Sanderson,nhl,OTT,Points,0.5
+prop_690ea5114369f59b58a4def923f61ddb,Noah Cates,nhl,PHI,Shots on Goal,1.5
+prop_690f57e57ae8640e64ab8fd0244f73e5,Tim Stutzle,nhl,OTT,Assists,0.5
+prop_690ea5115acbcbc4eb201b088f68b766,Matvei Michkov,nhl,PHI,Points,0.5
+prop_690ea51114a2f3bb26bcb96e8c1e7c36,Dylan Cozens,nhl,OTT,Points,0.5
+prop_690ea511e554c905a0eba5334e4999e7,Sean Couturier,nhl,PHI,Points,0.5
+prop_690ea5118f255989dfff164fde28c4f3,Shane Pinto,nhl,OTT,Points,0.5
+prop_690f5e944d34eaaee35c3607a9ea4641,Athan Kaliakmanis,ncaaf,RUTG,Pass Yds,272.5
+prop_690f508455beedf164d63cd239a5392b,Malik Washington,ncaaf,MD,Pass Yds,261.5
+prop_690ee00913c28db95389d3cf77fb0f4b,Ian Strong,ncaaf,RUTG,Rec Yds,82.5
+prop_690f649394e7bde75291ad54c93de657,DeJuan Williams,ncaaf,MD,Rush Yds,47.5
+prop_690c984e158e1f37f77f3bd07eb92211,KJ Duff,ncaaf,RUTG,Rec Yds,79.5
+prop_690e2f115bac7323a4fcc7ec6844d6d3,Shaleak Knotts,ncaaf,MD,Rec Yds,44.5
+prop_690ef2fbc2134cd44ff80ed03774a422,Antwan Raymond,ncaaf,RUTG,Rush Yds,70.5
+prop_690ca40505b73bdb36b33fefb20a35d5,Jalil Farooq,ncaaf,MD,Rec Yds,40.5
+prop_690ecc05b6143a28ba8a502cf146a354,DT Sheffield,ncaaf,RUTG,Rec Yds,39.5
+prop_690e05f80a6415d41b0afd07a6c7254d,Dorian Fleming,ncaaf,MD,Rec Yds,36.5
+prop_690ecc05460f74a6c4eff831cb4d65d4,Athan Kaliakmanis,ncaaf,RUTG,Pass Comp,21.5
+prop_690ecd63942ce747994e9776e6279bbc,Malik Washington,ncaaf,MD,Pass Comp,21.5
+prop_690f4756bfc70abf01b55ea4499432c2,KJ Duff,ncaaf,RUTG,Rec,5.5
+prop_690b7a5d307eabe6be5d5c370a8c797e,Athan Kaliakmanis,ncaaf,RUTG,Pass TDs,1.5
+prop_690f5c788eb373d1ac17b6ddaeb9c845,Darian Mensah,ncaaf,DUKE,Pass Yds,298.5
+prop_690f61239439aba128df94b560530d8d,Joe Fagnano,ncaaf,CONN,Pass Yds,282.5
+prop_690ee009137f1403b9367f183c47cb5a,Cooper Barkate,ncaaf,DUKE,Rec Yds,82.5
+prop_690f5e9428ed927b775329aa52c90dfe,Skyler Bell,ncaaf,CONN,Rec Yds,111.5
+prop_690f540d79d17ca68acda2125979cf5e,Nate Sheppard,ncaaf,DUKE,Rush Yds,77.5
+prop_690f578c717924aa71314ca1425bd6de,Cam Edwards,ncaaf,CONN,Rush Yds,63.5
+prop_690eb3b9ccc2f628deeb7e6591895e79,Que'Sean Brown,ncaaf,DUKE,Rec Yds,59.5
+prop_690f55707f5342c4bd71cd47dbd6d041,Sahmir Hagans,ncaaf,DUKE,Rec Yds,43.5
+prop_690ed7df2af17b37f0a73d228af8d186,Josh Hoover,ncaaf,TCU,Pass Yds,275.5
+prop_690f5a209e37b2a5b02248325f6f6f9e,Rocco Becht,ncaaf,ISU,Pass Yds,230.5
+prop_690f4e6310d623bbef235729525606a4,Eric McAlister,ncaaf,TCU,Rec Yds,82.5
+prop_690e11a677e3fdc8b6fe41b9f954e8e0,Carson Hansen,ncaaf,ISU,Rush Yds,80.5
+prop_690a9bb6be8f4a131a96680482e91427,Jordan Dwyer,ncaaf,TCU,Rec Yds,40.5
+prop_690ee6fdea2a924c9a7172927e0befe7,Noah Fifita,ncaaf,ARIZ,Pass Yds,252.5
+prop_690f28bdaa6c9b9036ad2da4cff75ca2,Jalon Daniels,ncaaf,KU,Pass Yds,208.5
+prop_690d73945f77e61984f235b7639378be,Kris Hutson,ncaaf,ARIZ,Rec Yds,55.5
+prop_690e4fc2f27fb800589498429dd18e9b,Emmanuel Henderson Jr.,ncaaf,KU,Rec Yds,47.5
+prop_690c68422be59feb2967b3c14371e702,Kedrick Reescano,ncaaf,ARIZ,Rush Yds,48.5
+prop_690e952863ece3aea5f739ee1170e1be,Leshon Williams,ncaaf,KU,Rush Yds,36.5
+prop_690e05f8aee8be8547f9abf45416148b,Javin Whatley,ncaaf,ARIZ,Rec Yds,34.5
+prop_690c6bc62305318b378584b96b0c74dc,Cam Pickett,ncaaf,KU,Rec Yds,35.5
+prop_690f578c89a91b188621e97128d05085,Jalon Daniels,ncaaf,KU,Rush Yds,34.5
+prop_690f622c0ef8d64fab750ea40526078a,Carson Beck,ncaaf,MIA,Pass Yds,243.5
+prop_690f45f43a424e42a173f04754d3fb0c,Malachi Toney,ncaaf,MIA,Rec Yds,79.5
+prop_690ec542cce34e2bc9918e561b379cc1,CharMar Brown,ncaaf,MIA,Rush Yds,74.5
+prop_690ef62f80675466074793a862f83e76,Dante Moore,ncaaf,ORE,Pass Yds,206.5
+prop_690f638acd7b0a78b1217a3bfec3925f,Mark Gronowski,ncaaf,IOWA,Pass Yds,131.5
+prop_690f567e1d28f406325f56ff30cab72a,Dakorien Moore,ncaaf,ORE,Rec Yds,52.5
+prop_690f5c7879217c7b062b73fc7ab3d20d,Kamari Moulton,ncaaf,IOWA,Rush Yds,61.5
+prop_690f5d87bf1c3d23331730d58c2ae092,Noah Whittington,ncaaf,ORE,Rush Yds,47.5
+prop_690f64931e285428b5095f993c35bc17,Jordon Davison,ncaaf,ORE,Rush Yds,41.5
+prop_690ef08adce9d20cf1ee12c4e5664aeb,Matt Zollers,ncaaf,MIZZ,Pass Yds,184.5
+prop_690f5a20175ea14b92e48bc118ac464b,Mario Craver,ncaaf,TXAM,Rec Yds,63.5
+prop_690f5fad63dfcf2653c49f2fc366c253,Ahmad Hardy,ncaaf,MIZZ,Rush Yds,92.5
+prop_690f638aa2d600c2b4eff0bb425f39a3,Rueben Owens II,ncaaf,TXAM,Rush Yds,59.5
+prop_690eb85ee7fad49a7dceb4a416f4f31d,Kevin Coleman Jr.,ncaaf,MIZZ,Rec Yds,50.5
+prop_690e211db5deadec71b95002b4e1a9b0,KC Concepcion,ncaaf,TXAM,Rec Yds,52.5
+prop_690eafda84ed84f284063340a5ad372d,Jamal Roberts,ncaaf,MIZZ,Rush Yds,38.5
+prop_690eda1f09a85e26be8e8d39b4f986c9,Mark Gronowski,ncaaf,IOWA,Rush Yds,33.5
+prop_690f540d1cb1f1ee402640fca4693e58,Gary Bryant Jr.,ncaaf,ORE,Rec Yds,31.5
+prop_690f540d30ec25f3def300e2da697f24,Jacob Gill,ncaaf,IOWA,Rec Yds,15.5
+prop_690f567e17bc18f363802a357276f407,Kenyon Sadiq,ncaaf,ORE,Rec Yds,31.5
+prop_690f540dfd59f8943f5de99192224072,Kamari Moulton,ncaaf,IOWA,Rec Yds,9.5
+prop_690f496d839785abedfed1a21cbc56c7,Dante Moore,ncaaf,ORE,Rush Yds,13.5
+prop_690e8276dbd318a0cc21d8ccfd0c99ce,Drew Stevens,ncaaf,IOWA,Kicking Pts,5.5
+prop_690e7f06d4919384e0947f5389082934,Noah Whittington,ncaaf,ORE,Rec Yds,5.5
+prop_690a28dde47ca0c3223707811c035f80,Mark Gronowski,ncaaf,IOWA,Pass TDs,0.5
+prop_690d054a01bf81ebd6e682f0de952eb1,Dakorien Moore,ncaaf,ORE,Rec,3.5
+prop_690e60399a1ec1ff4b4c80f4ebc8b428,Mark Gronowski,ncaaf,IOWA,INT,0.5
+prop_690d32fe2d67a62b829329a794a6bee9,Dante Moore,ncaaf,ORE,Pass TDs,1.5
+prop_690ad521cd5f9883bf6fed5f33f4f237,Dante Moore,ncaaf,ORE,INT,0.5
+prop_690f530e8465266b5e3ff58a1dd1d1c2,Boden Groen,ncaaf,KU,Rec Yds,28.5
+prop_690c6cf164fca0c8dead0ffd37f3bc35,Michael Salgado-Medina,ncaaf,ARIZ,Kicking Pts,6.5
+prop_690ba93e7b4f4a6190af050cf9778a5f,Laith Marjan,ncaaf,KU,Kicking Pts,6.5
+prop_690f05668c1da6a5b453d11072196aba,Kris Hutson,ncaaf,ARIZ,Rec,4.5
+prop_690f0566d8897eb937220a8d497e4d55,Javin Whatley,ncaaf,ARIZ,Rec,3.5
+prop_690f4f71d46e699565324ae1b3fa2363,Marquis Johnson,ncaaf,MIZZ,Rec Yds,27.5
+prop_690f578c0a1f6f2a9a55579d825e86f7,Donovan Olugbode,ncaaf,MIZZ,Rec Yds,24.5
+prop_690e6d5edd82f26b41395410357a4939,Joshua Manning,ncaaf,MIZZ,Rec Yds,24.5
+prop_690b7229c9a7a50a51b957281fa5beea,Robert Meyer,ncaaf,MIZZ,Kicking Pts,5.5
+prop_690b7229d511cfa2c29a59ef718a2c54,Matt Zollers,ncaaf,MIZZ,INT,0.5
+prop_690e8276da4469e2e7874f375cf54cc2,Carson Hansen,ncaaf,ISU,Rec Yds,8.5
+prop_690f496dce8ce3130588ca4c5927170c,Eric McAlister,ncaaf,TCU,Rec,6.5
+prop_690e33a25165a473a849bb47201f4feb,Rocco Becht,ncaaf,ISU,Rush Yds,7.5
+prop_690bbd2aace5fd593e65a622158efde9,Nate McCashland,ncaaf,TCU,Kicking Pts,6.5
+prop_690bb3caba04c12de8a39d6f27489c81,Kyle Konrardy,ncaaf,ISU,Kicking Pts,6.5
+prop_690bbd2a59b1d0b30e67e9e3012c6624,Josh Hoover,ncaaf,TCU,INT,0.5
+prop_690f4756abd38ccf907f0ac57f095557,Chase Sowell,ncaaf,ISU,Rec,3.5
+prop_690aa9c61a3961236ff0c69093a85f43,Rocco Becht,ncaaf,ISU,Pass TDs,1.5
+prop_690c406bf560db6b597d98aec4450a90,Todd Pelino,ncaaf,DUKE,Kicking Pts,7.5
+prop_690f58a454371b40b85bead30b9dd33f,Chris Freeman,ncaaf,CONN,Kicking Pts,6.5
+prop_690eaa4e55e902f292eda29e78e066c8,Darian Mensah,ncaaf,DUKE,Pass TDs,2.5
+prop_690e54bda61caa546760c83367fe1a3a,Tripp Woody,ncaaf,SYR,Kicking Pts,3.5
+prop_690edd37d3bfbb910f93d304bf4fd393,Mikko Rantanen,nhl,DAL,Shots on Goal,2.5
+prop_690ea3868c85cdca87fec112ec9e1649,Michael Bunting,nhl,NSH,Shots on Goal,1.5
+prop_690ea38639313d087d3c5cf7cb91e8d7,Thomas Harley,nhl,DAL,Shots on Goal,1.5
+prop_690ea511dcda85d86cf5f9f9f2517fa5,Erik Haula,nhl,NSH,Shots on Goal,1.5
+prop_690ea511688efd442bc3af8d175c41ff,Miro Heiskanen,nhl,DAL,Points,0.5
+prop_690ea511c8f63cf1972d65f7906be678,Ryan O'Reilly,nhl,NSH,Points,0.5
+prop_690ea5112671d9b496ef804c43bfc76b,Thomas Harley,nhl,DAL,Points,0.5
+prop_690e291fb4a3c5c45bd0c513ae08a789,Diego Pavia,ncaaf,VAN,Pass Yds,210.5
+prop_690f540d23fc241814eecffede15d22a,Ashton Daniels,ncaaf,AUB,Pass Yds,162.5
+prop_690e880cc5381c365390041a1d5d57ec,Eli Stowers,ncaaf,VAN,Rec Yds,59.5
+prop_690f5fada6a7fc4daa65afd2397c38ec,Jeremiah Cobb,ncaaf,AUB,Rush Yds,76.5
+prop_690f5d87dfa0f483b665602a1400e1ea,Junior Sherrill,ncaaf,VAN,Rec Yds,43.5
+prop_690ea4544841baefd1593b46b60dcadb,Cam Coleman,ncaaf,AUB,Rec Yds,47.5
+prop_690eb85ec0108f938697c76c6098933f,Diego Pavia,ncaaf,VAN,Rush Yds,43.5
+prop_690f426ac7a95a971b09b13c2c75af90,Ashton Daniels,ncaaf,AUB,Rush Yds,45.5
+prop_690f5b24d15782ffa45fb6aed0faee48,Eric Singleton Jr.,ncaaf,AUB,Rec Yds,35.5
+prop_690db67ad261c2a5f66082c786a258b3,Tre Richardson,ncaaf,VAN,Rec Yds,30.5
+prop_690db67a40463a58a314a8ae9f1342c4,Alex McPherson,ncaaf,AUB,Kicking Pts,5.5
+prop_690f4f71bdc57364301bd58d73339f7c,Richie Hoskins,ncaaf,VAN,Rec Yds,21.5
+prop_690ecfc4f368b3d5fe371b31a1dddecb,Jeremiah Cobb,ncaaf,AUB,Rec Yds,5.5
+prop_690db67a869f7440453624ce7f1f5d97,Diego Pavia,ncaaf,VAN,INT,0.5
+prop_690f5a201c0f6da443dc23e20acf8cda,Demond Williams Jr.,ncaaf,WASH,Pass Yds,241.5
+prop_690f4e632975b1e77fe3c854f76dc5dd,Jonah Coleman,ncaaf,WASH,Rush Yds,74.5
+prop_690ecfc4e36af343bbb24fc86fca39fd,Denzel Boston,ncaaf,WASH,Rec Yds,68.5
+prop_690f6123f6bd70f9b831e067347b55c8,Demond Williams Jr.,ncaaf,WASH,Rush Yds,47.5
+prop_690f578c65439a019f4d16837e16a77b,Dezmen Roebuck,ncaaf,WASH,Rec Yds,42.5
+prop_690f426a9a15ee77520996f5d1fb1dbe,Raiden Vines-Bright,ncaaf,WASH,Rec Yds,30.5
+prop_690f426a6df03fb784aaa70e108ff323,Decker DeGraaf,ncaaf,WASH,Rec Yds,25.5
+prop_690f426a4a2246a1a9a71dfb9f0a8a49,Jonah Coleman,ncaaf,WASH,Rec Yds,21.5
+prop_690f47566701e22016025a4d8e4cb0da,Denzel Boston,ncaaf,WASH,Rec,5.5
+prop_690e4a360f42f0f12d229f7b02eae14b,Demond Williams Jr.,ncaaf,WASH,Pass TDs,1.5
+prop_690be502286a8ee88df642acf98c864c,Demond Williams Jr.,ncaaf,WASH,INT,0.5
+prop_690f5a20d05a6dd5a780de56969860b1,Gio Lopez,ncaaf,UNC,Pass Yds,195.5
+prop_690f5a20131f3921d38ca352e5e5c9fa,Jordan Shipp,ncaaf,UNC,Rec Yds,45.5
+prop_690f6493a1df1eb1a2180a9254018ab0,Kobe Paysour,ncaaf,UNC,Rec Yds,39.5
+prop_690d36849bbb6a6ad02cc280cf525080,Rece Verhoff,ncaaf,UNC,Kicking Pts,6.5
+prop_690d368492eeff4dbc661baeacd74e64,Gio Lopez,ncaaf,UNC,INT,0.5
+prop_690f530e434f803806ca8dec0e442be2,Cade Klubnik,ncaaf,CLEM,Pass Yds,278.5
+prop_690f578cb3f770e16e0c8ce67ac304e6,Tommy Castellanos,ncaaf,FSU,Pass Yds,224.5
+prop_690f64932bb9a0abe6536052f78d6174,Adam Randall,ncaaf,CLEM,Rush Yds,56.5
+prop_690f612351d6fdbde4161d1906812156,Micahi Danzy,ncaaf,FSU,Rec Yds,51.5
+prop_690f638a23f7232ace2e4fcdf4071f95,Tristan Smith,ncaaf,CLEM,Rec Yds,36.5
+prop_690f5fade7a49a4eca22b4f980330c13,Gavin Sawchuk,ncaaf,FSU,Rush Yds,48.5
+prop_690f61237a59a06f83f3245b9b3a6554,Tommy Castellanos,ncaaf,FSU,Rush Yds,34.5
+prop_690f5b242d8d74174c0fe70c7d9dad58,Miller Moss,ncaaf,LOU,Pass Yds,263.5
+prop_690f5b24170b165d34d9d522be3b87b4,Jaron-Keawe Sagapolutele,ncaaf,CAL,Pass Yds,215.5
+prop_690d5545ab33ccb7059d46806916cf2c,Chris Bell,ncaaf,LOU,Rec Yds,87.5
+prop_690e85ffeafcc01c801f406f413723a7,Jacob De Jesus,ncaaf,CAL,Rec Yds,57.5
+prop_690d32fe1046dbd5f7411fff503f538e,Caullin Lacy,ncaaf,LOU,Rec Yds,50.5
+prop_690f5b240f19381a5eedcc969818c0b8,Kendrick Raphael,ncaaf,CAL,Rush Yds,56.5
+prop_690e4fc23db77086793b8cee3fa9174d,Trond Grizzell,ncaaf,CAL,Rec Yds,37.5
+prop_690f323e8a28ea70bb6b0f7e1e826945,Mason Mini,ncaaf,CAL,Rec Yds,32.5
+prop_690ea1ca5f6035b66bbedef2001121ff,Chandler Morris,ncaaf,UVA,Pass Yds,222.5
+prop_690f578c14dabdc8d8bcffc58d65b07e,Robby Ashford,ncaaf,WAKE,Pass Yds,179.5
+prop_690d0d7ec3ea6e73558619e7ce572a5a,J'Mari Taylor,ncaaf,UVA,Rush Yds,86.5
+prop_690cd66a90f44b18c932cc787264d1fd,Demond Claiborne,ncaaf,WAKE,Rush Yds,70.5
+prop_690f578c773a04076e67eb3d10bb9086,Trell Harris,ncaaf,UVA,Rec Yds,48.5
+prop_690ea6bd877b0919e5775c216d2c5d78,Chris Barnes,ncaaf,WAKE,Rec Yds,53.5
+prop_690cd66a3f4ee41ec3ccbf963bb72830,Cam Ross,ncaaf,UVA,Rec Yds,44.5
+prop_690cf15e5074ccb72d50b9e147a5f3d4,Sterling Berkhalter,ncaaf,WAKE,Rec Yds,35.5
+prop_690e4a3603e4930a807962778aeb8233,Jahmal Edrine,ncaaf,UVA,Rec Yds,40.5
+prop_690ee63be637eecfb49cd65c3d8c8eeb,Cooper Flagg,nba,DAL,Pts+Reb+Asts,29.5
+prop_690f1f6e8afed8810c496b74d3f31c9f,Alex Sarr,nba,WAS,Pts+Reb+Asts,29.5
+prop_690f5c00b1d1f4e6d8d3daf1a2bfff01,P.J. Washington,nba,DAL,Pts+Reb+Asts,29.5
+prop_690f083bd5051a2d2b3cfedbcfcd89e8,P.J. Washington,nba,DAL,Pts+Reb,27.5
+prop_690e6d5e2223b5fcdb3ca361cbf9a204,Sage Ennis,ncaaf,UVA,Rec Yds,27.5
+prop_690ed7df7fe5d9b0b65d199f840d8839,Chandler Morris,ncaaf,UVA,Rush Yds,16.5
+prop_690e4a36a889637bdbd19eab2baf9990,J'Mari Taylor,ncaaf,UVA,Rec Yds,16.5
+prop_690f610e0599d0bd68c96711bcdd4a14,Alex Sarr,nba,WAS,Pts+Reb,26.5
+prop_690ee63b70c48aeec6d3718c9fab5f45,Cooper Flagg,nba,DAL,Pts+Reb,25.5
+prop_690f0df13173e0e91c3651bf5a47c79c,Kyshawn George,nba,WAS,Pts+Reb+Asts,23.5
+prop_690eeb4dcbaa5fca493b56907d5bb0d4,D'Angelo Russell,nba,DAL,Pts+Reb+Asts,23.5
+prop_690eec51bd13d96bf8362667ef3c3737,CJ McCollum,nba,WAS,Pts+Reb+Asts,22.5
+prop_690ee63b880c667abf330a3671666b70,Cooper Flagg,nba,DAL,Pts+Asts,21.5
+prop_690f3de7dc2882622c7cc3c5c16d8486,Alex Sarr,nba,WAS,Pts+Asts,21.5
+prop_690eeb4de93dd8993e2bf5993650ed0d,Max Christie,nba,DAL,Pts+Reb+Asts,20.5
+prop_690eec51b09d9ddca4b4c722deadb423,Kyshawn George,nba,WAS,Pts+Reb,20.5
+prop_690f04bbedf2bc5b49efe2ba5834e39a,P.J. Washington,nba,DAL,Pts+Asts,20.5
+prop_690eec515dc4e2f81e854d7cf9daedcd,Kyshawn George,nba,WAS,Pts+Asts,18.5
+prop_690eeb4dae7b0ebbfbe663d3bb95054f,D'Angelo Russell,nba,DAL,Pts+Asts,20.5
+prop_690eed553d55139539d9e3be7bc29695,CJ McCollum,nba,WAS,Pts+Reb,18.5
+prop_690f630751c6b09ed9b7b4f8e47e53d0,P.J. Washington,nba,DAL,Points,18.5
+prop_690eec51d6d3542acd0c5bbb4c48badd,CJ McCollum,nba,WAS,Pts+Asts,18.5
+prop_690eeb4d01925980a7f65b269d3541c9,Max Christie,nba,DAL,Pts+Reb,17.5
+prop_690f1f6eaf0abd3a5d533f3cd0bb2b58,Tre Johnson,nba,WAS,Pts+Reb+Asts,18.5
+prop_690eeb4d3fe689d7276d2adbaae15b6a,D'Angelo Russell,nba,DAL,Pts+Reb,17.5
+prop_690eed55157411aab10c7683d4417405,Alex Sarr,nba,WAS,Points,17.5
+prop_690f093ffe7f0f4f1bd0eceecf14fe45,Naji Marshall,nba,DAL,Pts+Reb+Asts,17.5
+prop_690eec5132321ce825312edf0a9b85bc,Bub Carrington,nba,WAS,Pts+Reb+Asts,17.5
+prop_690ee63bb803b78da63fec0f789b5372,Cooper Flagg,nba,DAL,Points,17.5
+prop_690f34bd9e3ec1fa6484e36ab57011ba,Tre Johnson,nba,WAS,Pts+Reb,16.5
+prop_690f40d4e4358f8556715a00c7db4ba2,Max Christie,nba,DAL,Pts+Asts,15.5
+prop_690eed551b47f54850b15c7968dd2daf,CJ McCollum,nba,WAS,Points,15.5
+prop_690f58f84003c798d3ab3b18db277e15,Brandon Williams,nba,DAL,Pts+Reb+Asts,15.5
+prop_690efc83345c3d97b1ccf3af7d926965,Kyshawn George,nba,WAS,Points,14.5
+prop_690f05bfecbb520db18f15acd5230d16,Klay Thompson,nba,DAL,Pts+Reb+Asts,15.5
+prop_690f34bd15f6093a7e8100aaa69f46be,Tre Johnson,nba,WAS,Pts+Asts,14.5
+prop_690eeb4d66ff0b598f9f28c7d7cfd4ae,Naji Marshall,nba,DAL,Pts+Reb,14.5
+prop_690f0af657e5bfb651f876eaf87c7b50,Justin Champagnie,nba,WAS,Pts+Reb+Asts,13.5
+prop_690efea644800111c6e377741791dc40,D'Angelo Russell,nba,DAL,Points,14.5
+prop_690eed55a0966a8969a4dc5ad3e861af,Bub Carrington,nba,WAS,Pts+Asts,13.5
+prop_690eeb4d241ae37c6789c68872495f55,Max Christie,nba,DAL,Points,13.5
+prop_690eec5151840a55a92416669cb7a668,Justin Champagnie,nba,WAS,Pts+Reb,12.5
+prop_690eeb4de8bb5ece84233b6236b60f7f,Naji Marshall,nba,DAL,Pts+Asts,12.5
+prop_690eec513e0cda19afa3d2c1dd1245d5,Tre Johnson,nba,WAS,Points,12.5
+prop_690eed5593ece6ec0d5bc2be7b024add,Klay Thompson,nba,DAL,Pts+Reb,12.5
+prop_690f083b4d05090e1a6ddf04be99b98e,Alex Sarr,nba,WAS,Asts+Reb,11.5
+prop_690ee63bd5a63fa42f9bdeee1bc260fc,Cooper Flagg,nba,DAL,Asts+Reb,11.5
+prop_690eec51a15dd6f5773abff13b4c46b1,Bub Carrington,nba,WAS,Pts+Reb,11.5
+prop_690f34bdd2d5de913c94b5b2293a124f,Klay Thompson,nba,DAL,Pts+Asts,11.5
+prop_690f610efd2c2f25603758440ef794db,P.J. Washington,nba,DAL,Asts+Reb,11.5
+prop_690eb85ee593b132cbf43e913dc7531f,Randy Pittman Jr.,ncaaf,FSU,Rec Yds,22.5
+prop_690e766e390e4c960120043dacfb7cb7,Adam Randall,ncaaf,CLEM,Rec Yds,17.5
+prop_690f3ef0b285d673221ff3fc3d1ad94d,Jaron-Keawe Sagapolutele,ncaaf,CAL,Pass Comp,19.5
+prop_690f426ab17de870aca2d9cd6b5d8910,Kendrick Raphael,ncaaf,CAL,Rec Yds,17.5
+prop_690f65142b6b52e93bc14fbefb1b71f9,Brandon Williams,nba,DAL,Points,10.5
+prop_690eec51598c5170e9b122665952e2eb,Bub Carrington,nba,WAS,Asts+Reb,9.5
+prop_690f651467c429df65f502d38f81d264,Klay Thompson,nba,DAL,Points,10.5
+prop_690f01af2362a35d85150d62722a5cb7,Kyshawn George,nba,WAS,Asts+Reb,8.5
+prop_690f05bf4be4dca1b12a5fa3a65f9cce,Naji Marshall,nba,DAL,Points,10.5
+prop_690f34bda36e513fd6d004a616e04f92,Justin Champagnie,nba,WAS,Pts+Asts,8.5
+prop_690f03ad850dfe0ec8cdf3da7b89ac83,D'Angelo Russell,nba,DAL,Asts+Reb,8.5
+prop_690eec5116133b1383cda7dc644d0abe,Bub Carrington,nba,WAS,Points,7.5
+prop_690f6307830bfd2473834edc9585a48c,P.J. Washington,nba,DAL,Rebounds,8.5
+prop_690eec51483b50004e4730140dd023d3,CJ McCollum,nba,WAS,Asts+Reb,6.5
+prop_690ee63b5ee89b69c941c49e61436f1b,Cooper Flagg,nba,DAL,Rebounds,7.5
+prop_690f34bd0b2e89281ca432fad87d33ba,Justin Champagnie,nba,WAS,Asts+Reb,6.5
+prop_690eeb4d5d90da01e1f141b3c7169531,Max Christie,nba,DAL,Asts+Reb,6.5
+prop_690eec511b4967688752196caf6035d4,Justin Champagnie,nba,WAS,Points,6.5
+prop_690eeb4dc5ef7bb062c6f06fb57bf08f,Naji Marshall,nba,DAL,Asts+Reb,6.5
+prop_690eec51c9c8747a7a6b71d396ca972e,Justin Champagnie,nba,WAS,Rebounds,5.5
+prop_690f01af43be6d1aed00f806d18fb42c,D'Angelo Russell,nba,DAL,Assists,5.5
+prop_690f42c8762845e63bc990f0065e5f9a,Tre Johnson,nba,WAS,Rebounds,3.5
+prop_690f093f5a8772681b99b2c7c17fabe0,Naji Marshall,nba,DAL,Rebounds,4.5
+prop_690f52f93580cba03d17ae1fda3979f1,CJ McCollum,nba,WAS,Assists,3.5
+prop_690ee63b89e292335ad10662f472f113,Cooper Flagg,nba,DAL,Assists,3.5
+prop_690eec510098a4a2a637260f46dd0be9,Kyshawn George,nba,WAS,Assists,3.5
+prop_690ee63b2367cf427f78e11008ea9653,Cooper Flagg,nba,DAL,3-PT Made,1.5
+prop_690eec5186b10889cb10a068990d1109,CJ McCollum,nba,WAS,3-PT Made,2.5
+prop_690f16187c287c7f4d4624d51fe4ed33,P.J. Washington,nba,DAL,3-PT Made,1.5
+prop_690f3bd49ac2377a93346741f06b8ce9,Alex Sarr,nba,WAS,Turnovers,2.5
+prop_690bb172d9a0914a48900c010f2df8d0,Will Bettridge,ncaaf,UVA,Kicking Pts,6.5
+prop_690eb85e77d8ff668450a46e6b0f1242,Connor Calvert,ncaaf,WAKE,Kicking Pts,5.5
+prop_690f496d92c8caf330639d65eed0f3a5,Chris Barnes,ncaaf,WAKE,Rec,4.5
+prop_690ec2c2586b0ff82652746b75f72ed5,Nolan Hauser,ncaaf,CLEM,Kicking Pts,6.5
+prop_690f485f18b8b8a93d0f8b89214f9fd5,Duce Robinson,ncaaf,FSU,Rec,4.5
+prop_690eb786242e240eb1b7825b5f5ba54c,David Pastrnak,nhl,BOS,Shots on Goal,3.5
+prop_690eb78663abf5bb453deaceb47af06f,John Tavares,nhl,TOR,Shots on Goal,2.5
+prop_690eb78634d276504f42c7654f9d42d6,Viktor Arvidsson,nhl,BOS,Shots on Goal,2.5
+prop_690eb78665e82251389657b1759e37a1,William Nylander,nhl,TOR,Shots on Goal,2.5
+prop_690ec5875b975c90d18d43e746ddcc19,Jakob Chychrun,nhl,WSH,Shots on Goal,2.5
+prop_690ec807f4b8a37316c4c0a8b9d923d9,Brandon Hagel,nhl,TB,Shots on Goal,2.5
+prop_690efcd22c949e7e827bc0d28f9b23e4,Connor McMichael,nhl,WSH,Shots on Goal,1.5
+prop_690ec5879292072e02b6cabcd9120fec,Aliaksei Protas,nhl,WSH,Shots on Goal,1.5
+prop_690ed8295ffae922fac0701165809856,Nikolaj Ehlers,nhl,CAR,Shots on Goal,2.5
+prop_690ed8295a68729f3cd578da9b210872,Sebastian Aho,nhl,CAR,Shots on Goal,2.5
+prop_690ed82945d82c8b2a898edab38ebe71,Seth Jarvis,nhl,CAR,Shots on Goal,2.5
+prop_690ed8299efb171e80f6cc2029fe126e,Andrei Svechnikov,nhl,CAR,Shots on Goal,2.5
+prop_690ed82951cfa6f0f0429c3041665d9b,Taylor Hall,nhl,CAR,Shots on Goal,1.5
+prop_690eeb2fef158205b42ee7e0ddc3520e,Clayton Keller,nhl,UTA,Shots on Goal,2.5
+prop_690ef9728ff69e46f89eb27307a3c9d3,Cole Caufield,nhl,MTL,Shots on Goal,2.5
+prop_690ecb821dc65713ffcdbe8853454b35,Mika Zibanejad,nhl,NYR,Shots on Goal,2.5
+prop_690ecb8251c66850c75abe6ca8c53a0a,Bo Horvat,nhl,NYI,Shots on Goal,2.5
+prop_690eb08956a6719f8c7a129403c47de1,Brandon Montour,nhl,SEA,Shots on Goal,2.5
+prop_690f32921f96cdaf8871cea0eebffb92,Jordan Kyrou,nhl,STL,Shots on Goal,2.5
+prop_690ed829273f3c5e639c15cd884f9680,Isak Rosen,nhl,BUF,Shots on Goal,1.5
+prop_690ed829526e5b7045c6b3b645e728e9,Jackson Blake,nhl,CAR,Points,0.5
+prop_690ed829c1219e6e055aa2aa8264c0b4,Jack Quinn,nhl,BUF,Shots on Goal,1.5
+prop_690ed829c8acd1ab436b504c0f32f84d,Andrei Svechnikov,nhl,CAR,Points,0.5
+prop_690ed82914f45a4c2dc5849c15e215db,Alex Tuch,nhl,BUF,Points,0.5
+prop_690ed829a72a99310a8c4e6c64972888,Sebastian Aho,nhl,CAR,Assists,0.5
+prop_690ed82932fe9d42a0f6d9d31d1dd433,Seth Jarvis,nhl,CAR,Assists,0.5
+prop_690ef162c36ea1c3ab1931b582fc5998,Mikhail Sergachev,nhl,UTA,Shots on Goal,1.5
+prop_690ef162b4b5bc472bc1aece1dd8e718,Ivan Demidov,nhl,MTL,Shots on Goal,1.5
+prop_690ef1626f2b03fcbcf608ea0fb34ffc,Barrett Hayton,nhl,UTA,Shots on Goal,1.5
+prop_690ef1621a1decdbe5fbe21439b77acb,Zachary Bolduc,nhl,MTL,Shots on Goal,1.5
+prop_690ef1629cebded53e2f3521d0771327,JJ Peterka,nhl,UTA,Shots on Goal,1.5
+prop_690ef162aa0cb17d7058947ce17af273,Juraj Slafkovský,nhl,MTL,Points,0.5
+prop_690ef1620b803f6ef270f575561b4ea7,Clayton Keller,nhl,UTA,Assists,0.5
+prop_690ef162af824fcc285266f0847ac10c,Ivan Demidov,nhl,MTL,Points,0.5
+prop_690ef162db24b52f84b594f70399940b,JJ Peterka,nhl,UTA,Points,0.5
+prop_690ef162696b2058cec9bbdae6a5683a,Mikhail Sergachev,nhl,UTA,Points,0.5
+prop_690ebe610f6a0b54884b014b99f1d997,Pavel Zacha,nhl,BOS,Shots on Goal,1.5
+prop_690ebe61a834905dd7016e9d79ab0ec9,Morgan Rielly,nhl,TOR,Shots on Goal,1.5
+prop_690eb7863b1fa887b9aefea5920547fc,Charlie McAvoy,nhl,BOS,Shots on Goal,1.5
+prop_690ebe6108741685e8ebb7859be7cb9e,Bobby McMann,nhl,TOR,Shots on Goal,1.5
+prop_690ebe61d6e2ce371aae160daf730870,Pavel Zacha,nhl,BOS,Points,0.5
+prop_690ebe61dbed4bd8573bf6c89ee9cee8,William Nylander,nhl,TOR,Assists,0.5
+prop_690ebe613544d42e28aa20a74641a8d0,David Pastrnak,nhl,BOS,Assists,0.5
+prop_690ebe61ba45396e25e21c8559ca17de,Matthew Knies,nhl,TOR,Assists,0.5
+prop_690ebe613affd4c5b780f5735c788ad5,Morgan Geekie,nhl,BOS,Points,0.5
+prop_690ed2897b3b4aea9c2ffc526525ba71,Calum Ritchie,nhl,NYI,Shots on Goal,1.5
+prop_690ecc9019d69c92960e7acf341b4f41,Adam Fox,nhl,NYR,Points,0.5
+prop_690ef363ab3ae1ee60cecd0b6b9fae32,Emil Heineman,nhl,NYI,Shots on Goal,1.5
+prop_690ecc90c1825a4eb2616e0278e52fa6,Will Cuylle,nhl,NYR,Points,0.5
+prop_690ecc9097912616375cc71f247354c4,Jonathan Drouin,nhl,NYI,Points,0.5
+prop_690ecc90652e121e715b1a167b76800b,Adam Fox,nhl,NYR,Assists,0.5
+prop_690ecc9047ed96961c5be476f6f47f3d,Kyle Palmieri,nhl,NYI,Points,0.5
+prop_690ecc90e860ff6eb9c679a16d0db91b,Alexis Lafreniere,nhl,NYR,Points,0.5
+prop_690eb0897726bb1664376b67a0567b12,Ryan Lindgren,nhl,SEA,,1.5
+prop_690eb089a12a27b2b79ec21f576cfa08,Pius Suter,nhl,STL,Shots on Goal,1.5
+prop_690f55e2d9b7faf554b1fac851b8f81d,Mason Marchment,nhl,SEA,Shots on Goal,1.5
+prop_690eb0897f150468e2b8ee3d5b98e2b6,Justin Faulk,nhl,STL,Shots on Goal,1.5
+prop_690eb08970e3c3ba0057fc0285ab26c4,Jamie Oleksiak,nhl,SEA,,1.5
+prop_690eb08904d0b07fc05d1d8a1b7bc8a8,Robert Thomas,nhl,STL,Shots on Goal,1.5
+prop_690eb089f8c4b3031e6ae9c9b762754d,Matty Beniers,nhl,SEA,Shots on Goal,1.5
+prop_690eb0894f7a8bc11c1ded4bc34886af,Jordan Eberle,nhl,SEA,Points,0.5
+prop_690eb089ff20efa2c053664036e4396b,Vince Dunn,nhl,SEA,Points,0.5
+prop_690eb089b253d70b023508624154e7d7,Matty Beniers,nhl,SEA,Points,0.5
+prop_690d6567b04230aa156b63531ff9cea0,Miller Moss,ncaaf,LOU,INT,0.5
+prop_690ed61cd412973fba478f6dfd9cbbb0,Dylan Strome,nhl,WSH,Assists,0.5
+prop_690ed61c59919efcc3292a16c4886930,Victor Hedman,nhl,TB,Points,0.5
+prop_690ed61ca829c72dd132e3af28a6ed3c,John Carlson,nhl,WSH,Points,0.5
+prop_690ed61c29d738186227454ad8b77fbd,Victor Hedman,nhl,TB,Assists,0.5
+prop_690db67a7dc90feb135fde94d0b8cc2a,Tommy Castellanos,ncaaf,FSU,INT,0.5
+prop_690eb089c08ce86c24aa85024a0067ae,Pavel Buchnevich,nhl,STL,Points,0.5
+prop_690eb0890af44a2226fb9adf914a4f4d,Robert Thomas,nhl,STL,Assists,0.5
+prop_690eb0892ae86b9269813f9736ed9ea4,Dylan Holloway,nhl,STL,Points,0.5
+prop_690eb089ea9e538faed39d2d279e085a,Jordan Kyrou,nhl,STL,Points,0.5
+prop_690eb089cac6f2916cd31d3b67387582,Jimmy Snuggerud,nhl,STL,Points,0.5
+prop_690f5e9477c1a190307aeaf452563fba,Ty Simpson,ncaaf,ALA,Pass Yds,276.5
+prop_690f612313bf63182c420d15045cdff6,Garrett Nussmeier,ncaaf,LSU,Pass Yds,217.5
+prop_690eecf714146c52beff738f946d41f9,Germie Bernard,ncaaf,ALA,Rec Yds,64.5
+prop_690f2fe15da29b4b186ddb95e9ffacc7,Harlem Berry,ncaaf,LSU,Rush Yds,45.5
+prop_690e5a53f841e1b2322954f3158ba213,Ryan Williams,ncaaf,ALA,Rec Yds,62.5
+prop_690f530ece1585deec3dd56c131456c6,Trey'Dez Green,ncaaf,LSU,Rec Yds,42.5
+prop_690eb2609342606de63e74ecd5fbe21d,Jam Miller,ncaaf,ALA,Rush Yds,52.5
+prop_690ec8c62d7574c2b27ae316b71d3a49,Aaron Anderson,ncaaf,LSU,Rec Yds,40.5
+prop_690ee27026ec6cce175756e8b9b917be,Isaiah Horton,ncaaf,ALA,Rec Yds,35.5
+prop_690f485fbe83e7e9247cb1b8dc5ec134,Barion Brown,ncaaf,LSU,Rec Yds,38.5
+prop_690e766e13c8e4adbf4b334bf6ca4ba3,Lotzeir Brooks,ncaaf,ALA,Rec Yds,33.5
+prop_690ed46bd8105d4f17796f023b0e3fd4,Caden Durham,ncaaf,LSU,Rush Yds,30.5
+prop_690ef40e08f0102e2ff15e703e4b2a23,Josh Cuevas,ncaaf,ALA,Rec Yds,25.5
+prop_690f5197d956bc24dbc2407741adb2ec,CJ Carr,ncaaf,ND,Pass Yds,245.5
+prop_690f6493d7b4d9f3f380965dd775e720,Blake Horvath,ncaaf,NAVY,Rush Yds,82.5
+prop_690eadc3e8330a6506656a0964b90864,Jeremiyah Love,ncaaf,ND,Rush Yds,108.5
+prop_690d24eea885fe6c83a9698899b82a58,Alex Tecza,ncaaf,NAVY,Rush Yds,40.5
+prop_690ed8e43d0dd73e926ed1ce092fb0e3,Jadarian Price,ncaaf,ND,Rush Yds,72.5
+prop_690d24ee28317b696e0f490eabdb8c46,Eli Heidenreich,ncaaf,NAVY,Rec Yds,38.5
+prop_690ef2fb4857b2b81c027e2b273139e1,Jordan Faison,ncaaf,ND,Rec Yds,63.5
+prop_690f5197294a561ebf5640a8c6014c43,Will Pauling,ncaaf,ND,Rec Yds,44.5
+prop_690e05f8481b45af47f3de62c7c0017a,Malachi Fields,ncaaf,ND,Rec Yds,40.5
+prop_690d5e5f0822edf79f777fe0fc731d14,Eli Raridon,ncaaf,ND,Rec Yds,32.5
+prop_690e46c6878d205fcdfafda73390c830,Jeremiyah Love,ncaaf,ND,Rec Yds,26.5
+prop_690f622c0293281c67d6c66bf979c87a,DJ Lagway,ncaaf,FLA,Pass Yds,224.5
+prop_690f4f713dec84cdaa086f57d3d092e4,Cutter Boley,ncaaf,UK,Pass Yds,196.5
+prop_690ee36f6a9ba4af307ce0cf60eac842,Jadan Baugh,ncaaf,FLA,Rush Yds,73.5
+prop_690f578c0044bf93dccf2933d64e15e8,Seth McGowan,ncaaf,UK,Rush Yds,62.5
+prop_690f4aa867072fca802cf862b33d6ac3,Vernell Brown III,ncaaf,FLA,Rec Yds,50.5
+prop_690e5dd28665b9469fd013b5c418de64,Kendrick Law,ncaaf,UK,Rec Yds,37.5
+prop_690f5a203f4980fea971b7f32f2c0062,Aidan Mizell,ncaaf,FLA,Rec Yds,29.5
+prop_690f426a298b049143597f323d53b934,Dante Dowdell,ncaaf,UK,Rush Yds,24.5
+prop_690f426a8283848afbffeabb9a801933,Hayden Hansen,ncaaf,FLA,Rec Yds,25.5
+prop_690edf301e6bd501426a26c1f5c60585,Tyrese Maxey,nba,PHI,Pts+Reb+Asts,39.5
+prop_690edf3005c8a17564556d7285bfa914,Scottie Barnes,nba,TOR,Pts+Reb+Asts,30.5
+prop_690edf3038817589e5be8485c572e334,Tyrese Maxey,nba,PHI,Pts+Asts,35.5
+prop_690edf30b327ac2c102df1aa1e04acc2,Brandon Ingram,nba,TOR,Pts+Reb+Asts,29.5
+prop_690edf3062ffc3ac8f5091c432ad96a2,Tyrese Maxey,nba,PHI,Pts+Reb,32.5
+prop_690f44e9b332ec6afc5e18a75fefffee,RJ Barrett,nba,TOR,Pts+Reb+Asts,27.5
+prop_690f5c0071e7257bb9f00479d23d843b,Joel Embiid,nba,PHI,Pts+Reb+Asts,31.5
+prop_690edf30692f55a333d050058446642b,Immanuel Quickley,nba,TOR,Pts+Reb+Asts,25.5
+prop_690f57feb8078c02d73c61ccb4798a12,Tyrese Maxey,nba,PHI,Points,28.5
+prop_690edf30148b8cbb87c3a349e51ab349,Scottie Barnes,nba,TOR,Pts+Reb,25.5
+prop_690edf30f1a3ce6f54c9d1c245ad9fbb,Joel Embiid,nba,PHI,Pts+Reb,27.5
+prop_690edf306da9886eb3ee574d3b1c005e,Brandon Ingram,nba,TOR,Pts+Reb,25.5
+prop_690edf30a9d4512012a4d0f71308c714,RJ Barrett,nba,TOR,Pts+Reb,24.5
+prop_690ee8551413e99f783bda983671954c,Joel Embiid,nba,PHI,Pts+Asts,24.5
+prop_690edf30de7c34a2a8781ace0f746fd1,Brandon Ingram,nba,TOR,Pts+Asts,23.5
+prop_690ee855fd7d6c51f4d27920eeea234d,VJ Edgecombe,nba,PHI,Pts+Reb+Asts,24.5
+prop_690f4ad5ecde5e4f95a3782513ee389f,Scottie Barnes,nba,TOR,Pts+Asts,22.5
+prop_690f640bbbb6963719a4df69c246254d,Quentin Grimes,nba,PHI,Pts+Reb+Asts,22.5
+prop_690edf305bbdc37e1dd2e3278a8d361c,RJ Barrett,nba,TOR,Pts+Asts,22.5
+prop_690f55fb7a212c34b25ba0c0f1f105f8,Kelly Oubre Jr.,nba,PHI,Pts+Reb+Asts,21.5
+prop_690edf30f70e87808328469ec69439c1,Immanuel Quickley,nba,TOR,Pts+Asts,21.5
+prop_690edf30993f4e402a41427d77648dbd,Joel Embiid,nba,PHI,Points,20.5
+prop_690edf3053d9548f1feecec35c735f65,Brandon Ingram,nba,TOR,Points,19.5
+prop_690ef46c55bff56ca70b64c548a387aa,VJ Edgecombe,nba,PHI,Pts+Reb,20.5
+prop_690edf30be0340d64fcaacb1ecd93d0d,Immanuel Quickley,nba,TOR,Pts+Reb,19.5
+prop_690ee44b0bcdb949abf078fb113a641c,Kelly Oubre Jr.,nba,PHI,Pts+Reb,20.5
+prop_690edf300041a76ecea62fc228beed9e,RJ Barrett,nba,TOR,Points,19.5
+prop_690ef46cb59b441d51d047d26558aa69,VJ Edgecombe,nba,PHI,Pts+Asts,19.5
+prop_690eef66ddca7ebcb9cbe02e27cc13b7,Jakob Poeltl,nba,TOR,Pts+Reb+Asts,18.5
+prop_690edf30c940675baf41651e3051a7f4,Quentin Grimes,nba,PHI,Pts+Reb,19.5
+prop_690edf30596b03fe8ea06cd09056a269,Scottie Barnes,nba,TOR,Points,18.5
+prop_690edf304e1320b8999c3d47ad7c5414,Quentin Grimes,nba,PHI,Pts+Asts,18.5
+prop_690edf30918319ff37d5b991820c3988,Jakob Poeltl,nba,TOR,Pts+Reb,16.5
+prop_690eed554a4037833eb880eb8d6d08f4,VJ Edgecombe,nba,PHI,Points,15.5
+prop_690edf305dc4418320eca003aa5e3374,Immanuel Quickley,nba,TOR,Points,15.5
+prop_690f55fb4007a502524db8fce17714cb,Kelly Oubre Jr.,nba,PHI,Pts+Asts,15.5
+prop_690eeb4d2659290f5e827f8298dcadc8,Sandro Mamukelashvili,nba,TOR,Pts+Reb,12.5
+prop_690edf3089ff5eee0d700c6d59dc93ba,Kelly Oubre Jr.,nba,PHI,Points,14.5
+prop_690f55fb75613a34bcef4b159e3ed0f9,Jamal Shead,nba,TOR,Pts+Reb+Asts,11.5
+prop_690f4fe32a4253a53ad07b365f11063d,Quentin Grimes,nba,PHI,Points,14.5
+prop_690edf30b1c646f135c45b919b067183,Scottie Barnes,nba,TOR,Asts+Reb,11.5
+prop_690ee63bcd03e58fe7c4d953c101a0be,Trendon Watford,nba,PHI,Pts+Reb+Asts,13.5
+prop_690f640ba02a436992e17bec1c7ec325,Collin Murray-Boyles,nba,TOR,Pts+Reb+Asts,11.5
+prop_690edf30d74402085ab5d5d127e90103,Tyrese Maxey,nba,PHI,Asts+Reb,11.5
+prop_690f54e8443ebeb6a2d3e2fd7ea2eaa5,Collin Murray-Boyles,nba,TOR,Pts+Reb,10.5
+prop_690ef79ff9b54e12f08aced7cefeac9a,Trendon Watford,nba,PHI,Pts+Reb,11.5
+prop_690edf30cf7514a01451e106bf5ffe67,Jakob Poeltl,nba,TOR,Pts+Asts,10.5
+prop_690f5a0775c801f733801669a0715273,Jared McCain,nba,PHI,Pts+Reb+Asts,11.5
+prop_690edf3036d930aad6ecc9adbc244462,Brandon Ingram,nba,TOR,Asts+Reb,9.5
+prop_690edf309e9d278788b463f2c378ea7a,Joel Embiid,nba,PHI,Asts+Reb,10.5
+prop_690ee63b23276402b3a4842601589857,Jamal Shead,nba,TOR,Pts+Asts,9.5
+prop_690ef79f67081c74606729ea77ee36b8,Trendon Watford,nba,PHI,Pts+Asts,10.5
+prop_690edf301c755deecda1dbe73106302d,Jakob Poeltl,nba,TOR,Asts+Reb,9.5
+prop_690f0bf55fe6898f093b0dd5f71b5286,Immanuel Quickley,nba,TOR,Asts+Reb,9.5
+prop_690e766e5058e75ae9ee063bd2dcd59a,Zavion Thomas,ncaaf,LSU,Rec Yds,22.5
+prop_690e6656dd5b117d2b6ac43419b32d7b,Jam Miller,ncaaf,ALA,Rec Yds,11.5
+prop_690ce47b2f7a5fae76b1372e6d0dac9d,Ty Simpson,ncaaf,ALA,Rush Yds,11.5
+prop_690f426afad3c510c9b2def3113e9682,Hardley Gilmore IV,ncaaf,UK,Rec Yds,19.5
+prop_690f426ae42f80f8297d0c33580f5a58,Jadan Baugh,ncaaf,FLA,Rec Yds,17.5
+prop_690f426acfda0cdb5b6900e4e03a77a8,Josh Kattus,ncaaf,UK,Rec Yds,19.5
+prop_690f426a039c9ecb3761b1b3879caec8,Willie Rodriguez,ncaaf,UK,Rec Yds,15.5
+prop_690f3ef0ddfde33fff580140d30b5b80,Seth McGowan,ncaaf,UK,Rec Yds,13.5
+prop_690edf306731e1e7918d0269220b5acc,RJ Barrett,nba,TOR,Asts+Reb,8.5
+prop_690ef990ade4c79a1db9aeaed37a1d29,Jared McCain,nba,PHI,Points,7.5
+prop_690f63076ed38d5c8ac6758c12b8d30b,Collin Murray-Boyles,nba,TOR,Pts+Asts,8.5
+prop_690ee63b87c034f657619eb80d138604,Trendon Watford,nba,PHI,Points,7.5
+prop_690f48d26604ce7a7fe3c71617cdcb95,Jakob Poeltl,nba,TOR,Points,8.5
+prop_690edf308b4b1b3814bc0c3ade820e74,Quentin Grimes,nba,PHI,Asts+Reb,7.5
+prop_690efd7d26b968b44fb3537520e289f6,Jakob Poeltl,nba,TOR,Rebounds,7.5
+prop_690f02c2c33a8c4d72da39bb1394b724,Joel Embiid,nba,PHI,Rebounds,6.5
+prop_690eeb4d33836914be47472b651f88c2,Sandro Mamukelashvili,nba,TOR,Points,7.5
+prop_690edf300ff9a7308cb6d2983d5c765b,Kelly Oubre Jr.,nba,PHI,Rebounds,5.5
+prop_690ee9b9fe6439cc32956170797c4c2f,Collin Murray-Boyles,nba,TOR,Points,6.5
+prop_690edf30c72898c26798119f5d9d4f62,VJ Edgecombe,nba,PHI,Rebounds,4.5
+prop_690ee63bc3996ef8201d305327bf634a,Jamal Shead,nba,TOR,Points,5.5
+prop_690ee63b62e2114aa73d409a9f3415dd,Trendon Watford,nba,PHI,Rebounds,3.5
+prop_690f600086ff2427f6082faa98c92c35,Immanuel Quickley,nba,TOR,Assists,5.5
+prop_690edf301439728d4aff052cc9b14396,Quentin Grimes,nba,PHI,Assists,3.5
+prop_690edf30526f050f62de846bee41595f,Brandon Ingram,nba,TOR,Rebounds,5.5
+prop_690ee9b9da6abd8ae2b7df2888421516,Joel Embiid,nba,PHI,Assists,3.5
+prop_690eeb4df282079655c7f9c657f34079,Sandro Mamukelashvili,nba,TOR,Rebounds,4.5
+prop_690f3bd4392f0f501167a8356541b303,Tyrese Maxey,nba,PHI,Turnovers,2.5
+prop_690edf302cd514f34db6ca1c975359f7,Scottie Barnes,nba,TOR,Assists,4.5
+prop_690f6000f8c97bbb3f47edd47f6526d7,Joel Embiid,nba,PHI,Turnovers,2.5
+prop_690f5c0020b48399a2077c94d0874ed9,Collin Murray-Boyles,nba,TOR,Asts+Reb,4.5
+prop_690edf300b394f54d8ae2df448badcda,Quentin Grimes,nba,PHI,3-PT Made,2.5
+prop_690edf3044688eaa842b41c957f7a376,RJ Barrett,nba,TOR,Assists,3.5
+prop_690f55fb39accf3349245bad8c350154,Kelly Oubre Jr.,nba,PHI,3-PT Made,1.5
+prop_690f54e8cfd2b01c229740f831db897c,Collin Murray-Boyles,nba,TOR,Rebounds,3.5
+prop_690edf309918e145bd700d98685f8050,Brandon Ingram,nba,TOR,3-PT Made,1.5
+prop_690f04bbeb784ae754d460d4e6b26f0e,Jakob Poeltl,nba,TOR,Stls+Blks,1.5
+prop_690f58f8cf3073f8c7c6526c26a487e5,Jamal Shead,nba,TOR,Rebounds,1.5
+prop_690f04bb5ad5aa3df832d79982bd012b,Jakob Poeltl,nba,TOR,Steals,0.5
+prop_690f58f899273c4b8ef24385fc501f8c,Collin Murray-Boyles,nba,TOR,3-PT Made,0.5
+prop_690c26a2523253e18ffad53756acc170,Damian Ramos,ncaaf,LSU,Kicking Pts,5.5
+prop_690f6123bd9260eb84d8e886a8c11b78,Ryan Williams,ncaaf,ALA,Rec,3.5
+prop_690f0c943eedad2b7cff90b6ad97feb5,Barion Brown,ncaaf,LSU,Rec,4.5
+prop_690f5fadbff82334da19d1c2298dc132,Ty Simpson,ncaaf,ALA,INT,0.5
+prop_690f0c94dbd3e72080244ef7d4c407b3,Trey'Dez Green,ncaaf,LSU,Rec,3.5
+prop_690e54bd26f82cf7048dcfa7678d6f50,Blake Horvath,ncaaf,NAVY,INT,0.5
+prop_690edf3039421a4c2714d4cfd451da3a,Luka Dončić,nba,LAL,Pts+Reb+Asts,55.5
+prop_690f640b9316db346a6c647cc0cd165c,Jalen Johnson,nba,ATL,Pts+Reb+Asts,35.5
+prop_690f093fb64afaa499cfb2f3fb04fd5b,Luka Dončić,nba,LAL,Pts+Asts,46.5
+prop_690edf309f036a5c34cff716b4785765,Luka Dončić,nba,LAL,Pts+Reb,45.5
+prop_690edf3059a27d5c68f74cfd5422393b,Luka Dončić,nba,LAL,Points,35.5
+prop_690f4bff15a8f70f51ce322143601b7b,Victor Wembanyama,nba,SAS,Pts+Reb+Asts,39.5
+prop_690f0bf5d545cf1c9ac6197a14b71a3f,Victor Wembanyama,nba,SAS,Pts+Reb,35.5
+prop_690f54e85e274a44a12e1ea9f78fb985,Josh Giddey,nba,CHI,Pts+Reb+Asts,39.5
+prop_690ee63ba6b80243a4d096bb18d617a8,Donovan Mitchell,nba,CLE,Pts+Reb+Asts,36.5
+prop_690f6307e9f2f9ee2ace5491fd006388,Evan Mobley,nba,CLE,Pts+Reb+Asts,32.5
+prop_690f610e6cf804fd38bb65c10f9d1d30,Donovan Mitchell,nba,CLE,Pts+Asts,32.5
+prop_690f5a07fb41aa6ee6b23b7f6323116a,Deni Avdija,nba,POR,Pts+Reb+Asts,35.5
+prop_690ee44b8b1ac4ae540fcde4525d7cc1,Nikola Vučević,nba,CHI,Pts+Reb+Asts,31.5
+prop_690ee44b3e4d0feab481f4db444bb689,Donovan Mitchell,nba,CLE,Pts+Reb,30.5
+prop_690f54e89466492c47278beb44dbaaff,Josh Giddey,nba,CHI,Pts+Asts,29.5
+prop_690ee44b0dd080c0a8d72f1d88f75add,Evan Mobley,nba,CLE,Pts+Reb,29.5
+prop_690f5a072c21060230c3032c5e891c57,Josh Giddey,nba,CHI,Pts+Reb,29.5
+prop_690ee44bcf52f8fc13d2667233004007,Donovan Mitchell,nba,CLE,Points,26.5
+prop_690ee44b5aedb78689bbc3417bcd7256,Nikola Vučević,nba,CHI,Pts+Reb,28.5
+prop_690f2bb76fb0765006216f29aa934d6d,Jarrett Allen,nba,CLE,Pts+Reb+Asts,25.5
+prop_690f57fe39229d5e2316aa12e286484f,Jarrett Allen,nba,CLE,Pts+Reb,24.5
+prop_690ee53642ec87943f3a2cd315d2e92f,Darius Garland,nba,CLE,Pts+Reb+Asts,24.5
+prop_690f5c000360b32fdd92890c8b7540bd,Evan Mobley,nba,CLE,Pts+Asts,23.5
+prop_690ee85529614e613f617c955ebfa05d,De'Andre Hunter,nba,CLE,Pts+Reb+Asts,23.5
+prop_690ee63bb2e76e73b7b644e4e81d6efa,Trey Murphy III,nba,NOP,Pts+Reb+Asts,30.5
+prop_690ee63bcb360fef5646b3f5b0ca5f5f,Victor Wembanyama,nba,SAS,Pts+Asts,27.5
+prop_690ee63bce06de49ba261cae79329fec,Trey Murphy III,nba,NOP,Pts+Reb,26.5
+prop_690f0740f7e0baccd211860505db1662,Stephon Castle,nba,SAS,Pts+Reb+Asts,27.5
+prop_690f46d3081259a8708a3bd178b52cc6,Trey Murphy III,nba,NOP,Pts+Asts,25.5
+prop_690ee63b0afe858d4a3ad4f65da8877a,Victor Wembanyama,nba,SAS,Points,24.5
+prop_690f01af28ac983126ccf85b9a1530cc,Jeremiah Fears,nba,NOP,Pts+Reb+Asts,22.5
+prop_690f3fd0bbfd046ad98192f421d6a537,Devin Vassell,nba,SAS,Pts+Reb+Asts,22.5
+prop_690f36dff9937bd0b9a9b3616a74c0d9,De'Aaron Fox,nba,SAS,Pts+Reb+Asts,22.5
+prop_690eee4fdd801a15b0804d66683c42b7,Stephon Castle,nba,SAS,Pts+Asts,22.5
+prop_690ee63b839d3265375bd31683ecbf67,Stephon Castle,nba,SAS,Pts+Reb,21.5
+prop_690ee63bbb30c797d0135533dca68b04,Deni Avdija,nba,POR,Pts+Reb,30.5
+prop_690eec51821a039f09832b1513a2ed39,Norman Powell,nba,MIA,Pts+Reb+Asts,28.5
+prop_690ee63b2332016b4a6f2903108024f3,Deni Avdija,nba,POR,Pts+Asts,28.5
+prop_690eec512ec1b83fda2ab3cc2bd7932e,Andrew Wiggins,nba,MIA,Pts+Reb+Asts,28.5
+prop_690efffc6e9fde487d485b8e9e8db362,Jrue Holiday,nba,POR,Pts+Reb+Asts,27.5
+prop_690ee63b3fa1bdd064ff495fa79d9fc8,Norman Powell,nba,MIA,Pts+Reb,25.5
+prop_690eec51e32cf6ecbc8a6b004ecf39d0,Shaedon Sharpe,nba,POR,Pts+Reb+Asts,26.5
+prop_690f6000113c351a1cdbd14f43fc4d79,Kel'el Ware,nba,MIA,Pts+Reb+Asts,25.5
+prop_690eec51ab6cfbbb14516b31eb552b0e,Jerami Grant,nba,POR,Pts+Reb+Asts,24.5
+prop_690ee63b0a78b0775c3997e5949b7b5c,Andrew Wiggins,nba,MIA,Pts+Reb,24.5
+prop_690ee63b8d619aa012ff59cdfc021714,Deni Avdija,nba,POR,Points,23.5
+prop_690f258b8257596c485c80549b18f733,Norman Powell,nba,MIA,Pts+Asts,24.5
+prop_690f268a4a95f4cbe2e555c0ad5abe4b,Shaedon Sharpe,nba,POR,Pts+Reb,23.5
+prop_690f0af6d455363c6f03aadb91dcf0ea,Kel'el Ware,nba,MIA,Pts+Reb,24.5
+prop_690eee4fc601ecd36300d8bfa0fa8497,Toumani Camara,nba,POR,Pts+Reb+Asts,22.5
+prop_690f258b74936ce43be893826ce16155,Andrew Wiggins,nba,MIA,Pts+Asts,22.5
+prop_690ee63bb4802a6b116202e2f56db1bd,Jrue Holiday,nba,POR,Pts+Asts,22.5
+prop_690ee63b03d18065c4b013bada50e6b5,Norman Powell,nba,MIA,Points,22.5
+prop_690f40d42238bc030fdeb0ff2d1b531a,Jalen Johnson,nba,ATL,Pts+Reb,28.5
+prop_690ee14d189ed322bbc7c79829d510d2,Deandre Ayton,nba,LAL,Pts+Reb+Asts,26.5
+prop_690f21d77d7eac8faf6571842eac9ab2,Kristaps Porziņģis,nba,ATL,Pts+Reb+Asts,27.5
+prop_690f5d0ae152d64a945999990c6c1d8c,Deandre Ayton,nba,LAL,Pts+Reb,25.5
+prop_690ee2a56cd703a43ca087bfb6ee0ecf,Jalen Johnson,nba,ATL,Pts+Asts,26.5
+prop_690f6514413aff475d788276c74ec3d1,Nickeil Alexander-Walker,nba,ATL,Pts+Reb+Asts,25.5
+prop_690ee44b9200fc17549870e38905be19,Kristaps Porziņģis,nba,ATL,Pts+Reb,24.5
+prop_690ee14dd4818d02602a6106698d3c5c,Dyson Daniels,nba,ATL,Pts+Reb+Asts,24.5
+prop_690f5e0c2bbcfe052ce2665fab4ea011,Onyeka Okongwu,nba,ATL,Pts+Reb+Asts,24.5
+prop_690ee44b0fa3c5e09db1d74a479f4dfd,Nickeil Alexander-Walker,nba,ATL,Pts+Asts,21.5
+prop_690f58f84beefc12bace23b4d13cfde1,Rui Hachimura,nba,LAL,Pts+Reb+Asts,21.5
+prop_690ef0ca1e228336ba725cd2da3ab80b,Onyeka Okongwu,nba,ATL,Pts+Reb,21.5
+prop_690edf305b11480f6be362e182f9b3f6,Luka Dončić,nba,LAL,Asts+Reb,19.5
+prop_690f4ad520d9d6faa2b45ad8a7d60ff1,Nickeil Alexander-Walker,nba,ATL,Pts+Reb,21.5
+prop_690ee14d4e83307d256439152abf8dfe,Rui Hachimura,nba,LAL,Pts+Reb,19.5
+prop_690ee44bfba133ea77e6011feaeffb6c,Jalen Johnson,nba,ATL,Points,20.5
+prop_690ee14d144e91700e3a095d70d43418,Jake LaRavia,nba,LAL,Pts+Reb+Asts,19.5
+prop_690ee44b7f29b087cd0d6e24aa92116b,Kristaps Porziņģis,nba,ATL,Pts+Asts,20.5
+prop_690ee14d3d5c1485ddfc486ad1761b17,Marcus Smart,nba,LAL,Pts+Reb+Asts,18.5
+prop_690ee2a51e71a2357a695017db910d89,Dyson Daniels,nba,ATL,Pts+Reb,19.5
+prop_690ee5361252852b9b500bea2498c6f6,Dyson Daniels,nba,ATL,Pts+Asts,18.5
+prop_690ee14d7e3b1225fc236ea3cf2da16c,Zaccharie Risacher,nba,ATL,Pts+Reb+Asts,17.5
+prop_690f258beb587cad4972d2fb26d24b37,Darius Garland,nba,CLE,Pts+Asts,21.5
+prop_690f58f82784dd781453567f03e6961f,Matas Buzelis,nba,CHI,Pts+Reb+Asts,21.5
+prop_690f268a1a2fee103c8906ba36995b86,De'Andre Hunter,nba,CLE,Pts+Reb,20.5
+prop_690ee44b9f28d563c8ce5c456fe8614f,Nikola Vučević,nba,CHI,Pts+Asts,21.5
+prop_690ee44b79254bd4276c9af8e57ca1ed,Evan Mobley,nba,CLE,Points,19.5
+prop_690ee44b5a8d5b197092d9a3a65f0b43,Matas Buzelis,nba,CHI,Pts+Reb,21.5
+prop_690f2bb7ee65cbcb13206e2a37282cf0,Darius Garland,nba,CLE,Pts+Reb,18.5
+prop_690ee63bec915279e4c35eb78ef3dddf,Josh Giddey,nba,CHI,Points,20.5
+prop_690ee8553c69cfa10d8af8a3752e0fef,De'Andre Hunter,nba,CLE,Pts+Asts,18.5
+prop_690ef278c8e9a29a2549e3f2c3459f6f,Tre Jones,nba,CHI,Pts+Reb+Asts,20.5
+prop_690f52f97de0c527fd6b6308ad9c5c77,Josh Giddey,nba,CHI,Asts+Reb,18.5
+prop_690ee44b07d1ac6821eee13c628f348f,Nikola Vučević,nba,CHI,Points,18.5
+prop_690ef79f0c53bdbd61a19c62377a1a9a,Davion Mitchell,nba,MIA,Pts+Reb+Asts,21.5
+prop_690f5c007d327ed86bec4d4126a8feea,Jerami Grant,nba,POR,Pts+Reb,21.5
+prop_690ee63b4248011772b713ad80827868,Andrew Wiggins,nba,MIA,Points,19.5
+prop_690f46d3c4a1937ee67c474248106ee9,Jerami Grant,nba,POR,Pts+Asts,20.5
+prop_690ee85586c569c724bba0b9b180c376,Davion Mitchell,nba,MIA,Pts+Asts,18.5
+prop_690ee63b1d82c13eedc31efa37b9365c,Jrue Holiday,nba,POR,Pts+Reb,20.5
+prop_690eec51b8a86e1ebee80ec5ad208bee,Donovan Clingan,nba,POR,Pts+Reb+Asts,20.5
+prop_690f42c8c78d312c729a8a48f58a996d,Shaedon Sharpe,nba,POR,Pts+Asts,20.5
+prop_690ee855787531ffe8caf224fa902e06,Toumani Camara,nba,POR,Pts+Reb,19.5
+prop_690f6307da60afca4cea4967b6f01a6c,Donovan Clingan,nba,POR,Pts+Reb,18.5
+prop_690f31c51deb9302724adbaa2223353e,Shaedon Sharpe,nba,POR,Points,18.5
+prop_690efffcd5f543de80394e287f1f51cb,Trey Murphy III,nba,NOP,Points,20.5
+prop_690ee63bdc9f152d741e18bb6dd86498,Devin Vassell,nba,SAS,Pts+Reb,19.5
+prop_690f0740403ebfe0fab1a0ea16fa740d,Derik Queen,nba,NOP,Pts+Reb+Asts,20.5
+prop_690eeb4dc201e2416c3adc54d23cc493,De'Aaron Fox,nba,SAS,Pts+Asts,19.5
+prop_690ee63b94ffd7a3754b0125c8728d50,Jeremiah Fears,nba,NOP,Pts+Asts,19.5
+prop_690f36dfcf973bbcb67ed3ab4c568e0c,Keldon Johnson,nba,SAS,Pts+Reb+Asts,17.5
+prop_690f3fd0b51cff2101dcd0f4836ec8a5,Herbert Jones,nba,NOP,Pts+Reb+Asts,19.5
+prop_690f44e983e747a6ce93c48ea83534bc,De'Aaron Fox,nba,SAS,Pts+Reb,17.5
+prop_690f3add3bb9e182b13f05b1b823770e,Saddiq Bey,nba,NOP,Pts+Reb+Asts,18.5
+prop_690ee63b70de016d519c35387af4150e,Devin Vassell,nba,SAS,Pts+Asts,17.5
+prop_690ee63bd91ec6197b77683922b90feb,Jeremiah Fears,nba,NOP,Pts+Reb,18.5
+prop_690f38b61ceb2e6a0335573ce945c658,Jose Alvarado,nba,NOP,Pts+Reb+Asts,17.5
+prop_690ee63baed0e6da0f92622b10587f18,Derik Queen,nba,NOP,Pts+Reb,17.5
+prop_690f5d0a10541cd9c67cf3e446eb72d1,Saddiq Bey,nba,NOP,Pts+Reb,17.5
+prop_690f4fe34098531628770fc7dcd579fa,Deandre Ayton,nba,LAL,Pts+Asts,16.5
+prop_690ee14dc932c33d31497e6375c7bb12,Kristaps Porziņģis,nba,ATL,Points,17.5
+prop_690ee14d7d2666cdaf021eb3b9782c51,Jake LaRavia,nba,LAL,Pts+Reb,16.5
+prop_690ee9b9d6103bdd6fd54170330bbb6d,Zaccharie Risacher,nba,ATL,Pts+Reb,16.5
+prop_690f4fe385451aa82122a08d294d6e83,Rui Hachimura,nba,LAL,Pts+Asts,16.5
+prop_690f4fe33304b4619cf2f46ad460fe92,Zaccharie Risacher,nba,ATL,Pts+Asts,14.5
+prop_690ee14d3acc9a6b227ef02163a09e9a,Deandre Ayton,nba,LAL,Points,15.5
+prop_690f0f06ea687124848e147ba1c0881a,Onyeka Okongwu,nba,ATL,Points,13.5
+prop_690ee536c4f2b4d087c90de11b2aaf33,Marcus Smart,nba,LAL,Pts+Asts,15.5
+prop_690ee14dc1e24129fb8477a93741b400,Luke Kennard,nba,ATL,Pts+Reb+Asts,13.5
+prop_690ee14d909e66dc4bf24a69973ef6cb,Rui Hachimura,nba,LAL,Points,15.5
+prop_690ee14d33cc35d2cf0e947e58056920,Dyson Daniels,nba,ATL,Points,13.5
+prop_690f04bbe3662c7d4b1acd5388ffc77e,Jake LaRavia,nba,LAL,Pts+Asts,14.5
+prop_690ee2a53b426e560dd8168580233e8c,Jalen Johnson,nba,ATL,Asts+Reb,13.5
+prop_690f1b543d0f9b7fa0ae6cb03b52c767,Zaccharie Risacher,nba,ATL,Points,13.5
+prop_690ee44bc39b25a6ed62f43ef875d281,Tre Jones,nba,CHI,Pts+Asts,17.5
+prop_690f2a9e18fe46807ed56c89e0f146aa,Jarrett Allen,nba,CLE,Pts+Asts,16.5
+prop_690ee8555e569f13c8518d39c19b50b9,Kevin Huerter,nba,CHI,Pts+Reb+Asts,17.5
+prop_690ee85502acabd1f9a7dbfa3f9f2425,De'Andre Hunter,nba,CLE,Points,16.5
+prop_690f5c008286ed2c84297c1a69b8b800,Matas Buzelis,nba,CHI,Pts+Asts,17.5
+prop_690ee536637d5f645cbdfadfba9c4914,Darius Garland,nba,CLE,Points,15.5
+prop_690ef676f75c8a27241dacc60614e13e,Ayo Dosunmu,nba,CHI,Pts+Reb+Asts,15.5
+prop_690ee44b7d54595339df723666c420d8,Jarrett Allen,nba,CLE,Points,14.5
+prop_690ef278d16ee387d93aa3c0824b9ad6,Matas Buzelis,nba,CHI,Points,15.5
+prop_690ef67623e3ece21ea42a61ea42e274,Lonzo Ball,nba,CLE,Pts+Reb+Asts,14.5
+prop_690ee44be9b44907d5b85e4f7af26cf4,Tre Jones,nba,CHI,Pts+Reb,14.5
+prop_690f42c801115e91a9d8f8ff2d8d10ef,Kevin Huerter,nba,CHI,Pts+Reb,14.5
+prop_690f42c8f09a9ebe3c8ed5ba083d6df0,Kevin Huerter,nba,CHI,Pts+Asts,14.5
+prop_690f0df19db9107ee2d5f9ffe956f254,Ayo Dosunmu,nba,CHI,Pts+Asts,14.5
+prop_690f630740d01a514f1973f7f9b8ce18,Jerami Grant,nba,POR,Points,17.5
+prop_690f1e4ce92fc37619ad644c43ae289b,Pelle Larsson,nba,MIA,Pts+Reb+Asts,16.5
+prop_690ee855837e6824b0feacdeb5097225,Toumani Camara,nba,POR,Pts+Asts,16.5
+prop_690ee63b84da72255be99f61a435e789,Jrue Holiday,nba,POR,Points,15.5
+prop_690f4deaaec6b416823c686ce63ac79d,Herbert Jones,nba,NOP,Pts+Reb,16.5
+prop_690ee63b99076cddce394b84d75f1769,Stephon Castle,nba,SAS,Points,16.5
+prop_690ee63ba53ad1397ea54f4fd23c77b7,Herbert Jones,nba,NOP,Pts+Asts,15.5
+prop_690ee63b5894707689a6006f425b4a79,Harrison Barnes,nba,SAS,Pts+Reb+Asts,16.5
+prop_690f0740ee26a97ca7195b46269e1e45,Jeremiah Fears,nba,NOP,Points,14.5
+prop_690f106ecb4915549b74c25074e80b77,Jeremy Sochan,nba,SAS,Pts+Reb+Asts,15.5
+prop_690f54e8c319649e27d76ae9e9a22375,Jose Alvarado,nba,NOP,Pts+Asts,14.5
+prop_690f173ac0f8fd4313a51cf9dba313c3,Devin Vassell,nba,SAS,Points,15.5
+prop_690eeb4d2045a20b65a78ebbdfd7dbf5,Jose Alvarado,nba,NOP,Pts+Reb,13.5
+prop_690f5e0c194c10ab0490414b736bdc9f,Victor Wembanyama,nba,SAS,Asts+Reb,15.5
+prop_690f4fe3ba4eea43729ae418f035bf8e,Saddiq Bey,nba,NOP,Pts+Asts,13.5
+prop_690f0cf458aee8f6e738a1bb2a9ca132,De'Aaron Fox,nba,SAS,Points,14.5
+prop_690ee63b023af87f91eb9523879d7ffc,Harrison Barnes,nba,SAS,Pts+Reb,14.5
+prop_690f42c851551bfd26e2eb31c12c02e8,Keldon Johnson,nba,SAS,Pts+Reb,14.5
+prop_690f46d3521445ac5ed912b7d7759c6c,Julian Champagnie,nba,SAS,Pts+Reb,14.5
+prop_690f50e3a936bc208c40a7696501af22,Jeremy Sochan,nba,SAS,Pts+Reb,13.5
+prop_690ee536696bd432072d787b3a856fbf,Marcus Smart,nba,LAL,Pts+Reb,13.5
+prop_690f5c0032003393e61d3db0d36d7614,Keaton Wallace,nba,ATL,Pts+Reb+Asts,12.5
+prop_690ee14de0dfa801596d7f2f2207980b,Jake LaRavia,nba,LAL,Points,11.5
+prop_690ee2a5ff4b02778e1b872d147e6c29,Dyson Daniels,nba,ATL,Asts+Reb,11.5
+prop_690f4fe31fd7e7cc66ebcfa091ed9ef5,Jarred Vanderbilt,nba,LAL,Pts+Reb+Asts,11.5
+prop_690f42c83e90213b465ed429c77e762b,Luke Kennard,nba,ATL,Pts+Asts,11.5
+prop_690ee14dfa1a900d7ace8f9d65b00343,Marcus Smart,nba,LAL,Points,11.5
+prop_690f51dd5c89d7a3d3280d6f1ee7c45d,Keaton Wallace,nba,ATL,Pts+Asts,10.5
+prop_690f3addf3d850dfc7ac59a83e40ad59,Deandre Ayton,nba,LAL,Asts+Reb,10.5
+prop_690f5d0a65f35ac5bb48ced53b971c47,Onyeka Okongwu,nba,ATL,Asts+Reb,10.5
+prop_690f173a5a510f58c18ba880de8265fe,Jaylon Tyson,nba,CLE,Pts+Reb,13.5
+prop_690f42c876b8f835178d8fa6ef881a0a,Jalen Smith,nba,CHI,Pts+Reb+Asts,13.5
+prop_690f58f83ef168ec7e6d48bce8d34b46,Evan Mobley,nba,CLE,Asts+Reb,12.5
+prop_690f54e8d9eaa0234ab9ece965900a0c,Nikola Vučević,nba,CHI,Asts+Reb,13.5
+prop_690f42c825456439f40298c1b9ff614f,Lonzo Ball,nba,CLE,Pts+Asts,11.5
+prop_690f42c858cf6c51d9a8d13d6b41958a,Ayo Dosunmu,nba,CHI,Pts+Reb,13.5
+prop_690ee44b3f1eb3631128e1216e9b9758,Jarrett Allen,nba,CLE,Asts+Reb,11.5
+prop_690f42c8fe532312358580b833461011,Jalen Smith,nba,CHI,Pts+Reb,12.5
+prop_690f4dea986e6f4baf9a9ee3d6d0b413,Lonzo Ball,nba,CLE,Pts+Reb,10.5
+prop_690ee9b972407d820da5589e8e35da58,Kevin Huerter,nba,CHI,Points,12.5
+prop_690efa7a28241d29ae88d2f0a0fdf30b,Patrick Williams,nba,CHI,Pts+Reb+Asts,11.5
+prop_690ee44baf4639c0e93b0fde0e7c54f8,Tre Jones,nba,CHI,Points,11.5
+prop_690f46d3cd76792f2f39da1304ff2564,Patrick Williams,nba,CHI,Pts+Reb,10.5
+prop_690ef46c3eee104c1269eefa759d513a,Ayo Dosunmu,nba,CHI,Points,10.5
+prop_690f2914befb63c4f5513cd1cfc043de,Pelle Larsson,nba,MIA,Pts+Asts,13.5
+prop_690efc839469165c7728230099193a16,Toumani Camara,nba,POR,Points,13.5
+prop_690ee85570468134ba98527050a4b9fd,Pelle Larsson,nba,MIA,Pts+Reb,13.5
+prop_690ee63bee047a49d2cb19a24a035755,Deni Avdija,nba,POR,Asts+Reb,12.5
+prop_690f237f5fb61cf4405854f3113c9a19,Nikola Jović,nba,MIA,Pts+Reb,13.5
+prop_690f6000aec7695420fb0c0fe399802d,Kris Murray,nba,POR,Pts+Reb+Asts,11.5
+prop_690efa7a0c4879a122505b6e2be33cac,Kel'el Ware,nba,MIA,Points,13.5
+prop_690f04bbcc8672867f307062a63c4660,Jrue Holiday,nba,POR,Asts+Reb,11.5
+prop_690ee855743133c75c9a885c59482c1b,Davion Mitchell,nba,MIA,Pts+Reb,13.5
+prop_690f3add98d9b7c5af186f136cd68814,Kel'el Ware,nba,MIA,Asts+Reb,11.5
+prop_690ee63b1d99de38e15f252396b74095,Kevon Looney,nba,NOP,Pts+Reb+Asts,12.5
+prop_690f55fb63c178adf8c35e17413afc9e,Keldon Johnson,nba,SAS,Pts+Asts,12.5
+prop_690ee63b20b8732ccbda346619f13251,Herbert Jones,nba,NOP,Points,12.5
+prop_690ee63b97272e90d67b63060a2926a6,Harrison Barnes,nba,SAS,Pts+Asts,12.5
+prop_690f54e8c8a6e0d655b3dbcdce5025dc,Derik Queen,nba,NOP,Pts+Asts,12.5
+prop_690eeb4d75bbd891798d3e751f00d9a7,Victor Wembanyama,nba,SAS,Rebounds,11.5
+prop_690ef990dfda611cc408cc6fdd0caf10,Saddiq Bey,nba,NOP,Points,12.5
+prop_690f38b6389ebadf3ecd4be474d37ad5,Harrison Barnes,nba,SAS,Points,11.5
+prop_690f4fe3f7e21ebf407320ab322fa051,Jordan Hawkins,nba,NOP,Pts+Reb+Asts,12.5
+prop_690f0cf426b33389f8a6ebb70d73f323,Stephon Castle,nba,SAS,Asts+Reb,10.5
+prop_690f4fe349f8818fd129949420c41bcb,Jordan Hawkins,nba,NOP,Pts+Reb,11.5
+prop_690ee63b03d789ca62704faf4316419c,Keldon Johnson,nba,SAS,Points,10.5
+prop_690f36df1907075b88151195355cdacf,Jose Alvarado,nba,NOP,Points,10.5
+prop_690f4fe316b777e70b75798b1e0a1d4b,Jeremy Sochan,nba,SAS,Pts+Asts,10.5
+prop_690eeb4d3e261dfd4a26bf13b3098a91,Kevon Looney,nba,NOP,Pts+Reb,10.5
+prop_690ee63b13df9f1e73daa6609a8e1df7,Derik Queen,nba,NOP,Points,10.5
+prop_690ee9b95b69add16f4a3440ca9caf66,Kel'el Ware,nba,MIA,Rebounds,10.5
+prop_690f4dea82acec55903837817ded326c,Donovan Clingan,nba,POR,Pts+Asts,10.5
+prop_690ef58f5f1314770e131aee3ac1cc3a,Pelle Larsson,nba,MIA,Points,10.5
+prop_690f42c82212924b771145c5c306619f,Donovan Clingan,nba,POR,Asts+Reb,10.5
+prop_690f24919fcd0bdfe05cb4b8e3666286,Davion Mitchell,nba,MIA,Points,10.5
+prop_690f6307d990f7fb3b7ef511f2ec766e,Kris Murray,nba,POR,Pts+Asts,8.5
+prop_690f58f8a9509cdafad69c146a8ebdd0,Davion Mitchell,nba,MIA,Asts+Reb,9.5
+prop_690ee855b3987e7bd07700589675cbad,Toumani Camara,nba,POR,Asts+Reb,8.5
+prop_690f237f86cb03908b310691583f099b,Nikola Jović,nba,MIA,Points,9.5
+prop_690efffc4682b1daa2af6b51c70fc26e,Donovan Clingan,nba,POR,Points,8.5
+prop_690f3add68e1779b4d204cedc22d0cab,Shaedon Sharpe,nba,POR,Asts+Reb,7.5
+prop_690f5d0a93658663939566dea6b96c51,Jordan Hawkins,nba,NOP,Points,9.5
+prop_690f51dd7a0f77e34cda521fdf3cfa6d,De'Aaron Fox,nba,SAS,Asts+Reb,8.5
+prop_690ee63b40f3d2baf3c5b8fe58912d5b,Trey Murphy III,nba,NOP,Asts+Reb,9.5
+prop_690f5c0085949f0071cee0ee84379e5e,Julian Champagnie,nba,SAS,Points,8.5
+prop_690f4fe3723af4da195740db13f71e8f,Jordan Hawkins,nba,NOP,Pts+Asts,9.5
+prop_690f1b54cc3074997d9009a18cec8ab8,Jeremy Sochan,nba,SAS,Points,8.5
+prop_690f4fe343fedd6d1225b982453fa091,Micah Peavy,nba,NOP,Pts+Reb+Asts,8.5
+prop_690f4fe3e57a989592f35c43753efb3e,Jeremy Sochan,nba,SAS,Asts+Reb,6.5
+prop_690ee63b1041fec3a47293ff48d232b2,Herbert Jones,nba,NOP,Asts+Reb,7.5
+prop_690eec51b5c684f75fa755ae283dd308,Devin Vassell,nba,SAS,Asts+Reb,6.5
+prop_690ee63b0091eb439fb7a8a056365e63,Kevon Looney,nba,NOP,Asts+Reb,7.5
+prop_690ee63b2459de31e428c5fbe9b0f6ec,Jeremiah Fears,nba,NOP,Asts+Reb,7.5
+prop_690efffc84abfbb7b49365473e68bccd,Jose Alvarado,nba,NOP,Asts+Reb,6.5
+prop_690ee63b772df30c7fdb2035c14c1cd5,Derik Queen,nba,NOP,Rebounds,6.5
+prop_690ee63b266a861d23bd1dfec8f25e53,Kevon Looney,nba,NOP,Pts+Asts,6.5
+prop_690f5e0c27506dcbd05feea6f04423b3,Micah Peavy,nba,NOP,Pts+Reb,6.5
+prop_690f57fe84087feae1f98d3372bc1fbd,Jaxson Hayes,nba,LAL,Pts+Reb,9.5
+prop_690ee14db55567385d8643a32540c0db,Luke Kennard,nba,ATL,Points,8.5
+prop_690f57fee17ec434024ca1feb297cf2e,Jaxson Hayes,nba,LAL,Pts+Reb+Asts,9.5
+prop_690f610e9c8a7b0429c06acc44ae4db2,Kristaps Porziņģis,nba,ATL,Rebounds,6.5
+prop_690ee14d66ebebb713ba76e4a5e217ec,Deandre Ayton,nba,LAL,Rebounds,9.5
+prop_690ee14ddf5d0026fa45deae100a4240,Keaton Wallace,nba,ATL,Points,6.5
+prop_690edf3072110eb1e31dc657e51a0074,Luka Dončić,nba,LAL,Rebounds,9.5
+prop_690ee9b9ba2fb1ab42f8462c9b231aaf,Jarred Vanderbilt,nba,LAL,Pts+Reb,9.5
+prop_690ee85537dcf38fa8f5bdde308a7b99,Dalton Knecht,nba,LAL,Points,6.5
+prop_690ee44bf7606e941f82c573b6065440,Donovan Mitchell,nba,CLE,Asts+Reb,9.5
+prop_690ee44b7d5c5c9f7b238b46a7234df0,Nikola Vučević,nba,CHI,Rebounds,9.5
+prop_690f173aa6e300fcfd96b888dd222f80,Sam Merrill,nba,CLE,Points,9.5
+prop_690f42c8b743d6a1abb9f5a53ffc38ac,Isaac Okoro,nba,CHI,Pts+Reb+Asts,9.5
+prop_690f173a734d4721a9d7abcf171467aa,Jaylon Tyson,nba,CLE,Points,9.5
+prop_690f42c83b25784c16ea7ea623e9f8bc,Isaac Okoro,nba,CHI,Pts+Reb,9.5
+prop_690ef6769c8273f1296525b41a388146,Evan Mobley,nba,CLE,Rebounds,9.5
+prop_690eeb4d840fadf6950f5e63370425d6,Josh Giddey,nba,CHI,Rebounds,9.5
+prop_690eee4fcfb9d5411745024e79da81f2,Jarrett Allen,nba,CLE,Rebounds,9.5
+prop_690f4dead6b1d3b58a934dbe03c8d9fe,Isaac Okoro,nba,CHI,Pts+Asts,8.5
+prop_690ee44ba02c0e9aefff778b4ff0b2ae,Darius Garland,nba,CLE,Asts+Reb,8.5
+prop_690ee855eb5f491127408f0d58eedc4d,Jalen Smith,nba,CHI,Points,7.5
+prop_690f2cc0e33103f1637a7009f24fb357,De'Andre Hunter,nba,CLE,Asts+Reb,6.5
+prop_690ee8558426b0507af7fa2d3a48ddb0,Patrick Williams,nba,CHI,Points,7.5
+prop_690ef363dd200f48a50365a4efc031f6,Lonzo Ball,nba,CLE,Points,6.5
+prop_690ee63bd535298403fbe9e99b6bb763,Isaac Okoro,nba,CHI,Points,6.5
+prop_690ee8559a635bd54389fc0a32d6d3b5,Lonzo Ball,nba,CLE,Assists,4.5
+prop_690ef67691b8d287101f04cd4a24f000,Matas Buzelis,nba,CHI,Rebounds,5.5
+prop_690f106e2407ce09d9e1a8f671b42cf2,De'Andre Hunter,nba,CLE,Rebounds,4.5
+prop_690f0af6f0b96584dede833ee75d48ee,Tre Jones,nba,CHI,Assists,5.5
+prop_690f5a07b909be48958887f83dc086a6,Evan Mobley,nba,CLE,Assists,3.5
+prop_690f268a1e8512c8fdda5f08ffca4df8,Jalen Smith,nba,CHI,Rebounds,4.5
+prop_690f55fb3f392b4d2d5a3bab1465fb93,Jaylon Tyson,nba,CLE,Rebounds,3.5
+prop_690f01affed7efc4d84deb99586257a0,Tre Jones,nba,CHI,Rebounds,3.5
+prop_690f3de771f82061ee9a1fab8f681240,Donovan Mitchell,nba,CLE,3-PT Made,3.5
+prop_690ee855f6b79bad46d773b9ce898130,Pelle Larsson,nba,MIA,Asts+Reb,6.5
+prop_690f600026bd60f42d360c8a0e6dcc53,Kris Murray,nba,POR,Points,6.5
+prop_690f58f8f22b2aeccb69dffbdc4edf6c,Davion Mitchell,nba,MIA,Assists,6.5
+prop_690eed553683c3ef8f5ec73cf2cb2334,Jrue Holiday,nba,POR,Assists,6.5
+prop_690f237faf2ccd18674f9a0a5c156483,Nikola Jović,nba,MIA,Rebounds,3.5
+prop_690ee855e4a96d66064981c74f6e07f6,Toumani Camara,nba,POR,Rebounds,5.5
+prop_690ef6765a9f416b2ee00952c44872ac,Shaedon Sharpe,nba,POR,Rebounds,4.5
+prop_690eed55973c08a85a5cd672032ccee9,Jrue Holiday,nba,POR,Rebounds,4.5
+prop_690f600017e92fa4c4707566e9298508,Kris Murray,nba,POR,Rebounds,3.5
+prop_690f2fd1dea07e980bd1c8aeeb4415c4,Jerami Grant,nba,POR,Rebounds,3.5
+prop_690f3bd47f7b50e50a7a87cd59a3b800,Deni Avdija,nba,POR,Turnovers,3.5
+prop_690f5a072b86f6815604259dfcbc82b1,Micah Peavy,nba,NOP,Pts+Asts,5.5
+prop_690eee4f75668b4e8d276f7ed093f54e,Stephon Castle,nba,SAS,Assists,5.5
+prop_690eee4fc58e41c39dfed9a4f838ea11,Kevon Looney,nba,NOP,Rebounds,5.5
+prop_690ee63b64868fb11f935cde6d488cd2,Julian Champagnie,nba,SAS,Rebounds,4.5
+prop_690ee63b83530ed8626158e907030db4,Trey Murphy III,nba,NOP,Rebounds,5.5
+prop_690f07404b58c89abf0cea700b126ebb,Jeremy Sochan,nba,SAS,Rebounds,4.5
+prop_690ee855704d5b62b25c499c839d2e89,Kevon Looney,nba,NOP,Points,4.5
+prop_690ee63b6120b37ae7247478163926fe,Victor Wembanyama,nba,SAS,Assists,3.5
+prop_690eee4f00d90868cd9a7ce866d75504,Saddiq Bey,nba,NOP,Rebounds,4.5
+prop_690eee4f42bb33ac0bce08551f376bab,Harrison Barnes,nba,SAS,Rebounds,3.5
+prop_690f38b65eb2bb57dfe10b40791f4085,Micah Peavy,nba,NOP,Points,4.5
+prop_690ee63ba7456f5ab51c93ce439d1ee7,Devin Vassell,nba,SAS,3-PT Made,2.5
+prop_690f52f9d364a88e275f55fde6f4eb2d,Trey Murphy III,nba,NOP,Assists,3.5
+prop_690f3bd4e9fb230ec6c2afcde6ebddc9,Stephon Castle,nba,SAS,Turnovers,2.5
+prop_690ee63b7083794c04bfe8ef80092761,Jeremiah Fears,nba,NOP,Rebounds,3.5
+prop_690f141fa49c3e9d3b8366951acff4e4,Jordan Hawkins,nba,NOP,Rebounds,2.5
+prop_690f1316dec20d3c40cada98994e7ec6,Micah Peavy,nba,NOP,Rebounds,2.5
+prop_690f3bd43aa5d96a3be3676ebd73a359,Jeremiah Fears,nba,NOP,Turnovers,2.5
+prop_690eee4ff745c51c426207c5a4b03fff,Jose Alvarado,nba,NOP,Rebounds,2.5
+prop_690f57fe60a232278cd3095ecbafe9de,Dyson Daniels,nba,ATL,Rebounds,5.5
+prop_690f5a07ba6cfbf7f1757336709a7758,Jarred Vanderbilt,nba,LAL,Points,5.5
+prop_690ee14d7075edf7677cd894114c6bd2,Dyson Daniels,nba,ATL,Assists,5.5
+prop_690f4fe3139548161b749964213c610f,Rui Hachimura,nba,LAL,Asts+Reb,5.5
+prop_690ee2a5083ac8f22dddf75dbdfe8f1c,Jalen Johnson,nba,ATL,Assists,5.5
+prop_690ee9b9ecf01ebbf94b7d3d096eb3b0,Jarred Vanderbilt,nba,LAL,Rebounds,4.5
+prop_690f5c00d6d025557d6b71edecad57b5,Keaton Wallace,nba,ATL,Asts+Reb,5.5
+prop_690ee14db0dffaebcd4ff46ed20b709d,Jaxson Hayes,nba,LAL,Rebounds,3.5
+prop_690f141f1af17fc1b660d5b8079c0858,Keaton Wallace,nba,ATL,Assists,3.5
+prop_690f13166e70afa763e5f23a0dc1e96d,Luke Kennard,nba,ATL,Rebounds,2.5
+prop_690ee14d1155fcd3caee4914ce8e07c4,Marcus Smart,nba,LAL,Rebounds,2.5
+prop_690f1d485292cc3b44c01f1f8ed5202f,Dyson Daniels,nba,ATL,Steals,2.5
+prop_690f1c3a638889d4c556a454238e8f34,Luka Dončić,nba,LAL,Steals,1.5
+prop_690ee14db26a64488ead97249866d045,Kristaps Porziņģis,nba,ATL,3-PT Made,1.5
+prop_690f3bd4cc0f4ab008f4857d6dc304c3,Marcus Smart,nba,LAL,Steals,1.5
+prop_690f6000378783588e70de40b3bba3e5,Zaccharie Risacher,nba,ATL,3-PT Made,1.5
+prop_690f3bd4547b5f193eff9393f9fd4980,Jake LaRavia,nba,LAL,Steals,1.5
+prop_690f3cc8f919fa47e1bee2bc9dfcd33c,Jalen Johnson,nba,ATL,Stls+Blks,1.5
+prop_690ee14d7f023a25bd8bcf053bae4113,Jake LaRavia,nba,LAL,3-PT Made,1.5
+prop_690ee14df8c893093e245fd5e5c9f752,Luke Kennard,nba,ATL,3-PT Made,1.5
+prop_690f3de7b7d3ec5c39b525a70693e57e,Dyson Daniels,nba,ATL,3-PT Made,0.5
+prop_690f173af50c5f2cbda4ee90a9c8a7b7,Sam Merrill,nba,CLE,3-PT Made,2.5
+prop_690ee855aa2d71eabb88f0450c2569ec,Kevin Huerter,nba,CHI,Rebounds,2.5
+prop_690f141fcae5529beb06fac74c4181a1,Jarrett Allen,nba,CLE,Stls+Blks,1.5
+prop_690ee9b98f59ab1d58d9bdb1c1144822,Patrick Williams,nba,CHI,Rebounds,2.5
+prop_690f31c5f9b72ad01d13f9f2b4d4d5c6,Lonzo Ball,nba,CLE,3-PT Made,1.5
+prop_690f5f02e4ec36f2cbb6e262000bc109,Nikola Vučević,nba,CHI,3-PT Made,1.5
+prop_690f141fd86c4bf297dd7a83ce045e56,Evan Mobley,nba,CLE,Blocks,1.5
+prop_690ee855b29ec44a2334eb61ef6ead1b,Josh Giddey,nba,CHI,3-PT Made,1.5
+prop_690f03ad14586d6851695dba55f1b410,Evan Mobley,nba,CLE,Double Double,0.5
+prop_690f5f020a100ceb815854fdee6b1ec9,Tre Jones,nba,CHI,3-PT Made,0.5
+prop_690f141fc6655963f25363110e9517f2,Jarrett Allen,nba,CLE,Blocks,0.5
+prop_690ef58f7f30bce55b125e531da7f74e,Nikola Vučević,nba,CHI,Double Double,0.5
+prop_690f3bd455f5202eb664124280f50b86,Kel'el Ware,nba,MIA,Stls+Blks,2.5
+prop_690f3bd4f381a1e5c7fa621a42f71584,Jrue Holiday,nba,POR,Turnovers,2.5
+prop_690f5704b632ec866dfec77e3e8a16d7,Andrew Wiggins,nba,MIA,Turnovers,2.5
+prop_690f49e5cc104141151955703a679438,Donovan Clingan,nba,POR,Blocks,1.5
+prop_690ee8552ac91058f6195c4451992b0d,Davion Mitchell,nba,MIA,Rebounds,2.5
+prop_690f32b06cc091bb8c44955774222bfa,Deni Avdija,nba,POR,Stls+Blks,1.5
+prop_690f5a075cb4dec1ee7b3f20f2d80e07,Kel'el Ware,nba,MIA,Blocks,1.5
+prop_690f33b523b0649c9c266f0ba18e6b4a,Toumani Camara,nba,POR,Blocks,0.5
+prop_690f33b5f847d87a59f036074818ed11,Kel'el Ware,nba,MIA,Double Double,0.5
+prop_690eee4f9979f67d65c1f64e3f51667a,Donovan Clingan,nba,POR,3-PT Made,0.5
+prop_690f18a707e8d45309f6fc9d37a94601,Herbert Jones,nba,NOP,Stls+Blks,1.5
+prop_690f237f3f52fb4ba6b7923f56bed3c0,Stephon Castle,nba,SAS,Steals,1.5
+prop_690f0740e911f6ada2364e3cdc5f7118,Jordan Hawkins,nba,NOP,3-PT Made,1.5
+prop_690ee63b35e333208e983747b4b03d0c,Herbert Jones,nba,NOP,3-PT Made,1.5
+prop_690f6123400ae52b6614b3e048d90e1d,Nico Iamaleava,ncaaf,UCLA,Pass Yds,180.5
+prop_690f578c6026a695781495bd303e2586,TJ Lateef,ncaaf,NEB,Pass Yds,158.5
+prop_690f5197befb290ff7604bfb5b10573a,Kwazi Gilmer,ncaaf,UCLA,Rec Yds,45.5
+prop_690ee36f19e2d129fc210d51feacfa7a,Emmett Johnson,ncaaf,NEB,Rush Yds,105.5
+prop_690e8b861c738cda0fe1b775d5f5c523,Jalen Berger,ncaaf,UCLA,Rush Yds,42.5
+prop_690e8276e72d960536dfda372c07dbe6,Nyziah Hunter,ncaaf,NEB,Rec Yds,44.5
+prop_690f47569478bb4615ea34c43848135a,Nico Iamaleava,ncaaf,UCLA,Rush Yds,36.5
+prop_690f50845c88a0c6ae799af9c4095744,Jaivian Thomas,ncaaf,UCLA,Rush Yds,34.5
+prop_690ef990b191f6550dac749d987c3abf,Nikola Jokić,nba,DEN,Pts+Reb+Asts,49.5
+prop_690f1528316df816146de45538d725e2,Pascal Siakam,nba,IND,Pts+Reb+Asts,39.5
+prop_690ef9903f9ad3040677b6f801b9d574,Nikola Jokić,nba,DEN,Pts+Reb,39.5
+prop_690ef990c751195bcb4b8517395c9538,Nikola Jokić,nba,DEN,Pts+Asts,36.5
+prop_690e534b1fead4cf1ce0fb07d7568898,Rico Flores Jr.,ncaaf,UCLA,Rec Yds,33.5
+prop_690ededd4bbae0d5bca33febe4ea6af3,Dane Key,ncaaf,NEB,Rec Yds,26.5
+prop_690ed1e02f03959f16c8cacef7d9f074,Titus Mokiao-Atimalala,ncaaf,UCLA,Rec Yds,28.5
+prop_690f519744b5a943526f137264b171a0,Jacory Barney Jr.,ncaaf,NEB,Rec Yds,23.5
+prop_690e685d638b9aa22cd15de73bea653d,Luke Lindenmeyer,ncaaf,NEB,Rec Yds,19.5
+prop_690e6656490457194fa2e8ed3c48f5a1,Emmett Johnson,ncaaf,NEB,Rec Yds,15.5
+prop_690f55fb6c548e5eb809ad3c2e29650c,Pascal Siakam,nba,IND,Pts+Reb,32.5
+prop_690f5c005786325e3b55873250c3b22b,Jamal Murray,nba,DEN,Pts+Reb+Asts,29.5
+prop_690ef9901ebf872ca8dcfce32f104669,Pascal Siakam,nba,IND,Pts+Asts,32.5
+prop_690f02c25f3fcba0fcf206eb6c0d004f,Nikola Jokić,nba,DEN,Points,26.5
+prop_690ef9900e76671e197c4c742c3e7c29,Pascal Siakam,nba,IND,Points,26.5
+prop_690ef9901b78107142dabaaa88ad15f2,Jamal Murray,nba,DEN,Pts+Asts,26.5
+prop_690f131656cc0fe71de15f8cc8ea064c,Jarace Walker,nba,IND,Pts+Reb+Asts,22.5
+prop_690ef9900a5916194c486584365bcf08,Jamal Murray,nba,DEN,Pts+Reb,24.5
+prop_690f2bb70d508b77492f7a736154c0fd,Aaron Nesmith,nba,IND,Pts+Reb+Asts,21.5
+prop_690f5c0069835b3fda320359058101f5,Aaron Gordon,nba,DEN,Pts+Reb+Asts,23.5
+prop_690f18a79be9b4eadc335886e9252924,Aaron Nesmith,nba,IND,Pts+Reb,19.5
+prop_690ef9902289affc879731f4538f558a,Nikola Jokić,nba,DEN,Asts+Reb,22.5
+prop_690f1618fe995061e95c147bfc7c918d,Jarace Walker,nba,IND,Pts+Reb,19.5
+prop_690ef9901e55e7e750102ef669ef270a,Aaron Gordon,nba,DEN,Pts+Reb,21.5
+prop_690f199ce1b5a6b4ac8fa5bb411f31a7,Isaiah Jackson,nba,IND,Pts+Reb+Asts,19.5
+prop_690ef990212a47ed9d84651cce2abc33,Christian Braun,nba,DEN,Pts+Reb+Asts,20.5
+prop_690f4eee7583c8ab306ef9d0f65c3bf5,Andrew Nembhard,nba,IND,Pts+Reb+Asts,18.5
+prop_690f02c26e8706007bb39078d486f3d7,Jamal Murray,nba,DEN,Points,20.5
+prop_690f50e39b3f0cd17b42cfa74563aa04,Aaron Nesmith,nba,IND,Pts+Asts,17.5
+prop_690ef99050767253a2e444da1c2b6252,Aaron Gordon,nba,DEN,Pts+Asts,18.5
+prop_690f199c31b359b6fc9d2f533fdfa686,Isaiah Jackson,nba,IND,Pts+Reb,17.5
+prop_690ef990c404b3b8fd638adc2f9a8deb,Christian Braun,nba,DEN,Pts+Reb,17.5
+prop_690f1528aa4ba56541a039c735bb523d,Jarace Walker,nba,IND,Pts+Asts,16.5
+prop_690ef9900d3bbcdd12048e4b874f3dbc,Christian Braun,nba,DEN,Pts+Asts,15.5
+prop_690f1316dbd4ca0c784d9b6716f9643a,Aaron Nesmith,nba,IND,Points,15.5
+prop_690ef990164118edba2310c99bf05373,Cameron Johnson,nba,DEN,Pts+Reb+Asts,15.5
+prop_690f1b549261485790028b20b63c62ba,Andrew Nembhard,nba,IND,Pts+Asts,15.5
+prop_690f63078a8837265259775e276418d7,Aaron Gordon,nba,DEN,Points,15.5
+prop_690f1b54b21612d1b424fc0f7e0e5c12,Andrew Nembhard,nba,IND,Pts+Reb,13.5
+prop_690f630726f82784ceae0320e0490541,Jonas Valančiūnas,nba,DEN,Pts+Reb+Asts,14.5
+prop_690f18a7955b979d95ba76b3a8e98bde,Jarace Walker,nba,IND,Points,12.5
+prop_690ef99030f1c20a84ffed80b781df7c,Cameron Johnson,nba,DEN,Pts+Reb,13.5
+prop_690f15286a7a7ffc2f2ad190bf9c9ae4,Pascal Siakam,nba,IND,Asts+Reb,12.5
+prop_690f63076be0e297cefa92a62872b3e0,Tim Hardaway Jr.,nba,DEN,Pts+Reb+Asts,12.5
+prop_690f54e89f6868fb5762217e8ae2984f,Andrew Nembhard,nba,IND,Points,11.5
+prop_690f63076af7ceb590091a00a7fc7828,Jonas Valančiūnas,nba,DEN,Pts+Reb,12.5
+prop_690f640bf230e340fe10e00425b40198,Bruce Brown,nba,DEN,Pts+Reb+Asts,12.5
+prop_690ef990c9fa5f8bfdb32e87936617e3,Nikola Jokić,nba,DEN,Rebounds,12.5
+prop_690f07405ce88f00503c627f1396b28c,Christian Braun,nba,DEN,Points,12.5
+prop_690f4eee6f0f4d60dead236b1dc7df7a,Cameron Johnson,nba,DEN,Pts+Asts,12.5
+prop_690f6307cee627843b3b4e05ec418638,Tim Hardaway Jr.,nba,DEN,Pts+Reb,11.5
+prop_690ef990be87389aba98be65e6111549,Cameron Johnson,nba,DEN,Points,10.5
+prop_690f03ad8c0f35967b7ba9de82a2796f,Tim Hardaway Jr.,nba,DEN,Points,9.5
+prop_690efd7dc679e0c4863be4782930eb8f,Nikola Jokić,nba,DEN,Assists,9.5
+prop_690f6307022c0bb827cf3f70f52ba3ff,Bruce Brown,nba,DEN,Pts+Reb,9.5
+prop_690f199caf34166a9038cf136b38295c,Isaiah Jackson,nba,IND,Points,9.5
+prop_690f6307316ffcddabca2bea24f50cb9,Bruce Brown,nba,DEN,Pts+Asts,8.5
+prop_690f3cc890c4e5aaaea15f20435666e7,Jarace Walker,nba,IND,Asts+Reb,9.5
+prop_690f63075ef8bbed198aa78a4f2b6c98,Jonas Valančiūnas,nba,DEN,Points,7.5
+prop_690f199c7ec96dc729cb4dcc0940ecc0,Isaiah Jackson,nba,IND,Rebounds,7.5
+prop_690f630750eb882661a55d4f0c58cedb,Bruce Brown,nba,DEN,Points,7.5
+prop_690f02c2871b43ffeb10d4ff9154ba27,Pascal Siakam,nba,IND,Rebounds,6.5
+prop_690ef9901d973594646d36a793540e8f,Aaron Gordon,nba,DEN,Asts+Reb,7.5
+prop_690f5d0a8075bfc2b9a7a7f882e3f63a,Pascal Siakam,nba,IND,Assists,5.5
+prop_690f02c28f5e5f80a26c7a68a858da1c,Cameron Johnson,nba,DEN,Asts+Reb,5.5
+prop_690f5c00b35a1979c8497752746843c1,Jarace Walker,nba,IND,Rebounds,5.5
+prop_690ef990783449f6a43b3263e3842352,Aaron Gordon,nba,DEN,Rebounds,5.5
+prop_690f54e802117dac6c059533ff7d357e,Aaron Nesmith,nba,IND,Asts+Reb,5.5
+prop_690f630736ea784ec43788b344dfc9ad,Jonas Valančiūnas,nba,DEN,Rebounds,5.5
+prop_690f5c00085d05f4a29d37f707666ca9,Andrew Nembhard,nba,IND,Assists,4.5
+prop_690ef99003237d94fccccb87eb497fcd,Christian Braun,nba,DEN,Rebounds,4.5
+prop_690f5a079b21a5b1dc9839a67715a20c,Jarace Walker,nba,IND,Assists,3.5
+prop_690f1d487817b1422900e846ac303fa8,Jamal Murray,nba,DEN,Rebounds,3.5
+prop_690f237fbfbbc74587d79f1e345789d9,Andrew Nembhard,nba,IND,Rebounds,2.5
+prop_690f3bd4c6c7cb588a2d0d4598c2212a,Nikola Jokić,nba,DEN,Turnovers,2.5
+prop_690f6000611f5e2bba20fd2bb982c520,Aaron Nesmith,nba,IND,3-PT Made,2.5
+prop_690ef990ce54dd0c39b729eed35eda82,Cameron Johnson,nba,DEN,3-PT Made,1.5
+prop_690f3cc8228567e869cf77aece9a4604,Pascal Siakam,nba,IND,Turnovers,2.5
+prop_690ef9901903d3ce7eeb981b9bc697d5,Nikola Jokić,nba,DEN,Steals,1.5
+prop_690f2ebefd449ce5d642262cba298edb,Pascal Siakam,nba,IND,Stls+Blks,1.5
+prop_690ef990355959bf84d5336820fd2cf3,Nikola Jokić,nba,DEN,3-PT Made,1.5
+prop_690efd7d7e6df2185677cf717458ceab,Pascal Siakam,nba,IND,3-PT Made,1.5
+prop_690ef99001aada0039615f56988620c2,Aaron Gordon,nba,DEN,3-PT Made,1.5
+prop_690f2ebe451d7c6c9ce2c2efe918691e,Aaron Gordon,nba,DEN,Steals,0.5
+prop_690f6307192e9cb28cee8abaed29e5c9,Bruce Brown,nba,DEN,3-PT Made,0.5
+prop_690ef990a81497ea27507986962d9e82,Nikola Jokić,nba,DEN,Blocks,0.5
+prop_690f426abc5f5af6cbab0324fa3828f8,Mateen Bhaghani,ncaaf,UCLA,Kicking Pts,5.5
+prop_690bf0ba659b6b5b0630da284356131a,TJ Lateef,ncaaf,NEB,INT,0.5
+prop_690d83efe27f32a8d59edfe4c1e91248,Kwazi Gilmer,ncaaf,UCLA,Rec,3.5
+prop_690ef521258cc48dfb3f184ae12a6210,Nico Iamaleava,ncaaf,UCLA,INT,0.5
+prop_690eec42643bfe6db485d435317937aa,Jack Eichel,nhl,VGK,Shots on Goal,3.5
+prop_690ef25a97306003e775ceafc1505e1d,Olen Zellweger,nhl,ANA,Shots on Goal,1.5
+prop_690f55e275aebf01e79d2cb09c193cac,Tomas Hertl,nhl,VGK,Shots on Goal,2.5
+prop_690ef25aea758cfd58cda39f80cfb2cd,Shea Theodore,nhl,VGK,,1.5
+prop_690eec42a016c3ee40f41af9f2c9e72f,Ivan Barbashev,nhl,VGK,Shots on Goal,1.5
+prop_690f1672919a7b6033c911f0d1f5800f,Nathan MacKinnon,nhl,COL,Shots on Goal,3.5
+prop_690ee1a087987f84bee2889250b03d58,Cale Makar,nhl,COL,Shots on Goal,2.5
+prop_690f11e57519fe69e6b70878bbaec432,Brad Marchand,nhl,FLA,Shots on Goal,2.5
+prop_690ee33cbc980c92d8adb0326e8639c0,Tyler Toffoli,nhl,SJ,Shots on Goal,2.5
+prop_690f3bd80bbbcd1b7d5dbb44d87751dc,Kirill Marchenko,nhl,CBJ,Shots on Goal,2.5
+prop_690ee8af8b2773c126ed3c164cbd2303,Quinn Hughes,nhl,VAN,Shots on Goal,2.5
+prop_690ee7a6d261b9fa54df3427eb9514fb,Jake DeBrusk,nhl,VAN,Shots on Goal,2.5
+prop_690ee7a62862a31eeb10ae1a97c588ac,Evander Kane,nhl,VAN,Shots on Goal,2.5
+prop_690f55e2e0c01253af1d84713f136c75,Conor Garland,nhl,VAN,Shots on Goal,2.5
+prop_690ef162c8f9d3189ec12797e53bfade,Jackson LaCombe,nhl,ANA,Shots on Goal,1.5
+prop_690ef25afd793bfaccd9e27c03258fdb,Ivan Barbashev,nhl,VGK,Points,0.5
+prop_690eec4275e042fdeba7250f95cfcfff,Leo Carlsson,nhl,ANA,Shots on Goal,1.5
+prop_690ef25ab91859164895bc23a103bde6,Shea Theodore,nhl,VGK,Points,0.5
+prop_690ef25a8b728596aa529f201f3b69fb,Chris Kreider,nhl,ANA,Points,0.5
+prop_690efddb5cfabc6da1955a9f573954a0,Gustav Forsling,nhl,FLA,Shots on Goal,1.5
+prop_690ee33c3c925cc6903f682d59a79b81,John Klingberg,nhl,SJ,Shots on Goal,1.5
+prop_690efddb5bc22e0d0f5feb1f7689a5bb,Sam Bennett,nhl,FLA,Points,0.5
+prop_690ee5375c6b779147e75353191eca69,Jeff Skinner,nhl,SJ,Shots on Goal,1.5
+prop_690f39b50e1fb99ad0fb8bd8307068ad,Seth Jones,nhl,FLA,Points,0.5
+prop_690ef463e18045e2367861855f77cefe,Philipp Kurashev,nhl,SJ,Shots on Goal,1.5
+prop_690efddb8c6a046fab7f4d4b3cdf3929,Mackie Samoskevich,nhl,FLA,Points,0.5
+prop_690ef25ae4ab1fec4ad891ece25f776b,Tyler Toffoli,nhl,SJ,Points,0.5
+prop_690ef25a0fcb696d763eb6872032ef91,Will Smith,nhl,SJ,Points,0.5
+prop_690ef25a0881621d16ca3bdab8e6c24a,Macklin Celebrini,nhl,SJ,Assists,0.5
+prop_690ee42ccf07cbb4df97f2cf2ca5ae4c,Brock Nelson,nhl,COL,Shots on Goal,1.5
+prop_690ee42c3ae6ab28d2cfb28d4f932262,Ryan Nugent-Hopkins,nhl,EDM,Shots on Goal,1.5
+prop_690ee42cc3740b644d10a4888cdfca3b,Martin Necas,nhl,COL,Assists,0.5
+prop_690ee42c5f69471824f263cfafbac5aa,Connor McDavid,nhl,EDM,Points,1.5
+prop_690ee42cb94e827b989a3e1125dff4c3,Valeri Nichushkin,nhl,COL,Points,0.5
+prop_690ee42cc2c54864000454a71696709b,Jake Walman,nhl,EDM,Shots on Goal,1.5
+prop_690ee42cb1ca3ae99a5dc703f3ec6b06,Artturi Lehkonen,nhl,COL,Points,0.5
+prop_690ee42c791c269685b5232409d75e9c,Mattias Ekholm,nhl,EDM,Shots on Goal,1.5
+prop_690f55e2ebbc5b6af89fd954c1c3bb3d,Connor McDavid,nhl,EDM,Powerplay Pts,0.5
+prop_690ee42cabbdb54237475feabc64769e,Leon Draisaitl,nhl,EDM,Assists,0.5
+prop_690ee42c76f67bdc3a270af043e90b11,Evan Bouchard,nhl,EDM,Assists,0.5
+prop_690ee42c94f9bef7fd2e089f9ae78214,Ryan Nugent-Hopkins,nhl,EDM,Assists,0.5
+prop_690ee42cfa5921f2020877e19af74b0a,Jack Roslovic,nhl,EDM,Points,0.5
+prop_690ef25a795f8f6f248e39ecf83a288f,Sean Monahan,nhl,CBJ,Shots on Goal,1.5
+prop_690ef25a3b24ca197b181df07d97fcaf,Brock Boeser,nhl,VAN,Points,0.5
+prop_690ee7a6d1900c9b70431cee6cbecaa6,Kent Johnson,nhl,CBJ,Shots on Goal,1.5
+prop_690ef25a6d1672664d6c72bf6699b23c,Conor Garland,nhl,VAN,Points,0.5
+prop_690ef25aea009445efd4fc7a8f7beb82,Dmitri Voronkov,nhl,CBJ,Points,0.5
+prop_690ef25a3407548edd2b8da2652a0c7f,Jake DeBrusk,nhl,VAN,Points,0.5
+prop_690ef25abdde0c844d04e6d7949a4119,Sean Monahan,nhl,CBJ,Points,0.5
+prop_690ef25abd978601f0a0e6976077b30a,Zach Werenski,nhl,CBJ,Assists,0.5
+prop_690eec51c5c300953d51621eea9b15e9,Devin Booker,nba,PHX,Pts+Reb+Asts,39.5
+prop_690f01af73266ed883947c95b0218b31,James Harden,nba,LAC,Pts+Reb+Asts,37.5
+prop_690edf3097294d1631c8b005eadd786e,Devin Booker,nba,PHX,Pts+Asts,34.5
+prop_690f50e3917729c6a9fdb5e23ef003e0,James Harden,nba,LAC,Pts+Asts,32.5
+prop_690eb5204c9c6992b547907a7ebdd66b,Devin Booker,nba,PHX,Pts+Reb,31.5
+prop_690eec512b8feb84ded7a708c55e0ee2,Ivica Zubac,nba,LAC,Pts+Reb+Asts,30.5
+prop_690f4eee08c204ae41c8b8ae471caa23,Devin Booker,nba,PHX,Points,26.5
+prop_690ef278883bdf0f9777147d3c3169f4,James Harden,nba,LAC,Pts+Reb,28.5
+prop_690eb520c7d7e30369fb3bf64c827db5,Mark Williams,nba,PHX,Pts+Reb+Asts,23.5
+prop_690eb520090681e3393caf734b43df5d,Ivica Zubac,nba,LAC,Pts+Reb,27.5
+prop_690ee44ba6cba35fe6287bb77043a77b,Jalen Green,nba,PHX,Pts+Reb+Asts,23.5
+prop_690f4eeee4a1e4e096927c354c4eb30a,James Harden,nba,LAC,Points,23.5
+prop_690ee44ba6bc1f864a32739c64efd6ba,John Collins,nba,LAC,Pts+Reb+Asts,22.5
+prop_690f54e8900d12d064df104ff49bfc64,John Collins,nba,LAC,Pts+Reb,21.5
+prop_690ee855067d641deb3fab931d39ce35,Grayson Allen,nba,PHX,Pts+Reb+Asts,21.5
+prop_690eee4f5d31055641cb3090058af914,Ivica Zubac,nba,LAC,Pts+Asts,19.5
+prop_690f6307f45b022d0855f70b5131a065,Mark Williams,nba,PHX,Pts+Reb,21.5
+prop_690ee855ecc79b34f8d7c3fd03405e48,Ivica Zubac,nba,LAC,Points,16.5
+prop_690eed552c8791d5437b9d4719ef4b8a,Jalen Green,nba,PHX,Pts+Asts,20.5
+prop_690edf3004ebfdb06e3aab9ba17cd131,John Collins,nba,LAC,Pts+Asts,15.5
+prop_690edd55d06d26401d98ec9b814aa244,Jalen Green,nba,PHX,Pts+Reb,20.5
+prop_690eb6150d6e01b93d068dc98eee6b00,John Collins,nba,LAC,Points,14.5
+prop_690edf30229352a9059f632e69abf867,Grayson Allen,nba,PHX,Pts+Asts,18.5
+prop_690f5c008bcac3fe9583e442b3e12ad3,James Harden,nba,LAC,Asts+Reb,14.5
+prop_690edf30767bf843315c1ac294631498,Grayson Allen,nba,PHX,Pts+Reb,17.5
+prop_690eb52067a822c874644adb355b92ce,Bradley Beal,nba,LAC,Pts+Reb+Asts,14.5
+prop_690f106e7eeebb005dcaf8e3e1de56de,Jalen Green,nba,PHX,Points,17.5
+prop_690f31c56af1ece5570f1f4dd83b7b53,Derrick Jones Jr.,nba,LAC,Pts+Reb+Asts,14.5
+prop_690f55fb01c7f9adcd43cf869513bad4,Royce O'Neale,nba,PHX,Pts+Reb+Asts,16.5
+prop_690eb520099b4e47707807085c55c9b8,Ivica Zubac,nba,LAC,Asts+Reb,13.5
+prop_690f50e38cd78c2dd591fe0409e284da,Dillon Brooks,nba,PHX,Pts+Reb+Asts,16.5
+prop_690f0af64843ee81814d94635eb3dbfe,Derrick Jones Jr.,nba,LAC,Pts+Reb,13.5
+prop_690eb520b6b2806aee344db1f500411d,Collin Gillespie,nba,PHX,Pts+Reb+Asts,15.5
+prop_690edf302a23e5f9148752a7896bb52f,Bradley Beal,nba,LAC,Pts+Asts,12.5
+prop_690ede26eecef43658cd4828c867c9c8,Dillon Brooks,nba,PHX,Pts+Reb,15.5
+prop_690edf30c1fa537b16b6f97516270b06,Bradley Beal,nba,LAC,Pts+Reb,12.5
+prop_690eb5204440728b8eb7fe7a878bd8ca,Grayson Allen,nba,PHX,Points,14.5
+prop_690edf30d99d6eee328cd5848c356be3,Derrick Jones Jr.,nba,LAC,Pts+Asts,11.5
+prop_690edf3032b9a5b429df16806cd00261,Mark Williams,nba,PHX,Pts+Asts,14.5
+prop_690eb8494a6e0e0860a2086a85240940,Ivica Zubac,nba,LAC,Rebounds,11.5
+prop_690ef0ca6f1ba76d4e94da17708379b9,Royce O'Neale,nba,PHX,Pts+Reb,14.5
+prop_690f50e319d566abe17989f8149dbe3f,Bradley Beal,nba,LAC,Points,11.5
+prop_690ede26dbdcebf49ebc164e27dc3b92,Dillon Brooks,nba,PHX,Pts+Asts,14.5
+prop_690ef46c3631ef94097d0373ca4b4d02,Brook Lopez,nba,LAC,Pts+Reb+Asts,11.5
+prop_690ede2630b005cc7600ac66bce106db,Ryan Dunn,nba,PHX,Pts+Reb+Asts,13.5
+prop_690f58f83b58f940f7fab879bfd4ffe2,Kris Dunn,nba,LAC,Pts+Reb,11.5
+prop_690eb52060e636e912ef22a26156c1f9,Mark Williams,nba,PHX,Points,12.5
+prop_690ee44be3a80b02d80b96fec1ae431d,Derrick Jones Jr.,nba,LAC,Points,10.5
+prop_690ef0ca3affd3b019fb28a2d608975f,Royce O'Neale,nba,PHX,Pts+Asts,12.5
+prop_690f1e4c6808d4d9bef385cb9a2eec41,Kris Dunn,nba,LAC,Pts+Asts,10.5
+prop_690ede2608bba4cc975b81c709559b2f,Collin Gillespie,nba,PHX,Pts+Asts,12.5
+prop_690ede26aa8a50a28e8e40859b91405b,Brook Lopez,nba,LAC,Pts+Reb,10.5
+prop_690edf301bdb34ae059eba7e5e869786,Ryan Dunn,nba,PHX,Pts+Reb,12.5
+prop_690ede2634a64d38825c27a19ee18220,Nicolas Batum,nba,LAC,Pts+Reb+Asts,9.5
+prop_690f52f941751e6755efb17681a3ff8f,Dillon Brooks,nba,PHX,Points,12.5
+prop_690eb520d575ad2dfcd7c6c8ee216984,James Harden,nba,LAC,Assists,8.5
+prop_690ede269bba74a4280b317f3d9377d5,Collin Gillespie,nba,PHX,Pts+Reb,11.5
+prop_690eec51060f4b2bcfc744516bbfef18,Kris Dunn,nba,LAC,Points,7.5
+prop_690f49e56d5d64914e34e8c0f94105fd,Devin Booker,nba,PHX,Asts+Reb,11.5
+prop_690eb520792c866ec44db7b18fbda631,Mark Williams,nba,PHX,Asts+Reb,10.5
+prop_690f52f956dc4540a291b3c0698b15c8,Royce O'Neale,nba,PHX,Points,9.5
+prop_690ee63bc3a2262711916b4f1d958260,Mark Williams,nba,PHX,Rebounds,9.5
+prop_690f6307468a21ec8e9192a431ac38a6,Ryan Dunn,nba,PHX,Pts+Asts,8.5
+prop_690eb5206ff2b304d294bad80c1a32ba,Collin Gillespie,nba,PHX,Points,8.5
+prop_690f237f05ab3ac7009d081ac6f5f651,Nicolas Batum,nba,LAC,Pts+Reb,7.5
+prop_690ec929e4c8391eaee6278208d187ee,Collin Gillespie,nba,PHX,Asts+Reb,7.5
+prop_690eb5207d816c764fad6c0ce7028651,Brook Lopez,nba,LAC,Points,7.5
+prop_690eeb4d312e2c8c0f4ac7e187b9ce0b,Ryan Dunn,nba,PHX,Points,7.5
+prop_690f01afd1e04e230102c3efcbe5ed60,James Harden,nba,LAC,Rebounds,5.5
+prop_690ee9b9d58ab12fdfff7066b9822f9d,Grayson Allen,nba,PHX,Asts+Reb,7.5
+prop_690f54e836f80ced8b8d5fbd59344870,Nicolas Batum,nba,LAC,Pts+Asts,5.5
+prop_690f33b5ccaeb6e68349912b68ca6929,Royce O'Neale,nba,PHX,Asts+Reb,6.5
+prop_690eb520fbf4d56658f5957d57290bda,Nicolas Batum,nba,LAC,Points,4.5
+prop_690edf30335cdae02b0f8ace760bf3af,Jalen Green,nba,PHX,Asts+Reb,6.5
+prop_690eec51d52927fa88a3cd2ddb6d9420,Kris Dunn,nba,LAC,Rebounds,3.5
+prop_690edf30d0d41ec1db941359f712cbb9,Ryan Dunn,nba,PHX,Asts+Reb,5.5
+prop_690f51ddce6979907d733cb95958bd6e,Brook Lopez,nba,LAC,Rebounds,2.5
+prop_690eeb4de360483a9b39ebd95b205534,Royce O'Neale,nba,PHX,Rebounds,4.5
+prop_690f52f9eebac7fcd872101d6dfb2bce,Nicolas Batum,nba,LAC,Rebounds,2.5
+prop_690ee8559c41fdd731b6c82957248a74,Ryan Dunn,nba,PHX,Rebounds,4.5
+prop_690f3cc836b877657fa71b7773e56d85,Kris Dunn,nba,LAC,Steals,1.5
+prop_690f54e86df4db7bfbc3c320e3a8dc9f,Grayson Allen,nba,PHX,Assists,3.5
+prop_690ede26cb007bd3f443389ab5100ef4,Derrick Jones Jr.,nba,LAC,3-PT Made,1.5
+prop_690eb5209c5bf10e04b1c5c7de7ed80b,Grayson Allen,nba,PHX,Rebounds,3.5
+prop_690f58f8385b9b101b95119f056b0baa,Brook Lopez,nba,LAC,3-PT Made,1.5
+prop_690ee8551203e3ed610d4a3ea186c7ca,Jalen Green,nba,PHX,Rebounds,3.5
+prop_690edf307c225be50cf7e8a92ce4918c,Ivica Zubac,nba,LAC,Steals,0.5
+prop_690eb520754ee8fca0154c2cb6a272b3,Dillon Brooks,nba,PHX,Rebounds,2.5
+prop_690eeb4dc33d68b5564974f552224801,Royce O'Neale,nba,PHX,3-PT Made,2.5
+prop_690eec517400728cd53ba04805c66fc1,Jalen Green,nba,PHX,3-PT Made,2.5
+prop_690eda1f0a4682a8258bafeaa9f6b694,Micah Alejado,ncaaf,HAW,Pass Yds,270.5
+prop_690e3aafc723ae727093454b6e315fe0,Lucky Sutton,ncaaf,SDSU,Rush Yds,111.5
+prop_690ed564007a2c6fd115f8e384af85e3,Jackson Harris,ncaaf,HAW,Rec Yds,81.5
+prop_690e56ca94b8610adddee2fef9e59e65,Jordan Napier,ncaaf,SDSU,Rec Yds,73.5
+prop_690ef2fb767834ceb0dec8fda770c3aa,Pofele Ashlock,ncaaf,HAW,Rec Yds,52.5
+prop_690e3aaffc8d2d2236c6bb2c5e2a8fbf,Micah Alejado,ncaaf,HAW,Pass TDs,1.5
+prop_690e7b28b0a587c4ba945a925f16aeae,Daniel Jones,nfl,IND,Pass + Rush Yds,260.5
+prop_690d3429774a510ac6bb646aa268156e,Michael Penix Jr.,nfl,ATL,Pass + Rush Yds,241.5
+prop_690e2e842fb9f2e20f8ffc2f8924884a,Daniel Jones,nfl,IND,Pass Yds,243.5
+prop_690f1429c58e1f8c1b9a1f7a3b7c1318,Michael Penix Jr.,nfl,ATL,Pass Yds,231.5
+prop_690e76dbea1f3a1f96cd282779d894e6,Jonathan Taylor,nfl,IND,Rush + Rec Yds,114.5
+prop_690e4aa8ce7fffe62e2bb275c1f6dfce,Bijan Robinson,nfl,ATL,Rush + Rec Yds,114.5
+prop_690d3a0524ca68d45e99c85bb91f9c96,Jonathan Taylor,nfl,IND,Rush Yds,92.5
+prop_690d3a05e8194730d2ccbbf226f18062,Drake London,nfl,ATL,Rec Yds,70.5
+prop_690e3e96bfc4b2f0e1551d658df2cf92,Alec Pierce,nfl,IND,Rec Yds,57.5
+prop_690d9da114b2a14d695d6d13a4eebb3e,Bijan Robinson,nfl,ATL,Rush Yds,67.5
+prop_690e33a31e727c9f7ec26cd4cfd0c5a6,Michael Pittman Jr.,nfl,IND,Rec Yds,56.5
+prop_690d1487befbf20042ed257a2b8c7d60,Kyle Pitts Sr.,nfl,ATL,Rec Yds,46.5
+prop_690eb63e95a2b556a1bcc4d08454cb3d,Tyler Warren,nfl,IND,Rec Yds,45.5
+prop_690d9c8ea585a321543daf05c04f6f3f,Bijan Robinson,nfl,ATL,Rec Yds,42.5
+prop_690d0fd6a3a6e5074e67c3c10c465e29,Josh Downs,nfl,IND,Rec Yds,36.5
+prop_690e4b9d717c75dad0fa63227d5a026b,Michael Penix Jr.,nfl,ATL,Pass Att,34.5
+prop_690d11016177594deebfced2f3f63b67,Daniel Jones,nfl,IND,Pass Att,31.5
+prop_690d3eb5b3639dcdd9846778dd1f9e0b,Darnell Mooney,nfl,ATL,Rec Yds,34.5
+prop_690d1101866562f9a33b47922ad3b453,Alec Pierce,nfl,IND,Long Rec,25.5
+prop_690d1101108a0bc945f4c23ee1938870,Drake London,nfl,ATL,Long Rec,22.5
+prop_690a64a18717e97f1e5694f9e8e995bd,Daniel Jones,nfl,IND,Pass Comp,21.5
+prop_690d0fd681de85af1f24381c723e9575,Michael Penix Jr.,nfl,ATL,Pass Comp,21.5
+prop_690d1101c16545e019dd1b01fd2eb437,Michael Pittman Jr.,nfl,IND,Long Rec,19.5
+prop_690d0fd6e582e68884e088ddba175515,Tyler Allgeier,nfl,ATL,Rush Yds,19.5
+prop_690d1101ac4be3c74f6c8aae4b4f511c,Jonathan Taylor,nfl,IND,Longest Rush,19.5
+prop_690e4daa8abd51427ff1637b082867ee,Kyle Pitts Sr.,nfl,ATL,Long Rec,18.5
+prop_690da82d4edef7f0c3e665d7ec63205d,Jonathan Taylor,nfl,IND,Rush Att,18.5
+prop_690d42394ff0d99e13176175369aad7a,Darnell Mooney,nfl,ATL,Long Rec,17.5
+prop_690f4e0d889d63de9c005ed6849b229e,Tyler Warren,nfl,IND,Long Rec,17.5
+prop_690dfc8d69625541a821abc4b7b9b88f,Bijan Robinson,nfl,ATL,Long Rec,16.5
+prop_690af974bedfc8fb2df32b046f68b836,Jonathan Taylor,nfl,IND,Rec Yds,17.5
+prop_690e10836773798a5f8109868d723930,Bijan Robinson,nfl,ATL,Rush Att,15.5
+prop_690ebf510d8129132f5d3942c3d3e180,Josh Downs,nfl,IND,Long Rec,16.5
+prop_690f4e0dad8f10c8efb138d00b76ce4b,Bijan Robinson,nfl,ATL,Longest Rush,15.5
+prop_690e9521b3c5dc51f8f322444559dea5,Daniel Jones,nfl,IND,Rush Yds,12.5
+prop_690d1101cfd0897cbdaed29688867805,Michael Penix Jr.,nfl,ATL,Rush Yds,6.5
+prop_690d1101aa428688f35b3badba40fd06,Jonathan Taylor,nfl,IND,Long Rec,10.5
+prop_690d4838dcf1595cfa6f5e8856f7dab2,David Sills V,nfl,ATL,Rec Yds,6.5
+prop_690f4e0d386a2ddde8ce4cf6e0ae7829,Daniel Jones,nfl,IND,Longest Rush,8.5
+prop_690d1935f2a426c8c4be5e04dbbd4731,Zane Gonzalez,nfl,ATL,Kicking Pts,6.5
+prop_6909a6c9cf0a2568e0936a57181106c5,Michael Badgley,nfl,IND,Kicking Pts,7.5
+prop_690d48383377920064884511a11e5fd3,Michael Penix Jr.,nfl,ATL,Rush Att,2.5
+prop_690c04a5017cfb4e13e4bc0127f2b325,Tyler Warren,nfl,IND,Rec,4.5
+prop_690e94091dae997e1d91d77e5c6c7686,Xavier Watts,nfl,ATL,Ast,2.5
+prop_690d110117c5173ab7b63ef8be8c3318,Daniel Jones,nfl,IND,Rush Att,3.5
+prop_690e82ee51b3a989fea474b5db62a106,Zane Gonzalez,nfl,ATL,FGs,1.5
+prop_690e61b9f1bba6720a7e05b1372d09b4,Neville Gallimore,nfl,IND,Ast,1.5
+prop_690a5b4204ceb6d233d2cc7451cf271b,Michael Penix Jr.,nfl,ATL,INT,0.5
+prop_6909270ecc7e72a1238837b030c93dd3,Michael Badgley,nfl,IND,FGs,1.5
+prop_69092a915386fd3431cf12dfed32c6f4,Daniel Jones,nfl,IND,Pass TDs,1.5
+prop_69092a910a1f6903a73d9aca623f349f,Daniel Jones,nfl,IND,INT,0.5
+prop_690f44f9fcf05b00b7a2ff2cc5408cdc,Drake Maye,nfl,NE,Pass + Rush Yds,276.5
+prop_690f521a4225261b12b3d5eb414ac4c1,Baker Mayfield,nfl,TB,Pass + Rush Yds,262.5
+prop_690eed6fb323100b314f6cda8557b31f,Drake Maye,nfl,NE,Pass Yds,243.5
+prop_690e4b9d40b636924eedad0afbd6d4f4,Baker Mayfield,nfl,TB,Pass Yds,245.5
+prop_690eed6f1a41cf64d2a5446d0ff031fc,Lamar Jackson,nfl,BAL,Pass + Rush Yds,265.5
+prop_690d0fd6f72989f4f877a48702e666f9,J.J. McCarthy,nfl,MIN,Pass + Rush Yds,232.5
+prop_690e7de895f8a2d0cd0877af03eb83d9,Lamar Jackson,nfl,BAL,Pass Yds,224.5
+prop_690dfe3ba6221ebccc40c979add52acc,J.J. McCarthy,nfl,MIN,Pass Yds,209.5
+prop_690eed6f09a87ac9096a8cd24fa5ea08,Josh Allen,nfl,BUF,Pass + Rush Yds,264.5
+prop_690def2d4064d3848c6bf85e0f6d16bf,Tua Tagovailoa,nfl,MIA,Pass Yds,217.5
+prop_690e56cbace123a810343fe005aba865,Josh Allen,nfl,BUF,Pass Yds,233.5
+prop_690ec22b6d2209cd511fc2f06ac52ee1,Jaxson Dart,nfl,NYG,Pass + Rush Yds,247.5
+prop_690eed6f83ecf1b9c0e9a23ebf60a5f0,Caleb Williams,nfl,CHI,Pass + Rush Yds,242.5
+prop_690eca5a98f250ef6f6b1cda411e3d05,Caleb Williams,nfl,CHI,Pass Yds,222.5
+prop_690e0453100402ceb3d8f8e0b9f6ab9a,Trevor Lawrence,nfl,JAC,Pass + Rush Yds,222.5
+prop_690e54ad961a071c805d34984feece9c,Davis Mills,nfl,HOU,Pass Yds,211.5
+prop_690e005c7006cbe0fefe0d1d7ced8225,Justin Fields,nfl,NYJ,Pass + Rush Yds,211.5
+prop_690f612cd32f62e0ed46c07e1d27d5d3,Jaxson Dart,nfl,NYG,Pass Yds,208.5
+prop_690e82ee9fc0710edb4ec189ffacdb96,Kyle Monangai,nfl,CHI,Rush + Rec Yds,64.5
+prop_690ec654c9218aa46c6c60612caecab5,Tyrone Tracy Jr.,nfl,NYG,Rush + Rec Yds,66.5
+prop_690e69caa9b96b8ae97a59a257064b91,Rome Odunze,nfl,CHI,Rec Yds,56.5
+prop_690dd3e3efab599b939ebb796c22fc79,Wan'Dale Robinson,nfl,NYG,Rec Yds,51.5
+prop_690eed6f3135fb34e1dcc24552b8a700,Kyle Monangai,nfl,CHI,Rush Yds,52.5
+prop_690e2285f478d51b42538f1d4edec9b9,Tyrone Tracy Jr.,nfl,NYG,Rush Yds,44.5
+prop_690e7cf3cdfb9390ce70d122e88fee46,Devin Singletary,nfl,NYG,Rush + Rec Yds,43.5
+prop_690d867c5ef8312f5183bf0f587d09dd,Trevor Lawrence,nfl,JAC,Pass Yds,205.5
+prop_690f4e0d2ec947aa2ed8484b5bb07cfd,Nico Collins,nfl,HOU,Rec Yds,65.5
+prop_690eed6f694219faae102fce1bbfd57a,Travis Etienne Jr.,nfl,JAC,Rush + Rec Yds,74.5
+prop_690e74d90519c75505773ed1a5745d92,Woody Marks,nfl,HOU,Rush + Rec Yds,49.5
+prop_690e53a436f74e1019ab08c28ae03ba5,Travis Etienne Jr.,nfl,JAC,Rush Yds,55.5
+prop_690e870ce27c042685d420cfd2a8f7ec,Parker Washington,nfl,JAC,Rec Yds,46.5
+prop_690def2d4faf78de2d397543bf8e82be,Dillon Gabriel,nfl,CLE,Pass + Rush Yds,196.5
+prop_690def2d96162ccfb4b8916baba248c4,Justin Fields,nfl,NYJ,Pass Yds,167.5
+prop_690e46a237bd4ae4c84d3bb8ced297fb,Dillon Gabriel,nfl,CLE,Pass Yds,186.5
+prop_690eed6f26b822e122f625798472150d,Breece Hall,nfl,NYJ,Rush + Rec Yds,81.5
+prop_690f5d4918f5bdc5c28e9b4e7afbc332,Quinshon Judkins,nfl,CLE,Rush Yds,83.5
+prop_690f501fd9925a9648e2a2a43321674e,Breece Hall,nfl,NYJ,Rush Yds,60.5
+prop_690ec7504c8935d8ad5126dc58da862f,Garrett Wilson,nfl,NYJ,Rec Yds,53.5
+prop_690e63d09e5e988110dfbc04d91d1bfa,Tyler Shough,nfl,NO,Pass + Rush Yds,191.5
+prop_690e3e961e5cea750c28cf2290b861ba,Bryce Young,nfl,CAR,Pass + Rush Yds,188.5
+prop_690ede4a5d0c776cfcde9fc1ddfa943d,Tyler Shough,nfl,NO,Pass Yds,178.5
+prop_690eed6f048d291a7acdba54b760f7c1,Bryce Young,nfl,CAR,Pass Yds,175.5
+prop_690f3c0590cfa3d190f0dbeb6945fb06,Chris Olave,nfl,NO,Rec Yds,58.5
+prop_690e7cf3c772fca161bb0771c79a250f,Rico Dowdle,nfl,CAR,Rush + Rec Yds,110.5
+prop_690ebf51fee57d60f87e2d3545775b25,Alvin Kamara,nfl,NO,Rush + Rec Yds,54.5
+prop_690e47b0538e966aba16d2da4065f771,Rico Dowdle,nfl,CAR,Rush Yds,91.5
+prop_690eed6f8ea4825e8b77dc42d398e24d,Tetairoa McMillan,nfl,CAR,Rec Yds,51.5
+prop_690d8c0d58c7b59c4c853f59800fc24a,De'Von Achane,nfl,MIA,Rush + Rec Yds,100.5
+prop_690d498238d3bddeb951be954750f35f,James Cook III,nfl,BUF,Rush + Rec Yds,98.5
+prop_690e60b59b4f38d37d59a4183840ff36,Jaylen Waddle,nfl,MIA,Rec Yds,66.5
+prop_690f1249f43d3e5696f87fdfc74644b8,James Cook III,nfl,BUF,Rush Yds,86.5
+prop_690e56cb8aae65a36dedd8d1f68321b9,De'Von Achane,nfl,MIA,Rush Yds,65.5
+prop_690d0fd6ae63ba9f409081cb9c6a1407,Khalil Shakir,nfl,BUF,Rec Yds,47.5
+prop_690dafad2aa00397e58b8aa90e11a3b0,Dalton Kincaid,nfl,BUF,Rec Yds,43.5
+prop_690e6fd8db6d5b1c789401a1cd7b4556,Derrick Henry,nfl,BAL,Rush Yds,79.5
+prop_690d3d98dc4b0ce57fc20ada1626edd4,Justin Jefferson,nfl,MIN,Rec Yds,73.5
+prop_690e238ae73ca96d933657543f30b370,Zay Flowers,nfl,BAL,Rec Yds,68.5
+prop_690e870c7fb2769c549950574407ebca,Aaron Jones Sr.,nfl,MIN,Rush + Rec Yds,62.5
+prop_690b4924225b247ecf6de326a234987a,Jordan Addison,nfl,MIN,Rec Yds,47.5
+prop_690eea78a2ac4a6e7fb86589cc4a9e9b,TreVeyon Henderson,nfl,NE,Rush + Rec Yds,72.5
+prop_690e3898ab477db4aef1e3bc41bec7e0,Emeka Egbuka,nfl,TB,Rec Yds,71.5
+prop_690e2e84bdc13757532b42bc96f3d5fc,Stefon Diggs,nfl,NE,Rec Yds,55.5
+prop_690e2e84ac792a8fdc5f5b771ab85e2c,Rachaad White,nfl,TB,Rush + Rec Yds,66.5
+prop_690e7b28a77734309d4cbff75345e7c4,TreVeyon Henderson,nfl,NE,Rush Yds,44.5
+prop_690e4fc3a6d8e4c4fcf5e1ddc36799c6,Tez Johnson,nfl,TB,Rec Yds,44.5
+prop_690eed6f6d6538a4742f9905147be789,Cade Otton,nfl,TB,Rec Yds,43.5
+prop_690eed6f5d59a6a83bb4e27092d857a6,Rachaad White,nfl,TB,Rush Yds,42.5
+prop_690e7b2874b32420dc37e374ab574001,DJ Moore,nfl,CHI,Rec Yds,41.5
+prop_690e60b5a22982e9df6e5f05e100fec9,Darius Slayton,nfl,NYG,Rec Yds,39.5
+prop_690e36a39e0d682033c1dd17d9b751ec,Caleb Williams,nfl,CHI,Pass Att,30.5
+prop_690dfe3bed4974a8bef96f5f029f74bd,Jaxson Dart,nfl,NYG,Rush Yds,37.5
+prop_690efea0cb8dd38fea104623fffec15c,Olamide Zaccheaus,nfl,CHI,Rec Yds,29.5
+prop_690ea33b60634348ed01c015653f5337,Devin Singletary,nfl,NYG,Rush Yds,32.5
+prop_690e5bb5182f937eae2aac913d8a3d6b,Colston Loveland,nfl,CHI,Rec Yds,28.5
+prop_690e54ad36fe04e2169cc1afe42071fd,Theo Johnson,nfl,NYG,Rec Yds,31.5
+prop_690e7de894ed4485674cc978bb17fbe5,Jaxson Dart,nfl,NYG,Pass Att,28.5
+prop_690e75dce2b531cf8d44be0946916052,Aaron Jones Sr.,nfl,MIN,Rush Yds,39.5
+prop_690d0fd6779b50a4c49cb58d8e2954bb,Lamar Jackson,nfl,BAL,Rush Yds,38.5
+prop_690d553ac3731f86821850e9c037793e,J.J. McCarthy,nfl,MIN,Pass Att,31.5
+prop_690ebf51e1a4265c7b8ccaafd52d7e7a,Mark Andrews,nfl,BAL,Rec Yds,32.5
+prop_690e3d8edcd0de30d4b674df2a0e334a,T.J. Hockenson,nfl,MIN,Rec Yds,30.5
+prop_690d24ed70c4165507224dfe11384e83,Rashod Bateman,nfl,BAL,Rec Yds,27.5
+prop_690d11017ded64d0bfdfb6826388cd77,Lamar Jackson,nfl,BAL,Pass Att,26.5
+prop_690d0fd617f118b5d7f6b80b4603d3ee,Isaiah Likely,nfl,BAL,Rec Yds,26.5
+prop_690d4239a7b9e083fbc3fc3ac20240db,Zay Flowers,nfl,BAL,Long Rec,25.5
+prop_690d30a566cf7dbbed0e9d8fba345603,Juwan Johnson,nfl,NO,Rec Yds,38.5
+prop_690e4ca67644fdf1a2e0f5d3a5bfebf2,Xavier Legette,nfl,CAR,Rec Yds,32.5
+prop_690e64e0745105e83bfe2c45dc0aaba4,Alvin Kamara,nfl,NO,Rush Yds,36.5
+prop_690f521af4a0a7f23bc8b4e35ed6b2c8,Jalen Coker,nfl,CAR,Rec Yds,30.5
+prop_690d11011f27b4a2216a23b890eaf882,Tyler Shough,nfl,NO,Pass Att,31.5
+prop_690d11016f262855e95d1025b112f2ae,Bryce Young,nfl,CAR,Pass Att,28.5
+prop_690e37933b0a8ef4fd46faefa2c50259,Jerry Jeudy,nfl,CLE,Rec Yds,38.5
+prop_690d0fd66bfc4ac4e66427b5dd2119cc,Justin Fields,nfl,NYJ,Rush Yds,37.5
+prop_690e3f9af02ae573749799022541b5a7,Harold Fannin Jr.,nfl,CLE,Rec Yds,35.5
+prop_690f521aa5f7a067991033c2cbb02b46,Mason Taylor,nfl,NYJ,Rec Yds,26.5
+prop_690f521a5adc66f245f951d14b519bc1,David Njoku,nfl,CLE,Rec Yds,32.5
+prop_690d11013d9fd1be5bbee97d9b1e6df6,Dillon Gabriel,nfl,CLE,Pass Att,31.5
+prop_690e66d2fa842faff118b906a9ac41c8,Dalton Schultz,nfl,HOU,Rec Yds,37.5
+prop_690d110106f420dc2e512245ac559d77,Trevor Lawrence,nfl,JAC,Pass Att,32.5
+prop_690eed6f7e5e7f657250242f1c722dc4,Nick Chubb,nfl,HOU,Rush Yds,35.5
+prop_690e880decc2ef4cfe7153b15a2dbf71,Dyami Brown,nfl,JAC,Rec Yds,29.5
+prop_690d11014874f01c9d7f4d1d0470f8d0,Davis Mills,nfl,HOU,Pass Att,33.5
+prop_690e74d944f72e6fdd2f6debaf549f48,Woody Marks,nfl,HOU,Rush Yds,32.5
+prop_690e74d95f365f55299c688e1ceb62fc,Christian Kirk,nfl,HOU,Rec Yds,31.5
+prop_690e4aa8fdf9ad85610c0045b1dd416a,DeMario Douglas,nfl,NE,Rec Yds,36.5
+prop_690d1101fa1a0ffe987e41905feaf703,Baker Mayfield,nfl,TB,Pass Att,34.5
+prop_690e2e849b7367fc7e9f3a89f9666e7e,Hunter Henry,nfl,NE,Rec Yds,35.5
+prop_690e2e84d871036e790e628133b7fdfe,Sterling Shepard,nfl,TB,Rec Yds,30.5
+prop_690d11014ab342b27ef545acfede1c6e,Drake Maye,nfl,NE,Pass Att,32.5
+prop_690de53b4962c796f0dbce4d55d01827,Drake Maye,nfl,NE,Rush Yds,29.5
+prop_690e4599b7edf77c6ac4c2ec4a207f2d,Terrell Jennings,nfl,NE,Rush Yds,27.5
+prop_690d0fd621a75c4955822ff7de01d9a0,Keon Coleman,nfl,BUF,Rec Yds,32.5
+prop_690d1101b412cd159748bd70b87f5a2c,Tua Tagovailoa,nfl,MIA,Pass Att,31.5
+prop_690d11017bce0a323368a797bf2b5f78,Josh Allen,nfl,BUF,Pass Att,28.5
+prop_690e48c0b98cb12127c84f7143bfb6a6,De'Von Achane,nfl,MIA,Rec Yds,30.5
+prop_690ec75086b58714a9da041d7c1b5c4a,Josh Allen,nfl,BUF,Rush Yds,27.5
+prop_690bc305300bc3545f41f23f01d50710,Malik Washington,nfl,MIA,Rec Yds,28.5
+prop_690d1101e0ebbbbdee4920653d784a33,Justin Jefferson,nfl,MIN,Long Rec,25.5
+prop_690cecaf9346c711391e748fe7886c53,Lamar Jackson,nfl,BAL,Pass Comp,19.5
+prop_690f4e0df824e086b90d80dfbe916f25,Jordan Addison,nfl,MIN,Long Rec,20.5
+prop_690e2c9e511bba60268b7ca0d5db172f,Derrick Henry,nfl,BAL,Rush Att,17.5
+prop_690e3d8ed33ce8992980d636866aecf1,Jalen Nailor,nfl,MIN,Rec Yds,20.5
+prop_690d53cd7828c104cb296f87844d5b4e,J.J. McCarthy,nfl,MIN,Pass Comp,19.5
+prop_690d261adfebc7f6bb1c57e33a719295,J.J. McCarthy,nfl,MIN,Rush Yds,18.5
+prop_690e75dc332ad7247fcd188a862a5b19,Aaron Jones Sr.,nfl,MIN,Rec Yds,17.5
+prop_690e40a944131f31193cc558db51287c,Mack Hollins,nfl,NE,Rec Yds,25.5
+prop_690e8cf7072338bba3a37bbb5c34c1e3,Emeka Egbuka,nfl,TB,Long Rec,24.5
+prop_690ee85f05d348b98525dfa182917dc3,TreVeyon Henderson,nfl,NE,Rec Yds,24.5
+prop_690cb6c61b64832bba989c0edc893619,Baker Mayfield,nfl,TB,Pass Comp,22.5
+prop_690cd8c1042b41dca620927916fc3605,Drake Maye,nfl,NE,Pass Comp,21.5
+prop_690e2e84b034405df987891491dd859c,Tez Johnson,nfl,TB,Long Rec,21.5
+prop_690f4e0d52aadad13b11ca4177c6be55,Stefon Diggs,nfl,NE,Long Rec,20.5
+prop_690f11425c66b428033ccda1e8ef3ccd,Rachaad White,nfl,TB,Rec Yds,20.5
+prop_690f4e0dd4d3649a7cb261b96c198929,DeMario Douglas,nfl,NE,Long Rec,18.5
+prop_690d11019642ddffdca9771ee99adc9c,Justin Fields,nfl,NYJ,Pass Att,25.5
+prop_690cbdce9a9accb353a65e54c0d7cf0e,Dillon Gabriel,nfl,CLE,Pass Comp,20.5
+prop_690f4e0d05ca6abc0e400838ce8ea1bb,Garrett Wilson,nfl,NYJ,Long Rec,21.5
+prop_690d11019bbc973295385993657df784,Quinshon Judkins,nfl,CLE,Rush Att,19.5
+prop_690f4e0d793680f362434324fc41d36b,Rome Odunze,nfl,CHI,Long Rec,22.5
+prop_690f4e0d96ac5c3df809a4f5a83bf452,Darius Slayton,nfl,NYG,Long Rec,21.5
+prop_690f4e0d2fe3444fd374d2ccb37cc535,DJ Moore,nfl,CHI,Long Rec,19.5
+prop_690f4e0db0221404fdd96cf2587e9dc7,Wan'Dale Robinson,nfl,NYG,Long Rec,20.5
+prop_690e59adeab6d7975deb75af6773fb30,Caleb Williams,nfl,CHI,Pass Comp,18.5
+prop_690f521a668d98648ab9defe06c74318,Jaxson Dart,nfl,NYG,Pass Comp,18.5
+prop_690e3d8ea457452b239da73a72dc2610,Caleb Williams,nfl,CHI,Rush Yds,17.5
+prop_690e6ee34d2d5406dd7db98c1b1a944d,Tyrone Tracy Jr.,nfl,NYG,Rec Yds,17.5
+prop_690d423924109d47c733e947bc4610f3,Jaylen Waddle,nfl,MIA,Long Rec,22.5
+prop_690cae92a8de90b27df64381111e59a8,Josh Allen,nfl,BUF,Pass Comp,20.5
+prop_690e56cbb89a7bfadc8d5fb6657f70a8,Greg Dulcich,nfl,MIA,Rec Yds,20.5
+prop_690d11011402eed354124b705bb52c1f,Khalil Shakir,nfl,BUF,Long Rec,19.5
+prop_690b84e8337fc97d7258423296120c8b,Tua Tagovailoa,nfl,MIA,Pass Comp,20.5
+prop_690d1101213720cc7c19acaf48c80b29,Dalton Kincaid,nfl,BUF,Long Rec,18.5
+prop_690d11017bb64294eef1b0db9a961b7f,Nico Collins,nfl,HOU,Long Rec,21.5
+prop_690e5fb29a40c03c8b1d9e4ed0a8f961,Bhayshul Tuten,nfl,JAC,Rush Yds,20.5
+prop_690cc05300405d77dcb03c01f5a4940f,Davis Mills,nfl,HOU,Pass Comp,20.5
+prop_690d0fd6150b08245fb601c99b1aef87,Trevor Lawrence,nfl,JAC,Pass Comp,19.5
+prop_690e67cc3426afef5352d94df05ebb57,Xavier Hutchinson,nfl,HOU,Rec Yds,18.5
+prop_690e55bb71cd145c4ce53af869b7b6e9,Parker Washington,nfl,JAC,Long Rec,19.5
+prop_690eea78c3048f9f0d615b12817cf86f,Chuba Hubbard,nfl,CAR,Rush Yds,21.5
+prop_690dfc8da28280d5ccc5313b2f71479f,Chris Olave,nfl,NO,Long Rec,20.5
+prop_690d1101c2a941f901d9dd4c47e382e6,Rico Dowdle,nfl,CAR,Rush Att,19.5
+prop_690e8cf753f8e77ba1c3490920544c76,Devaughn Vele,nfl,NO,Rec Yds,20.5
+prop_690f4e0de529a58714d0a22ea5664a54,Rico Dowdle,nfl,CAR,Longest Rush,17.5
+prop_690e64e0586bb29e5c96eedf060e0d4b,Brandin Cooks,nfl,NO,Rec Yds,19.5
+prop_690f521af71e2a79355e2e2c0ea3e1fb,Ja'Tavion Sanders,nfl,CAR,Rec Yds,17.5
+prop_690e54adc27a43daa0781c696cee3588,Tyler Shough,nfl,NO,Pass Comp,18.5
+prop_690e218b60187fdba40391f9110ab387,Bryce Young,nfl,CAR,Pass Comp,17.5
+prop_690d110162bfb6940b28816fdff8c1d2,Jerry Jeudy,nfl,CLE,Long Rec,17.5
+prop_690cff6ea0ee29869e4b7d3be3106e0f,Justin Fields,nfl,NYJ,Pass Comp,16.5
+prop_690f4e0d06d690dc7bb5053f1c30c9d8,Quinshon Judkins,nfl,CLE,Longest Rush,16.5
+prop_690ec335c667655116baf06505412429,Breece Hall,nfl,NYJ,Rush Att,15.5
+prop_690e70d73df2509a90b8b849e171ec05,Harold Fannin Jr.,nfl,CLE,Long Rec,14.5
+prop_690d041dfad07b2a76275825b31ba79c,Breece Hall,nfl,NYJ,Rec Yds,15.5
+prop_690f4e0df2e4afb2408d5cbcd96b710b,David Njoku,nfl,CLE,Long Rec,13.5
+prop_690e5bb58604869b0205f251d81658b8,Mason Taylor,nfl,NYJ,Long Rec,14.5
+prop_690f4e0de13d1eb70b9ad8d6560ba493,Breece Hall,nfl,NYJ,Longest Rush,14.5
+prop_690f5a2911ab77e54944e175f15f54d7,Adonai Mitchell,nfl,NYJ,Rec Yds,13.5
+prop_690d1101a31507617e4c897c667a1cd5,James Cook III,nfl,BUF,Rush Att,17.5
+prop_690d3429db7ccf547cb3f8af0c0ac02c,Nick Westbrook-Ikhine,nfl,MIA,Rec Yds,16.5
+prop_690f4e0d362c0e5928e48abd9b6cce75,James Cook III,nfl,BUF,Longest Rush,17.5
+prop_690d110143d8d4aac55382c873c00775,De'Von Achane,nfl,MIA,Longest Rush,15.5
+prop_690dfc8dd62f3f20e40cec60dd2fa788,Keon Coleman,nfl,BUF,Long Rec,16.5
+prop_690d1101846e4c420988c1155ad46947,Malik Washington,nfl,MIA,Long Rec,14.5
+prop_690f4e0d39fde591842becd7055548ae,Greg Dulcich,nfl,MIA,Long Rec,13.5
+prop_690d2acafa98995fa14b6073d80ad3df,De'Von Achane,nfl,MIA,Rush Att,13.5
+prop_690f4e0ddc5e976263db42ec02bcc293,Dyami Brown,nfl,JAC,Long Rec,16.5
+prop_690f4e0d126dbb4d6175a1c7d91ca0ee,Christian Kirk,nfl,HOU,Long Rec,16.5
+prop_690f53171de2dcb71ada55b4ac0dcb56,Travis Etienne Jr.,nfl,JAC,Rec Yds,15.5
+prop_690d110179d081da7ce3efb3011ab8e9,Dalton Schultz,nfl,HOU,Long Rec,14.5
+prop_690d0fd696c98ca83f8e5e5e1860b9ef,Trevor Lawrence,nfl,JAC,Rush Yds,14.5
+prop_690e179babb844ae85c45445db10793e,Woody Marks,nfl,HOU,Rec Yds,13.5
+prop_690eed6fc35ba30314b17e2a8e0dfa00,Johnny Mundt,nfl,JAC,Rec Yds,14.5
+prop_690e07603c9f5d160be75954845f35f3,Travis Etienne Jr.,nfl,JAC,Rush Att,13.5
+prop_690d11016d24415b53a0abd5b76b413f,Travis Etienne Jr.,nfl,JAC,Longest Rush,12.5
+prop_690d4239b9eadef7bfb2c7b4266ccd81,Isaiah Likely,nfl,BAL,Long Rec,16.5
+prop_690d11016a6f4642cdde43b0d163ff2e,Jalen Nailor,nfl,MIN,Long Rec,13.5
+prop_690f4e0d292b2f2d8e8bf99b8767ff60,Derrick Henry,nfl,BAL,Longest Rush,16.5
+prop_690d42391c105a91cf055289b7d488f1,T.J. Hockenson,nfl,MIN,Long Rec,13.5
+prop_690d1101db53002ecf1e348723940037,Mark Andrews,nfl,BAL,Long Rec,15.5
+prop_690e56cb1de2bd8eeb807a6706d55b72,Justice Hill,nfl,BAL,Rec Yds,14.5
+prop_690d1101480b4c50b08de3966f3d9dc0,Lamar Jackson,nfl,BAL,Longest Rush,14.5
+prop_690e2e84ea3dd1331df44bd92c15f0ed,Hunter Henry,nfl,NE,Long Rec,16.5
+prop_690f5515084eb81e884d7cdfc89829e4,Sterling Shepard,nfl,TB,Long Rec,16.5
+prop_690e1c7d3131f9febc3893b8ea7840d8,Austin Hooper,nfl,NE,Rec Yds,15.5
+prop_690e2c9ea75212c7aac9a67e9a6ed0ca,Cade Otton,nfl,TB,Long Rec,16.5
+prop_690f4e0d3567158133d9c0529421e63b,Drake Maye,nfl,NE,Longest Rush,13.5
+prop_690d0fd6c1ca07793b69bcf40038b7eb,Baker Mayfield,nfl,TB,Rush Yds,15.5
+prop_690e2e84b88a180b997a54eaa16909aa,Rachaad White,nfl,TB,Rush Att,13.5
+prop_690e7eec520f032ac222eb2ff4f73f24,Theo Johnson,nfl,NYG,Long Rec,16.5
+prop_690f21a4cd7110ced2967056904cc03c,Olamide Zaccheaus,nfl,CHI,Long Rec,15.5
+prop_690d110124bbc6ab8de7ac3a02d4e5de,Jaxson Dart,nfl,NYG,Longest Rush,13.5
+prop_690f4e0da4263e5a1aa4647a61aab3a8,Colston Loveland,nfl,CHI,Long Rec,15.5
+prop_690e78fc63e52284962fa19931408b10,Kyle Monangai,nfl,CHI,Longest Rush,14.5
+prop_690e40a9db302fecaef991b628606fcf,Xavier Legette,nfl,CAR,Long Rec,16.5
+prop_690ba109ad784448d00c422542186762,Alvin Kamara,nfl,NO,Rec Yds,14.5
+prop_690e46a21373004dc11c49c78d03fe08,Jalen Coker,nfl,CAR,Long Rec,16.5
+prop_690f501f2c6af525369aa8ec79abb8ff,Rico Dowdle,nfl,CAR,Rec Yds,15.5
+prop_690d110151b086f92561c811ac473928,Xavier Hutchinson,nfl,HOU,Long Rec,12.5
+prop_690e77e48793563fd8c40c2e6a079306,Johnny Mundt,nfl,JAC,Long Rec,10.5
+prop_690e66d23d67fa4e625a311350e87dc9,Woody Marks,nfl,HOU,Rush Att,10.5
+prop_690e85f4ed6f725fe411c58eb5e702fe,Tim Patrick,nfl,JAC,Rec Yds,10.5
+prop_690eb543fd41e99199c1a7ee31b6fd82,Nick Chubb,nfl,HOU,Rush Att,10.5
+prop_690d110138f98cc3e7208e9a0c50af10,Travis Etienne Jr.,nfl,JAC,Long Rec,9.5
+prop_690f4e0d0a30d6220fe9cfd147ee3af5,Woody Marks,nfl,HOU,Longest Rush,9.5
+prop_690d11013d4a0b471ac73326bfbd5e98,Woody Marks,nfl,HOU,Long Rec,9.5
+prop_690f4e0df455e9edc80498d5b164d363,Nick Chubb,nfl,HOU,Longest Rush,9.5
+prop_690f4e0d3e1e29bef9a4a57c01a56b1c,TreVeyon Henderson,nfl,NE,Long Rec,12.5
+prop_690e2e84dce7cd797e09a3a4b90a40ec,Rachaad White,nfl,TB,Longest Rush,10.5
+prop_690e51ab942076b9bbf375d306f0ac43,TreVeyon Henderson,nfl,NE,Rush Att,12.5
+prop_690e2e8428d876274bb2fc653361779c,Rachaad White,nfl,TB,Long Rec,10.5
+prop_690f4e0d286f84a2af9d4b2c5d8f2603,TreVeyon Henderson,nfl,NE,Longest Rush,11.5
+prop_690d1101f4a58cdf0ebce74aca57c474,Baker Mayfield,nfl,TB,Longest Rush,9.5
+prop_690f4e0d3cf32de5c29fca3bf9910d61,Austin Hooper,nfl,NE,Long Rec,9.5
+prop_690e8a009fadae36b424d15d741ceab2,D'Andre Swift,nfl,CHI,Rush Att,12.5
+prop_690f3a21ddd1a34b7a3e30ef3c66814e,Tyrone Tracy Jr.,nfl,NYG,Rush Att,10.5
+prop_690ef2ab72678332b40e96496198d4e6,D'Andre Swift,nfl,CHI,Rec Yds,12.5
+prop_690d110126e024fb16f452d904161c79,Devin Singletary,nfl,NYG,Longest Rush,10.5
+prop_690d110112655579a4a1710888801b59,D'Andre Swift,nfl,CHI,Longest Rush,12.5
+prop_690d1101bb5095730fe7f916cb93e638,Tyrone Tracy Jr.,nfl,NYG,Long Rec,10.5
+prop_690f4e0de7d7f7668f72f77a12535d91,Caleb Williams,nfl,CHI,Longest Rush,10.5
+prop_690e78fc2a2260db8e83f268d3e62a95,Daniel Bellinger,nfl,NYG,Rec Yds,9.5
+prop_690d11018a42c28b98fe8dac69eb6311,Justin Fields,nfl,NYJ,Longest Rush,12.5
+prop_690ebc41af0a42b4f16ca796af9175a1,Jamari Thrash,nfl,CLE,Rec Yds,12.5
+prop_690f4e0d00deecdf45ef663c6c55b5aa,Tyler Johnson,nfl,NYJ,Rec Yds,11.5
+prop_690e70d751bdfee9f3b3f6cacd4bcbb6,Tyler Johnson,nfl,NYJ,Long Rec,10.5
+prop_690e70d71235d9da01d0e4e27218487d,Isaiah Davis,nfl,NYJ,Rec Yds,10.5
+prop_690d1101e1ed154da42b931df128bedb,Breece Hall,nfl,NYJ,Long Rec,9.5
+prop_690dfc8d47eaf9bcfd2c62fb9dda24d1,Nick Westbrook-Ikhine,nfl,MIA,Long Rec,12.5
+prop_690f4e0dda6f055dbf70407515c42ae5,Josh Allen,nfl,BUF,Longest Rush,12.5
+prop_690f4e0d70c6a96f3d77424e617991b1,De'Von Achane,nfl,MIA,Long Rec,12.5
+prop_690d23c202aad73c3ba3fd94d46efc83,Dawson Knox,nfl,BUF,Rec Yds,11.5
+prop_690eed6faa54a5239537ad5d191337f7,Julian Hill,nfl,MIA,Rec Yds,12.5
+prop_690e75dcb93ded09bfbd3b9128800e96,Aaron Jones Sr.,nfl,MIN,Long Rec,11.5
+prop_690f4e0d83df161d6224eaf172deca5a,Justice Hill,nfl,BAL,Long Rec,9.5
+prop_690e75dc326fe9eb05a506797e265ecf,Aaron Jones Sr.,nfl,MIN,Longest Rush,11.5
+prop_690d11018d849b1bb7f2118147564d80,J.J. McCarthy,nfl,MIN,Longest Rush,10.5
+prop_690e75dcb602694ffe59941fcdbd7f69,Aaron Jones Sr.,nfl,MIN,Rush Att,9.5
+prop_690d51986dfaba82a064285ab512fa26,Blake Cashman,nfl,MIN,Tackles + Ast,9.5
+prop_690f4e0d1ba099cf45848a8bcbc547a1,Brandin Cooks,nfl,NO,Long Rec,11.5
+prop_690f4e0dec025d66123582b2168ed026,Ja'Tavion Sanders,nfl,CAR,Long Rec,10.5
+prop_690d9c8e4467a777bb779432c8bb01fb,Tyler Shough,nfl,NO,Rush Yds,11.5
+prop_690e4aa8fbd6f9b271a54969106cab60,Rico Dowdle,nfl,CAR,Long Rec,9.5
+prop_690f4e0d1dd18b4fd0f763ef451a2ea6,Devaughn Vele,nfl,NO,Long Rec,11.5
+prop_690e4ebe95fa7585bfd73d2dd3637b53,Bryce Young,nfl,CAR,Rush Yds,9.5
+prop_690d1101db507ae368c9844ba3e52f90,Alvin Kamara,nfl,NO,Longest Rush,10.5
+prop_690d11016f102504188a569a9c3868c4,Alvin Kamara,nfl,NO,Long Rec,9.5
+prop_690e64e02bb8db2643641e51bce413e5,Alvin Kamara,nfl,NO,Rush Att,9.5
+prop_690e8bf48ca5e8141f418ec88f86740e,Jerome Ford,nfl,CLE,Rec Yds,9.5
+prop_690f38fa28f5cc71a0b859cc257594ac,Justin Fields,nfl,NYJ,Rush Att,8.5
+prop_690e7eecf0cd674ab802420cb1ae1c56,Jamari Thrash,nfl,CLE,Long Rec,8.5
+prop_690e70d7e386f142ba7e94c8baaeab28,Isaiah Davis,nfl,NYJ,Long Rec,8.5
+prop_690e5fb2887da43bfab4abaf4da2a849,Dillon Gabriel,nfl,CLE,Rush Yds,6.5
+prop_690ea02a5227e51d82d49e60887a2b37,Malachi Moore,nfl,NYJ,Tackles + Ast,5.5
+prop_690d1f12649b881438672420fec8c72d,Julian Hill,nfl,MIA,Long Rec,9.5
+prop_690e249edf894e720a58ca0e16bef1b8,Dawson Knox,nfl,BUF,Long Rec,8.5
+prop_690e55bb55dde94e657b290991c43199,Dante Trader Jr.,nfl,MIA,Tackles + Ast,5.5
+prop_690d0fd60d6070f21fb1404d0e772d24,James Cook III,nfl,BUF,Rec Yds,8.5
+prop_690d15b3d3d63563a817f3371146b40e,Matt Prater,nfl,BUF,Kicking Pts,7.5
+prop_690d11018444b32a13fb56bcc072fad1,Josh Allen,nfl,BUF,Rush Att,5.5
+prop_690d11014f8c40ec3c031ec6acc58cb9,Trevor Lawrence,nfl,JAC,Longest Rush,8.5
+prop_690e94094537f0a9d742e1dc5ee734eb,Azeez Al-Shaair,nfl,HOU,Tackles + Ast,7.5
+prop_690e82ee89caf70e576ef11b6ecc2033,Tim Patrick,nfl,JAC,Long Rec,8.5
+prop_690d054ada57f91526ed1de50d658aea,Cam Little,nfl,JAC,Kicking Pts,6.5
+prop_690d15b3d3215a425f9556b7b266dedb,Bhayshul Tuten,nfl,JAC,Rush Att,5.5
+prop_690e84eb5acb60abdd72843a35eb9d0f,Antonio Johnson,nfl,JAC,Tackles + Ast,5.5
+prop_690e55bbfb60b8a4da0c40b25000018d,Parker Washington,nfl,JAC,Rec,4.5
+prop_690e70d73ace8ac59d7132a71d37180a,Roquan Smith,nfl,BAL,Tackles + Ast,8.5
+prop_690cf031c1dbe1e20e2fcdd41967fa47,Will Reichard,nfl,MIN,Kicking Pts,7.5
+prop_690a6249398c2c3ac02f176fedcd29c5,Tyler Loop,nfl,BAL,Kicking Pts,7.5
+prop_690e6be3d51a4b3d3d72be9edc7849e3,Eric Wilson,nfl,MIN,Tackles + Ast,6.5
+prop_690d1101df5b0054b1de13a45ff355b0,Lamar Jackson,nfl,BAL,Rush Att,6.5
+prop_690e2b9f657e4ccb9ae2676f281f6d04,Byron Murphy Jr.,nfl,MIN,Tackles + Ast,4.5
+prop_690d1487e53dd7290dc2d3f4b5ff85ce,Kyle Hamilton,nfl,BAL,Tackles + Ast,6.5
+prop_690cc27eeeb3d8c7dd87f6ae905b3255,Zay Flowers,nfl,BAL,Rec,5.5
+prop_690e9c3058dee6bc63257cbab97c58ef,Malaki Starks,nfl,BAL,Tackles + Ast,5.5
+prop_690f4e0d213cdbd3580bd203d1c914a8,D'Andre Swift,nfl,CHI,Long Rec,8.5
+prop_690eb5435ac7c4a5f8ef73593df6f5e1,Devin Singletary,nfl,NYG,Rush Att,8.5
+prop_690d472a8ebd9379cbdf49a524cdeb66,Cairo Santos,nfl,CHI,Kicking Pts,7.5
+prop_690d229665370681af3e51f6a15bd644,Jaxson Dart,nfl,NYG,Rush Att,7.5
+prop_690e7fffa65689c1ff46bab0dfe31f57,Kyle Monangai,nfl,CHI,Rec Yds,6.5
+prop_690d1101c304352cbeda3c807cd09e8b,Devin Singletary,nfl,NYG,Rec Yds,6.5
+prop_690e7b28fc5a96bcbb2ad29377166ee1,Caleb Williams,nfl,CHI,Rush Att,4.5
+prop_690cf60db40d3f03409ecd4b444a2d98,Wan'Dale Robinson,nfl,NYG,Rec,5.5
+prop_690e55bbbed77a8790774c627d10745a,Tyler Shough,nfl,NO,Longest Rush,8.5
+prop_690e3d8e3ddc98f9da2d056dd001e926,Tommy Tremble,nfl,CAR,Rec Yds,8.5
+prop_690e880d1c6d3b686c8eb2201598571d,Jonas Sanker,nfl,NO,Tackles + Ast,5.5
+prop_690d110100da6f5b0cd30760fde1a50f,Chuba Hubbard,nfl,CAR,Longest Rush,8.5
+prop_690cc986d505c17bef6b3e072f465374,Blake Grupe,nfl,NO,Kicking Pts,5.5
+prop_690cc986d45aa69aa9a171effa71b1c1,Ryan Fitzgerald,nfl,CAR,Kicking Pts,7.5
+prop_690c30025e7d294278c16f7be3eb282a,Chris Olave,nfl,NO,Rec,5.5
+prop_690c0cdb1b09d146d97736e3948b268f,Chase McLaughlin,nfl,TB,Kicking Pts,7.5
+prop_690d31d1c77ab851984c7489bbc4ec06,Andy Borregales,nfl,NE,Kicking Pts,6.5
+prop_690e2e84d5c6b142c197639b13e7b526,Emeka Egbuka,nfl,TB,Rec,5.5
+prop_690d14875546644065b55704889184ad,Drake Maye,nfl,NE,Rush Att,5.5
+prop_690cf031fdaf2af78373b6a0633865a3,Cade Otton,nfl,TB,Rec,4.5
+prop_690e9e55c0eb021aa1498c8e2ff9bde3,Jaylinn Hawkins,nfl,NE,Tackles + Ast,4.5
+prop_690e9e554a36f83a7fd30958cf79682e,Carlton Davis III,nfl,NE,Tackles + Ast,4.5
+prop_690e880d28983da21e6299aa35cb992b,Alontae Taylor,nfl,NO,Tackles + Ast,4.5
+prop_690e61b947ad403ae15290c8afd0c50c,Nick Scott,nfl,CAR,Tackles + Ast,4.5
+prop_690e51abdbfb03318ffd1faee32b519a,Tyler Shough,nfl,NO,Rush Att,3.5
+prop_690e42ddb51bf39898f309c5cdb9ca29,Xavier Legette,nfl,CAR,Rec,3.5
+prop_690cdc46840496c1a54dd5ddceccee01,Juwan Johnson,nfl,NO,Rec,3.5
+prop_690e61b9ca33e5f575f7eb46ada15218,Derrick Brown,nfl,CAR,Tackles + Ast,3.5
+prop_690e61b94631ad8c75aff80d31ac0667,Tershawn Wharton,nfl,CAR,Tackles + Ast,3.5
+prop_690e61b9a9aa585f44761efc2d036a5a,Trevin Wallace,nfl,CAR,Ast,2.5
+prop_690e61b9704a752807e0cb999c2a4a69,Jaycee Horn,nfl,CAR,Tackles + Ast,2.5
+prop_690e61b9408ba4ff93e4b826c0ae5d2b,Derrick Brown,nfl,CAR,Ast,1.5
+prop_690e61b9d3f0930e334f3da978f06798,A'Shawn Robinson,nfl,CAR,Ast,1.5
+prop_690ea02ae65fe4d2daab1345b53d4843,Brandon Stephens,nfl,NYJ,Tackles + Ast,4.5
+prop_690d7245ad1f8da2d30d25a5941c1ca8,Grant Delpit,nfl,CLE,Tackles + Ast,4.5
+prop_690d041d053524035c827cabad4f07e5,Garrett Wilson,nfl,NYJ,Rec,4.5
+prop_690e70d767ef19be5b22bd903a392bc1,Denzel Ward,nfl,CLE,Tackles + Ast,3.5
+prop_690ea02a76d856b3d33e2fc611e0e9d0,Jamien Sherwood,nfl,NYJ,Ast,3.5
+prop_690e2b9f7962f92068cd46f4ade5b579,David Njoku,nfl,CLE,Rec,3.5
+prop_690eed6fe8ab978a348b8c4fa918f260,Khalil Shakir,nfl,BUF,Rec,4.5
+prop_690ca40527c2439f31090345d9e9fa69,Malik Washington,nfl,MIA,Rec,3.5
+prop_690e55bbe962b7989a79d5d4af0d3edf,Jordyn Brooks,nfl,MIA,Ast,3.5
+prop_690e55bb8229755fd0d02720c3b41b0e,Zach Sieler,nfl,MIA,Tackles + Ast,2.5
+prop_690e83f29e115a5ab9d16296d2d2954e,Greg Newsome II,nfl,JAC,Tackles + Ast,3.5
+prop_690e940998150d2835981eeabddf9be8,Azeez Al-Shaair,nfl,HOU,Ast,3.5
+prop_690e83f26e58f41ca18c2d39b5f5f72a,Foyesade Oluokun,nfl,JAC,Ast,3.5
+prop_690e66d2426fb2222540be24fac8211b,Christian Kirk,nfl,HOU,Rec,3.5
+prop_690e18ad9d870d86cdb719545084698c,Cam Little,nfl,JAC,FGs,1.5
+prop_690e9409259283592f78d4792865eac5,Derek Stingley Jr.,nfl,HOU,Tackles + Ast,2.5
+prop_690e9409131c3cf11021bf3fdb944920,M.J. Stewart,nfl,HOU,Ast,1.5
+prop_690cbb7516651ddc3a79efcda3d568e8,T.J. Hockenson,nfl,MIN,Rec,3.5
+prop_690d1487b631664d2b4b7d58c2398544,Roquan Smith,nfl,BAL,Ast,2.5
+prop_690e70d7202007d9c01d3f2750ed71ed,Jonathan Greenard,nfl,MIN,Tackles + Ast,3.5
+prop_690bef8e202b02d4ec11fc3891e4298c,Tyler Loop,nfl,BAL,FGs,1.5
+prop_690c34b11599ab00aba5c2a28c5a50a1,Jordan Addison,nfl,MIN,Rec,3.5
+prop_690f612c400fb216f9fd4149b76f7ac9,Blake Cashman,nfl,MIN,Ast,3.5
+prop_690d519844ae0c97058841f630b8422d,Joshua Metellus,nfl,MIN,Ast,2.5
+prop_690c3002a6fb68c2a688f60376eafa75,Will Reichard,nfl,MIN,FGs,1.5
+prop_690bec09af6d4284edb9fc5d920cc6c7,J.J. McCarthy,nfl,MIN,Pass TDs,1.5
+prop_690e2e8472e74d650d8d012baf68b5d6,Hunter Henry,nfl,NE,Rec,3.5
+prop_690f06cdf230bbd82a4ebd740f2710b2,Rachaad White,nfl,TB,Rec,3.5
+prop_690e5dd3ea06d21b88f3cc3f08e5a4b3,Andy Borregales,nfl,NE,FGs,1.5
+prop_690d1487ed2d5702590d45dac5ca40cd,Baker Mayfield,nfl,TB,Rush Att,3.5
+prop_690e9e5511abc8f7abd3dcdd5bb664f0,Jaylinn Hawkins,nfl,NE,Ast,1.5
+prop_690e2e849771c4ebd20eb8e804443c51,Tez Johnson,nfl,TB,Rec,3.5
+prop_690e9e55aef5d8fba32ad5f9df7ac5ea,Carlton Davis III,nfl,NE,Ast,1.5
+prop_690e2e843c65a4fbcef28bc9c1edca93,Sterling Shepard,nfl,TB,Rec,3.5
+prop_690e9c30250a352eaddaec253e9d7a6f,SirVocea Dennis,nfl,TB,Ast,2.5
+prop_690c49c9cd8cd30f0768707bc90b071d,Chase McLaughlin,nfl,TB,FGs,1.5
+prop_690cf60d43ac96cf3ef785987737988b,DJ Moore,nfl,CHI,Rec,3.5
+prop_690a4f88fcdd69cf6f08caa9d6f9a06b,Caleb Williams,nfl,CHI,Pass TDs,1.5
+prop_690d041d53a0b3b60643a58531d4a0a2,Cairo Santos,nfl,CHI,FGs,1.5
+prop_690e5dd3e893ff505dc85cb3f62d15db,Nick Folk,nfl,NYJ,FGs,1.5
+prop_690cd53d04a354f29bca68503066bdcb,Quinshon Judkins,nfl,CLE,Rush TDs,0.5
+prop_690ce92a4ea0eafffffd2e99528829a7,Dillon Gabriel,nfl,CLE,INT,0.5
+prop_690ed55ee18b53099b6c11b35f9dff71,Bradley Chubb,nfl,MIA,Ast,1.5
+prop_690e9521248a15e89d7ab0f7b6cdb072,James Cook III,nfl,BUF,Rush TDs,0.5
+prop_690f28bdc7ee913283dfc4fac1ac0d84,Josh Hines-Allen,nfl,JAC,Sacks,0.5
+prop_690d148784dc9badd33f453e1cff2268,Kyle Van Noy,nfl,BAL,Sacks,0.5
+prop_690ce6d10306db84f956136ebad07fd1,J.J. McCarthy,nfl,MIN,INT,0.5
+prop_690d180959887fa1c3222b4cde0b3422,Dre'Mont Jones,nfl,BAL,Sacks,0.5
+prop_690e82ee2ad71f38ca059769fcc6667c,Derrick Henry,nfl,BAL,Rush TDs,0.5
+prop_690ab1f82d39b5f58b11b480782bff6c,Baker Mayfield,nfl,TB,INT,0.5
+prop_690cea55c70f923a3bb877a3d692a607,Jaxson Dart,nfl,NYG,INT,0.5
+prop_690ec22be1311c85bfb11c1c1f9a74f2,Tyler Shough,nfl,NO,INT,0.5
+prop_690cea5537f9c2abdebe19e6a58ab1b6,Bryce Young,nfl,CAR,INT,0.5
+prop_690d0fd634d456869ef2240ee750d39f,Sam Darnold,nfl,SEA,Pass Yds,257.5
+prop_690f511e9d6555bf59d0d2e310bac097,Jacoby Brissett,nfl,ARI,Pass + Rush Yds,251.5
+prop_690e44ae22988ab659883d74041a6da8,Jaxon Smith-Njigba,nfl,SEA,Rec Yds,96.5
+prop_690eed6f0b7b7b5c24bd6c92138a1d74,Jacoby Brissett,nfl,ARI,Pass Yds,234.5
+prop_690e6be3be63008eaa0d920c85b1b26f,Kenneth Walker III,nfl,SEA,Rush Yds,54.5
+prop_690dccdb63da952163f7c945ca13b262,Trey McBride,nfl,ARI,Rec Yds,63.5
+prop_690e74d901942fbdb89100792a33839b,Zach Charbonnet,nfl,SEA,Rush + Rec Yds,50.5
+prop_690bc0adf78da03b5b6b60375a898a34,Marvin Harrison Jr.,nfl,ARI,Rec Yds,56.5
+prop_690d2296192e46ce998b58f5fec60b89,Zach Charbonnet,nfl,SEA,Rush Yds,40.5
+prop_690e56cb76c1dbe809382674c6ae5b60,Emari Demercado,nfl,ARI,Rush + Rec Yds,47.5
+prop_690ebd3f6aa561934d0308c1ada915d5,Rashid Shaheed,nfl,SEA,Rec Yds,38.5
+prop_690d28749441d280f4238d7da4c96f60,Bam Knight,nfl,ARI,Rush + Rec Yds,45.5
+prop_690d1101211097bb3d1ee5904a1b2fac,Sam Darnold,nfl,SEA,Pass Att,29.5
+prop_690d11018182afe554bea2d09b18da96,Jacoby Brissett,nfl,ARI,Pass Att,35.5
+prop_690f4e0d94715111e13618807a9c13bc,Jaxon Smith-Njigba,nfl,SEA,Long Rec,28.5
+prop_690cd796ea91b9c5054694d634c70393,Emari Demercado,nfl,ARI,Rush Yds,35.5
+prop_690e7fff31bfb371dfac9ca54c3b29b4,AJ Barner,nfl,SEA,Rec Yds,25.5
+prop_690cd1baf7f6f4372f8960599c28f0cf,Michael Wilson,nfl,ARI,Rec Yds,29.5
+prop_690cc3aa27c2fcf97c704e8b270e0d98,Sam Darnold,nfl,SEA,Pass Comp,20.5
+prop_690e10832c268466a2b031b2bb5a46e9,Bam Knight,nfl,ARI,Rush Yds,28.5
+prop_690d4239ea6ae47a0d10a28f27f4052a,Rashid Shaheed,nfl,SEA,Long Rec,19.5
+prop_690d110164e4fa1ac76938e088c3af4b,Marvin Harrison Jr.,nfl,ARI,Long Rec,22.5
+prop_690f4e0d2a0ed14aa4f11935d7416be8,AJ Barner,nfl,SEA,Long Rec,14.5
+prop_690cc3aaa8624eafe9b7fe9266d747f8,Jacoby Brissett,nfl,ARI,Pass Comp,21.5
+prop_690d1101b35115ef1630601a39f5826f,Kenneth Walker III,nfl,SEA,Longest Rush,13.5
+prop_690d11016c4dbbc630c00ea5d1e030a8,Trey McBride,nfl,ARI,Long Rec,19.5
+prop_690d110193430b8471fbc338ddfb8e67,Kenneth Walker III,nfl,SEA,Rush Att,13.5
+prop_690dfc8d98fca6e8cddaf55ef712126e,Michael Wilson,nfl,ARI,Long Rec,15.5
+prop_690f4e0d9dc8a797fb0f4e06ce5478c9,Zach Charbonnet,nfl,SEA,Longest Rush,11.5
+prop_690dafad9b005bbb0edf931bdcfbb4d6,Jacoby Brissett,nfl,ARI,Rush Yds,14.5
+prop_690d110134594c07b6139da1d97a5090,Zach Charbonnet,nfl,SEA,Rush Att,11.5
+prop_690d0fd64d6152f14d76374f31f94288,Zay Jones,nfl,ARI,Rec Yds,12.5
+prop_690d1101d8a05880ffd928285e5e0c2f,Emari Demercado,nfl,ARI,Longest Rush,11.5
+prop_690d1cbafdc2c33ed5fb6a8b1ff1f96f,Bam Knight,nfl,ARI,Rec Yds,11.5
+prop_690d11011f52df85607f63687c645bde,Bam Knight,nfl,ARI,Longest Rush,9.5
+prop_690d11012792e2d1e1b473e0d2f7c421,Zay Jones,nfl,ARI,Long Rec,9.5
+prop_690dbc2ff6250f8c130f2236c73945be,Emari Demercado,nfl,ARI,Rush Att,8.5
+prop_690d0fd6736763891fb6c37750418f09,Jason Myers,nfl,SEA,Kicking Pts,7.5
+prop_690d11013819172cd605f410cbf3013d,Jacoby Brissett,nfl,ARI,Longest Rush,8.5
+prop_690d1cba5ce333b81676a34704a4a391,Zach Charbonnet,nfl,SEA,Rec Yds,6.5
+prop_690d110105804c5d961eabf23d8572f8,Bam Knight,nfl,ARI,Long Rec,8.5
+prop_690e95210cca8c2f3532464b003c820c,Devon Witherspoon,nfl,SEA,Ast,1.5
+prop_690dafadfea4350a633b8b5afa5830e5,Emari Demercado,nfl,ARI,Rec Yds,8.5
+prop_690e991c6363e84736b9787bf8637b6b,Byron Murphy II,nfl,SEA,Ast,1.5
+prop_690d11010c5b04985f71114b8e8e785e,Elijah Higgins,nfl,ARI,Rec Yds,8.5
+prop_690e991c169794f78c2805b166d7fd30,Coby Bryant,nfl,SEA,Ast,1.5
+prop_690e60b54aa6af975c146306f2b60ead,Bam Knight,nfl,ARI,Rush Att,8.5
+prop_690e991cd5c4189179d5bcea74c043cf,Ty Okada,nfl,SEA,Ast,1.5
+prop_690e952128c4c668000a6027a01ab20e,Budda Baker,nfl,ARI,Tackles + Ast,7.5
+prop_690e991c535642d8bc998e8b83cfd2a4,Riq Woolen,nfl,SEA,Ast,0.5
+prop_690e880d13e5e068cb9c5ae8c509cebc,Jalen Thompson,nfl,ARI,Tackles + Ast,6.5
+prop_690c4af66739ef0992c1bf1a0e302aee,Trey McBride,nfl,ARI,Rec,6.5
+prop_690bd5c5214cf7466ba654f19c8652b0,Chad Ryland,nfl,ARI,Kicking Pts,6.5
+prop_690ce2234b55b04d430121ab36481a85,Marvin Harrison Jr.,nfl,ARI,Rec,4.5
+prop_690e9c3040ec04c1c1c136ab54905ab6,Garrett Williams,nfl,ARI,Tackles + Ast,4.5
+prop_690e921441262beb5df82d556e31e1f1,Akeem Davis-Gaither,nfl,ARI,Ast,3.5
+prop_690d1487c162cec76ffc664b6b079bee,Jacoby Brissett,nfl,ARI,Rush Att,3.5
+prop_690e880d5ae81deac9067f76c2aedbb7,Budda Baker,nfl,ARI,Ast,3.5
+prop_690e880d5180bb8b4c97275f36b016ea,Jalen Thompson,nfl,ARI,Ast,2.5
+prop_690b886daac6b371197ce83ac2be8d7e,Chad Ryland,nfl,ARI,FGs,1.5
+prop_690bc55db9085d7ba13289ac4c895dad,Jacoby Brissett,nfl,ARI,INT,0.5
+prop_690f18523a50d90cfb2d2b3137339c9a,Matthew Stafford,nfl,LA,Pass Yds,267.5
+prop_690e7fff571d0dd66b9600b320a31e9f,Mac Jones,nfl,SF,Pass + Rush Yds,262.5
+prop_690cae92c082cb821af07a52de104d4c,Puka Nacua,nfl,LA,Rec Yds,92.5
+prop_690ecb51e35125034ddba697f1ddc95c,Mac Jones,nfl,SF,Pass Yds,250.5
+prop_690e72ee3b3d06f7c5a3e045c0c84612,Kyren Williams,nfl,LA,Rush + Rec Yds,84.5
+prop_690f38faeebde9068afb0992c11ecd7b,Christian McCaffrey,nfl,SF,Rush + Rec Yds,118.5
+prop_690f38fab0fe64aabef401a11725ce9e,Kyren Williams,nfl,LA,Rush Yds,63.5
+prop_690d4130641e019455ad183a26d4eb68,Christian McCaffrey,nfl,SF,Rush Yds,63.5
+prop_690d2acab94a4746dff8fc7314dd758d,Davante Adams,nfl,LA,Rec Yds,60.5
+prop_690f07e744db2c179c75739387c1836f,Christian McCaffrey,nfl,SF,Rec Yds,51.5
+prop_690d1101e69e7a0632685372cda0ac08,Matthew Stafford,nfl,LA,Pass Att,35.5
+prop_690e4daa3d3e466b936e2d02ef1a5a58,George Kittle,nfl,SF,Rec Yds,50.5
+prop_690ccbdda0e59ed41d7bfe03c6f75e6f,Jauan Jennings,nfl,SF,Rec Yds,47.5
+prop_690e72eefd4559aba00d5123bb5636f3,Mac Jones,nfl,SF,Pass Att,35.5
+prop_690d0fd6e22a2bb50f1e2199fe570693,Jared Goff,nfl,DET,Pass Yds,249.5
+prop_690e74d9d0a3fcae287c4cc117338bee,Marcus Mariota,nfl,WAS,Pass + Rush Yds,234.5
+prop_690d2e4f8830ba8fee34f31fffc7965f,Jahmyr Gibbs,nfl,DET,Rush + Rec Yds,98.5
+prop_690f38fa902b2fc3ad9c032c1819cb96,Marcus Mariota,nfl,WAS,Pass Yds,203.5
+prop_690d0fd66e06d31d380269e25ffe0ae5,Amon-Ra St. Brown,nfl,DET,Rec Yds,80.5
+prop_690d0fd6b6514ef2570db099188ce77e,Deebo Samuel,nfl,WAS,Rec Yds,56.5
+prop_690d0fd67a6dca1a746db631ad3cc491,Jahmyr Gibbs,nfl,DET,Rush Yds,71.5
+prop_690e74d931acab2fdb8aae3519caec6c,David Montgomery,nfl,DET,Rush + Rec Yds,64.5
+prop_690bcebe2f47881dc1d59acae20ca044,David Montgomery,nfl,DET,Rush Yds,48.5
+prop_690f4e0dccb5cc5d50fdf45d858d7fe8,Jameson Williams,nfl,DET,Rec Yds,47.5
+prop_690e7b28e5d61018093ce6015594c6d9,Sam LaPorta,nfl,DET,Rec Yds,44.5
+prop_690f521a92a4cfefe1bab594d4b83892,Jacory Croskey-Merritt,nfl,WAS,Rush Yds,35.5
+prop_690d1101bb2aa3ee996d4815bfe819ab,Jared Goff,nfl,DET,Pass Att,30.5
+prop_690cde9dfe5c3de6db6623825aa1c284,Zach Ertz,nfl,WAS,Rec Yds,34.5
+prop_690db63ddea7956421b0a8e8f8e8113e,Jahmyr Gibbs,nfl,DET,Rec Yds,22.5
+prop_690d11019b2e3bbe8d021dace41c3558,Marcus Mariota,nfl,WAS,Pass Att,30.5
+prop_690d110174d608cbda4162ab24fb1dd1,Amon-Ra St. Brown,nfl,DET,Long Rec,22.5
+prop_690eed6f453b098f13f33fbce535d679,Chris Rodriguez Jr.,nfl,WAS,Rush Yds,27.5
+prop_690f4e0d8614a12af5d60372ad491f3b,Jameson Williams,nfl,DET,Long Rec,22.5
+prop_690eb0333c9c07d880729d81a47b1790,Marcus Mariota,nfl,WAS,Rush Yds,27.5
+prop_690bda757f5dee7b94a8cdfeea2ba857,Jared Goff,nfl,DET,Pass Comp,21.5
+prop_690f60373d225053e03a290589a521cf,Jaylin Lane,nfl,WAS,Rec Yds,26.5
+prop_690f4e0d9261eed021e3cce40a368065,Jahmyr Gibbs,nfl,DET,Longest Rush,18.5
+prop_690f5d495c96a15cbbc7a907a249d80c,Chris Moore,nfl,WAS,Rec Yds,21.5
+prop_690f4e0d83e128c2dcb8b4767f9e70e3,Sam LaPorta,nfl,DET,Long Rec,18.5
+prop_690d1101bc4fafc2274407ed5e367c22,Deebo Samuel,nfl,WAS,Long Rec,20.5
+prop_690d11010a4b48442c17e25d1ca3cc6f,Jahmyr Gibbs,nfl,DET,Rush Att,14.5
+prop_690bd5c5cfc91e3f75ffc6bea9a852f8,Marcus Mariota,nfl,WAS,Pass Comp,19.5
+prop_690d110124fba4a87eeb826bdefdb246,Jahmyr Gibbs,nfl,DET,Long Rec,12.5
+prop_690d110103018ec1ca8bfbad5a1bf21f,Jaylin Lane,nfl,WAS,Long Rec,14.5
+prop_690f4e0dcbe5bc1ca5ce330e513450bd,David Montgomery,nfl,DET,Longest Rush,12.5
+prop_690d1101bd32fe736b1aa772e67bf2ac,Zach Ertz,nfl,WAS,Long Rec,14.5
+prop_690d11013c52d6e496f635a755d251ed,David Montgomery,nfl,DET,Rush Att,12.5
+prop_690e6add6ea814e583850fdb14cbe855,Chris Moore,nfl,WAS,Long Rec,13.5
+prop_690e2a946de3b1508da57c26f583dbd4,David Montgomery,nfl,DET,Rec Yds,11.5
+prop_690f2aff5880023960daa3a0143d161d,Jeremy McNichols,nfl,WAS,Rec Yds,12.5
+prop_690f4e0d845034823fbb301258125eca,Marcus Mariota,nfl,WAS,Longest Rush,12.5
+prop_690f4e0d4fec99ab6810ee6641f4c05b,Chris Rodriguez Jr.,nfl,WAS,Longest Rush,10.5
+prop_690f0a2317e66136a826bccef3d0cc12,Kendrick Bourne,nfl,SF,Rec Yds,34.5
+prop_690d0fd6e876b7366aaba8e44037f9c1,Blake Corum,nfl,LA,Rush Yds,28.5
+prop_690e72ee2ab39e9f520cb6c2d7920346,Mac Jones,nfl,SF,Pass Comp,22.5
+prop_690e218bedb8738838535a0886950547,Puka Nacua,nfl,LA,Long Rec,27.5
+prop_690d1101fd96d31d2ac3ecc7ac93cd18,Jauan Jennings,nfl,SF,Long Rec,20.5
+prop_690cae92783145d77e83891e4229c86c,Matthew Stafford,nfl,LA,Pass Comp,23.5
+prop_690f4e0d91a6d562b507791e6eb18823,George Kittle,nfl,SF,Long Rec,19.5
+prop_690f4e0dc1aa77dbcef8a3fa7c0c13d5,Davante Adams,nfl,LA,Long Rec,23.5
+prop_690e75dc71b2919f83086d8c37c72295,Christian McCaffrey,nfl,SF,Rush Att,17.5
+prop_690e68c6c6c021dd126e6072ad96bce3,Tyler Higbee,nfl,LA,Rec Yds,20.5
+prop_690f4e0dc0607cbf396b0b05951cd772,Kendrick Bourne,nfl,SF,Long Rec,17.5
+prop_690f5d4998ad0aab70c73a370b705ca5,Jordan Whittington,nfl,LA,Rec Yds,17.5
+prop_690d1101ee0bae1b2c60d553a7324082,Christian McCaffrey,nfl,SF,Long Rec,17.5
+prop_690d11014d0d0fb0785a7ea51c18174c,Kyren Williams,nfl,LA,Rush Att,15.5
+prop_690e5dd3f40758c8b411ba986aa8b5cd,Demarcus Robinson,nfl,SF,Rec Yds,14.5
+prop_690d9c8e2df3b793d78f5d15a98be93f,Kyren Williams,nfl,LA,Rec Yds,15.5
+prop_690e42dddf68b4c843120a3fe82b851b,Brian Robinson Jr.,nfl,SF,Rush Yds,14.5
+prop_690d42393dc54b649d6cf7d3c4ced505,Kyren Williams,nfl,LA,Longest Rush,13.5
+prop_690f4e0d04401493ad26dce4815d69a6,Christian McCaffrey,nfl,SF,Longest Rush,13.5
+prop_690f4e0de01bd0e430f3b3299b5696cf,Tyler Higbee,nfl,LA,Long Rec,12.5
+prop_690d1101856ee2b91c943a6fc1478ca7,Demarcus Robinson,nfl,SF,Long Rec,12.5
+prop_690e53a46e1f36621a6408bff5fb2b04,Jordan Whittington,nfl,LA,Long Rec,12.5
+prop_690d11018ba8642dbca4b16f0b106d13,Blake Corum,nfl,LA,Longest Rush,10.5
+prop_690f4e0dfb8626db9d697b29bcab8e90,Jacory Croskey-Merritt,nfl,WAS,Longest Rush,10.5
+prop_690d738f144a78b49ee6af00b7c41d77,Jack Campbell,nfl,DET,Tackles + Ast,8.5
+prop_690e6add1fb299970b27df716c4b6379,Jeremy McNichols,nfl,WAS,Long Rec,9.5
+prop_690bd6f247f635ac63eeac0fbb57bd7b,Amon-Ra St. Brown,nfl,DET,Rec,7.5
+prop_690f521a707600e122451879c4227cbc,Jacory Croskey-Merritt,nfl,WAS,Rush Att,9.5
+prop_690bab95d956d3e4b881e3e7202ae28a,Jake Bates,nfl,DET,Kicking Pts,7.5
+prop_690e9409f18e31b1c606160f2354fa21,Chris Rodriguez Jr.,nfl,WAS,Rush Att,6.5
+prop_690d74a292714af79accec76bf2f3596,Terrion Arnold,nfl,DET,Tackles + Ast,4.5
+prop_690cde9d9f76995c7d4c7bd548cf3dd8,Deebo Samuel,nfl,WAS,Rec,5.5
+prop_690e40a9e9736f6eaeca7ace5722e535,Jack Campbell,nfl,DET,Ast,3.5
+prop_690ccd0960bea1610ccf05cf9849e780,Matt Gay,nfl,WAS,Kicking Pts,5.5
+prop_690e83f22e1c5b95298d2f427ce30479,Jared Goff,nfl,DET,Rush Att,1.5
+prop_690bab950524eea441fdcfbf64df28a9,Jake Bates,nfl,DET,FGs,1.5
+prop_690e7eec8b081399f11ae748189678cb,Jahmyr Gibbs,nfl,DET,Rush TDs,0.5
+prop_690e4599b263b768b01eaec4b5e3cc15,Kyren Williams,nfl,LA,Long Rec,9.5
+prop_690e78fc21d34312b7cd36b41d8ce35b,Mac Jones,nfl,SF,Rush Yds,7.5
+prop_690e63d012b676e98c057cfa46be95dc,Nate Landman,nfl,LA,Tackles + Ast,8.5
+prop_690d1101dc26957b73fec06664366a63,Kyle Juszczyk,nfl,SF,Rec Yds,6.5
+prop_690cae92eb7fbc329c0e9f0529fe9469,Puka Nacua,nfl,LA,Rec,7.5
+prop_690cef0604be8f8d0b9893c01aa57de1,Eddy Pineiro,nfl,SF,Kicking Pts,6.5
+prop_690cae92d9a71f0f3e59f4279e86fecf,Davante Adams,nfl,LA,Rec,4.5
+prop_690cdc46aef3ecd4d86a8a6210ee5b6e,Christian McCaffrey,nfl,SF,Rec,5.5
+prop_690ecc4bd37e2cf56d226227d4e299da,Nate Landman,nfl,LA,Ast,3.5
+prop_690cae9250289517149cb70ffa7d3c97,George Kittle,nfl,SF,Rec,4.5
+prop_690ecc4b54ce2ccaae9bfb1d26d68e68,Quentin Lake,nfl,LA,Ast,2.5
+prop_690e7fff050b27e422823c37b15930da,Mac Jones,nfl,SF,Rush Att,2.5
+prop_690d3a0572aac0456b056b39a508f8d4,Matthew Stafford,nfl,LA,Rush Att,1.5
+prop_690e72ee57af15f5d42e5c8a0e0fba98,Mac Jones,nfl,SF,Pass TDs,1.5
+prop_690cae927cdf4d1a8d0719fd42e15201,Eddy Pineiro,nfl,SF,FGs,1.5
+prop_690e72ee04c54e74d7aba9cb4bb21a92,Mac Jones,nfl,SF,INT,0.5
+prop_690e82eed8da420b72835c3339268990,Christian McCaffrey,nfl,SF,Rush TDs,0.5
+prop_690d0fd6988d087b461a26b618a9b651,Justin Herbert,nfl,LAC,Pass + Rush Yds,282.5
+prop_690ee55a0b7a0ffa656c06de42cf1de9,Aaron Rodgers,nfl,PIT,Pass Yds,219.5
+prop_690d23c2c60204032bb020ba2986ffc7,Justin Herbert,nfl,LAC,Pass Yds,255.5
+prop_690ec75087d79e693c845903c8213cb8,Jaylen Warren,nfl,PIT,Rush + Rec Yds,80.5
+prop_690f521a75965ebe0ebd2789b750254a,Kimani Vidal,nfl,LAC,Rush + Rec Yds,66.5
+prop_690d3a051cd21e19ab1fb0c3ba7fb9e7,Jaylen Warren,nfl,PIT,Rush Yds,58.5
+prop_690e8a00acd199caf9a053f807aff98f,Ladd McConkey,nfl,LAC,Rec Yds,64.5
+prop_690e83f2ac374633fead54e527910ec7,DK Metcalf,nfl,PIT,Rec Yds,50.5
+prop_690d4a90b30dab392e59af7e1276d965,Oronde Gadsden,nfl,LAC,Rec Yds,53.5
+prop_690e3ab050c00f530520b28f4e2b8928,Kenneth Gainwell,nfl,PIT,Rush + Rec Yds,33.5
+prop_690f521ad74125a3a6642790ef549344,Kimani Vidal,nfl,LAC,Rush Yds,51.5
+prop_690d1101c637490804e6dd15508bbbb9,Aaron Rodgers,nfl,PIT,Pass Att,32.5
+prop_690e8a00b79c93f35a82d2965325ad37,Quentin Johnston,nfl,LAC,Rec Yds,44.5
+prop_690ce5a6a7d04ede25625619c4d76d1d,Calvin Austin III,nfl,PIT,Rec Yds,31.5
+prop_690d054a7d56ab978295a6b316febcdf,Keenan Allen,nfl,LAC,Rec Yds,42.5
+prop_690d0fd6bff3f6bfa9759611518b9847,Jonnu Smith,nfl,PIT,Rec Yds,24.5
+prop_690d1101567889a14975e3141581edbe,Justin Herbert,nfl,LAC,Pass Att,35.5
+prop_690e4ca6a4431eb9199ddec2b4f3bafe,Pat Freiermuth,nfl,PIT,Rec Yds,23.5
+prop_690a57bcd0cb898e27d6ff4aa082708c,Justin Herbert,nfl,LAC,Pass Comp,23.5
+prop_690ddc0ddfafeb814837f52c0811ea12,Justin Herbert,nfl,LAC,Rush Yds,23.5
+prop_690e238aee0f37bb7bbd5a7839d793ff,Aaron Rodgers,nfl,PIT,Pass Comp,22.5
+prop_690d1101df1d85f128015e1e6fbdbc49,Ladd McConkey,nfl,LAC,Long Rec,21.5
+prop_690f4e0d93deedfc44d02a9aebef7883,DK Metcalf,nfl,PIT,Long Rec,22.5
+prop_690f4e0d144c08186b5bb87ca950fcab,Oronde Gadsden,nfl,LAC,Long Rec,19.5
+prop_690ca081ed9bcbefaff093dc2193b0cb,Jaylen Warren,nfl,PIT,Rec Yds,17.5
+prop_690d42393b81616445b99709ae4a0778,Quentin Johnston,nfl,LAC,Long Rec,19.5
+prop_690d11014ff8c5960dcfb00566c8402f,Calvin Austin III,nfl,PIT,Long Rec,17.5
+prop_690d110103152c5380c87d6fb0370714,Keenan Allen,nfl,LAC,Long Rec,18.5
+prop_690d0fd673ce349d311a8c9a1145818f,Kenneth Gainwell,nfl,PIT,Rush Yds,16.5
+prop_690e4599f8b176599a71393156ed25b6,Kimani Vidal,nfl,LAC,Rush Att,13.5
+prop_690d1101b92483a424e0fae633826f86,Jaylen Warren,nfl,PIT,Rush Att,14.5
+prop_690f4e0dd0c34a8862296626394af4e5,Kimani Vidal,nfl,LAC,Longest Rush,12.5
+prop_690d11015f0ab22f36991f0079bfaf40,Jaylen Warren,nfl,PIT,Longest Rush,13.5
+prop_690d1101d0b92eccc65d9aafbb870276,Justin Herbert,nfl,LAC,Longest Rush,11.5
+prop_690eed6faaee7a0f441d16357e4c014a,Darnell Washington,nfl,PIT,Rec Yds,13.5
+prop_690eed6fa3ad42edc45b00cff424a356,Kimani Vidal,nfl,LAC,Rec Yds,11.5
+prop_690f4e0d941484a494007827e1ca1f76,Pat Freiermuth,nfl,PIT,Long Rec,13.5
+prop_690d299e455afedebe22fa4f730dab38,Tre' Harris,nfl,LAC,Rec Yds,11.5
+prop_690cab0db63891120479825495d844bd,Kenneth Gainwell,nfl,PIT,Rec Yds,13.5
+prop_690d1101ed374e0154c7a63d36bf6afe,Tre' Harris,nfl,LAC,Long Rec,9.5
+prop_690d1101427d6a87f759f9b250de1c01,Jonnu Smith,nfl,PIT,Long Rec,12.5
+prop_690d11018c459bb3b8c37ac872a0bf08,Kimani Vidal,nfl,LAC,Long Rec,8.5
+prop_690f4e0d7681846947de0cf7c053f8b2,Jaylen Warren,nfl,PIT,Long Rec,10.5
+prop_690c64befed8e9d994b38d429da8d236,Cameron Dicker,nfl,LAC,Kicking Pts,7.5
+prop_690e238ad0522f59d063c05022f9cf06,Roman Wilson,nfl,PIT,Rec Yds,10.5
+prop_690d7ba5408ccc69c2bf4249eeb6e2c1,Ladd McConkey,nfl,LAC,Rec,5.5
+prop_690d11011e86bc7f1dc86a7d1f8832bb,Roman Wilson,nfl,PIT,Long Rec,9.5
+prop_690d1cba89bf8e7da70310d6bab5ea10,Justin Herbert,nfl,LAC,Rush Att,4.5
+prop_690d11019c7415b5f09aa79c2ef343f6,Darnell Washington,nfl,PIT,Long Rec,9.5
+prop_690c12b5d51d7f0a14d20b9da85eaf5e,Oronde Gadsden,nfl,LAC,Rec,4.5
+prop_690d1101e93236c489355814e819ce09,Kenneth Gainwell,nfl,PIT,Long Rec,8.5
+prop_690e9214f075baa27acef282afa13569,Daiyan Henley,nfl,LAC,Ast,3.5
+prop_690ceb82f9d612ece5d3a8157ee0c77c,Chris Boswell,nfl,PIT,Kicking Pts,7.5
+prop_690c67153f5b98da0bcf131640b23fd5,Quentin Johnston,nfl,LAC,Rec,3.5
+prop_690e8bf4f7be59e116bd0a5630aa21d1,Payton Wilson,nfl,PIT,Tackles + Ast,6.5
+prop_690e92145b56d1f51b5a332840443fd4,Elijah Molden,nfl,LAC,Ast,1.5
+prop_690e8bf4565789cd39060914dde3ec53,Patrick Queen,nfl,PIT,Tackles + Ast,6.5
+prop_690ea125af9a51af0cf6f7b498bc1c2f,Cam Hart,nfl,LAC,Ast,0.5
+prop_690e8bf44b87cf3b0e4dd2e557f7c195,Darius Slay,nfl,PIT,Tackles + Ast,3.5
+prop_690e8bf4cb57d49286b6914ce849f744,Cameron Heyward,nfl,PIT,Tackles + Ast,3.5
+prop_690c6bc6310a064627200e03422ecea1,DK Metcalf,nfl,PIT,Rec,3.5
+prop_690e8bf4cc09e44c4886c9e697818919,Patrick Queen,nfl,PIT,Ast,2.5
+prop_690ea125260b113b871536696fc53d99,Payton Wilson,nfl,PIT,Ast,2.5
+prop_690a57bc878b3236b2399af664180976,Aaron Rodgers,nfl,PIT,Pass TDs,1.5
+prop_690e921418b3282dae992525170cafa8,Kyle Dugger,nfl,PIT,Ast,1.5
+prop_690e8cf7dd2e545504513b705022a558,T.J. Watt,nfl,PIT,Ast,1.5
+prop_690e8bf463edbe8ecfb4661c6e7b14bf,Jalen Ramsey,nfl,PIT,Ast,1.5
+prop_690e8bf4e67317fece10fcac75ef3050,Cameron Heyward,nfl,PIT,Ast,1.5
+prop_690a57bcfa87d21e32f15806330ac8e7,Aaron Rodgers,nfl,PIT,INT,0.5
+prop_690c7fb2e1f0ae912e8d9eebc7587abe,Justin Herbert,nfl,LAC,INT,0.5
+prop_690d9c8e7f9d3ddf2a1f5aeb58ae38b8,Jordan Love,nfl,GB,Pass + Rush Yds,248.5
+prop_690d0fd68c6a030ec5d6cc01a1ea6c3f,Jalen Hurts,nfl,PHI,Pass + Rush Yds,226.5
+prop_690f5c22a23705f2d543230be0f511d4,Jordan Love,nfl,GB,Pass Yds,233.5
+prop_690d0fd6fdefe9485d35349f5d1cc566,Jalen Hurts,nfl,PHI,Pass Yds,199.5
+prop_690f07e70313f5d5e4bfbb8ddf6642a5,Josh Jacobs,nfl,GB,Rush + Rec Yds,92.5
+prop_690d0fd636208b1ca1b4b65430537392,Saquon Barkley,nfl,PHI,Rush + Rec Yds,95.5
+prop_690d799337d30a1292e70aa7915dd5dc,Josh Jacobs,nfl,GB,Rush Yds,69.5
+prop_690d0fd6a9e71077109a3ef399fbd12c,Saquon Barkley,nfl,PHI,Rush Yds,76.5
+prop_690e7b283a053578e11c3fd8b5b68f2f,Romeo Doubs,nfl,GB,Rec Yds,53.5
+prop_690f38faeba92ae19c54d2a03a21fc05,A.J. Brown,nfl,PHI,Rec Yds,58.5
+prop_690f583a01a31f6779c42ff43e3a907e,Christian Watson,nfl,GB,Rec Yds,37.5
+prop_690eb543a94068aa344586ef6f7b3a36,DeVonta Smith,nfl,PHI,Rec Yds,52.5
+prop_690d1101ef578481f19a8c074305a91d,Jordan Love,nfl,GB,Pass Att,32.5
+prop_690e329fa662e8b4093b30ffbbcf3e43,Dallas Goedert,nfl,PHI,Rec Yds,32.5
+prop_690f583adc6dc09236ef0a49d0f28e22,Luke Musgrave,nfl,GB,Rec Yds,29.5
+prop_690d1101bdedf9d0fc52c37f83a32697,Jalen Hurts,nfl,PHI,Pass Att,27.5
+prop_690b8bf17a8aaa36b1e91ab21e534b3a,Jordan Love,nfl,GB,Pass Comp,20.5
+prop_690d0fd6214dbe27519f025568f19eea,Jalen Hurts,nfl,PHI,Rush Yds,27.5
+prop_690eca5a454ebe30ede5497042bc0f6d,Christian Watson,nfl,GB,Long Rec,20.5
+prop_690f4e0debbb5f3711d2d654408999c7,A.J. Brown,nfl,PHI,Long Rec,22.5
+prop_690e4ca65d8f5974494ad05e18cca8eb,Emanuel Wilson,nfl,GB,Rush Yds,19.5
+prop_690d4239897e660e7ad7bed7c995c7f4,DeVonta Smith,nfl,PHI,Long Rec,19.5
+prop_690f5c22bbe665f8f46486d7379e896d,Josh Jacobs,nfl,GB,Rec Yds,18.5
+prop_690ba48d8800138f8fd137407af50cd6,Jalen Hurts,nfl,PHI,Pass Comp,18.5
+prop_690d1101053028e0975514d8136996b9,Josh Jacobs,nfl,GB,Rush Att,17.5
+prop_690d1101ca0e9eb648503eb5102d2116,Saquon Barkley,nfl,PHI,Rush Att,18.5
+prop_690d1101991419c1705884ab12310283,Luke Musgrave,nfl,GB,Long Rec,15.5
+prop_690e39a645a03df90659e591f4e8c789,Saquon Barkley,nfl,PHI,Rec Yds,14.5
+prop_690d1101e20b95e7ae30913aa7892a5b,Josh Jacobs,nfl,GB,Longest Rush,13.5
+prop_690d135a4284bfccfc1bbe366dbd6361,Dallas Goedert,nfl,PHI,Long Rec,13.5
+prop_690d110149fcc2654a67c1687c56a4f3,Josh Jacobs,nfl,GB,Long Rec,10.5
+prop_690f4e0dc1e3599f88742bb43c7b1686,Jalen Hurts,nfl,PHI,Longest Rush,12.5
+prop_690b8bf1bffa9aa636c83878ad9b92cc,Jordan Love,nfl,GB,Rush Yds,10.5
+prop_690e59ad33b4c6c5422ef16cd0e01219,Saquon Barkley,nfl,PHI,Long Rec,9.5
+prop_690e69ca2499cd0bba8a7bce0e37bc0d,Emanuel Wilson,nfl,GB,Longest Rush,8.5
+prop_690d1101d4758a9c494efa89f8a4080e,Jalen Hurts,nfl,PHI,Rush Att,7.5
+prop_690e58b143242421643dec5da145ea6f,Brandon McManus,nfl,GB,Kicking Pts,6.5
+prop_690bcb380cc8d40c432d2785edc4b785,Jake Elliott,nfl,PHI,Kicking Pts,6.5
+prop_690e76dbae7accb818a4130e09d72132,Emanuel Wilson,nfl,GB,Rush Att,5.5
+prop_690b9551961c4f9def3506683a149b22,A.J. Brown,nfl,PHI,Rec,4.5
+prop_690bb29e45f798494255efaa82b08668,Romeo Doubs,nfl,GB,Rec,4.5
+prop_690d135a24ae3b38fa170dc55d7ea903,DeVonta Smith,nfl,PHI,Rec,4.5
+prop_690e84eb5bb7ce5876f4828a57a77694,Luke Musgrave,nfl,GB,Rec,3.5
+prop_690d135af169ef1dffdf8fd0154e0c1c,Dallas Goedert,nfl,PHI,Rec,3.5
+prop_690d15b3a02415225733d57f40e18e48,Jordan Love,nfl,GB,Rush Att,2.5
+prop_690bcb3837bc060586609ef01786bc33,Jake Elliott,nfl,PHI,FGs,1.5
+prop_690e5bb508d95d9cc4f069a3ded27e7d,Brandon McManus,nfl,GB,FGs,1.5
+prop_690f07e77cf42fc597f013aed2ea4e56,Josh Jacobs,nfl,GB,Rush TDs,0.5
