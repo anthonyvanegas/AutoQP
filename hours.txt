@@ -12,4 +12,5 @@
 - 11/10/25
     - 2pm-3pm (1 hour): Code clean-up & feature documentation
     - 8pm-10pm (2 hours): Creating Data Viewing Screen (important for data verification)
-    - 
+- 11/11/25
+    - 7-10 (3 hours): Data Viewing Screen (important for data verification)

@@ -1,0 +1,106 @@
+11-11 20:53:11, Thread=main |Env=Prod
+11-11 20:53:12, Thread=AWT-EventQueue-0 |Adding Reset Panel...
+11-11 20:53:12, Thread=AWT-EventQueue-0 |centering login window
+11-11 20:53:12, Thread=AWT-EventQueue-0 |show login window.
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |make request
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |BOOKIECOLORS 817=#9999FF
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |java.awt.Color[r=153,g=153,b=255]
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |BOOKIECOLORS 996=#99FFFF
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |java.awt.Color[r=153,g=255,b=255]
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |BOOKIECOLORS 604=#CCFFFF
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |java.awt.Color[r=204,g=255,b=255]
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |BOOKIECOLORS 894=#FFFFCC
+11-11 20:53:15, Thread=SwingWorker-pool-7-thread-1 |java.awt.Color[r=255,g=255,b=204]
+11-11 20:53:16, Thread=SwingWorker-pool-7-thread-1 |out of the while loop true
+11-11 20:53:16, Thread=SwingWorker-pool-7-thread-1 |result true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |Pre-exist urgent messges: 0
+11-11 20:53:16, Thread=AWT-EventQueue-0 |0 item=|3 11/11|7 11/11|2 11/11|2 11/12|2 11/13|1 11/13
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=3 11/11
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=7 11/11
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=2 11/11
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=2 11/12
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=2 11/13
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=1 11/13
+11-11 20:53:16, Thread=AWT-EventQueue-0 |1 item=CBB
+11-11 20:53:16, Thread=AWT-EventQueue-0 |2 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |3 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |4 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |5 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |6 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |7 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |0 item=|1 11/10|2 11/11
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=1 11/10
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=2 11/11
+11-11 20:53:16, Thread=AWT-EventQueue-0 |1 item=NFL
+11-11 20:53:16, Thread=AWT-EventQueue-0 |2 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |3 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |4 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |5 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |6 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |7 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |0 item=|1 10/30|3 10/30|7 10/30
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=1 10/30
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=3 10/30
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=7 10/30
+11-11 20:53:16, Thread=AWT-EventQueue-0 |1 item=CFB
+11-11 20:53:16, Thread=AWT-EventQueue-0 |2 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |3 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |4 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |5 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |6 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |7 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |0 item=|2 10/10|8 10/10
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=2 10/10
+11-11 20:53:16, Thread=AWT-EventQueue-0 |adding header=8 10/10
+11-11 20:53:16, Thread=AWT-EventQueue-0 |1 item=NBA
+11-11 20:53:16, Thread=AWT-EventQueue-0 |2 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |3 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |4 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |5 item=true
+11-11 20:53:16, Thread=AWT-EventQueue-0 |6 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |7 item=false
+11-11 20:53:16, Thread=AWT-EventQueue-0 |initializing SportTabPane instance:0 tab count=15
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Football|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Basketball|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Baseball|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Hockey|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Soccer|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Fighting|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Golf|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Tennis|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Auto Racing|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Esports|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add opener=Special|||false|false|false|false|false|false|false|false|false|false|false|false|false|0|10|0.5|openers.wav|false|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Football|2, 1|604, 817, 671|true|true|false|false|false|false|false|true|true|false|false|true|true|true|true|8|30|5.0|limitincrease.wav|limitdecrease.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Basketball|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Baseball|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Hockey|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Soccer|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Fighting|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Golf|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Tennis|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Auto Racing|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Esports|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |about to add limitnode=Special|||false|false|false|false|false|false|false|false|false|false|false|false|false|false|false|8|10|0.5|limitchange.wav|limitchange.wav|0|
+11-11 20:53:22, Thread=ActiveMQ Session Task-4 |1762912395126..1762912402896
+11-11 20:53:22, Thread=ActiveMQ Session Task-4 |loginkey=XYlEoagfpK
+11-11 20:53:22, Thread=ActiveMQ Session Task-4 |old logout key=XYlEoagfpK
+11-11 20:53:22, Thread=ActiveMQ Session Task-4 |old login key=eyJhbGciOiJIUzUxMiJ9.eyJsb2dvdXRrZXkiOiJYWWxFb2FnZnBLIiwic3ViIjoicHRhcnNpZXdpY3oiLCJyb2xlIjoicmVnVXNlciIsImtleXN0b3JlUGFzc3dvcmQiOiJXSzBRTEpKOEk3OVFZOTYiLCJhY3RpdmVNcVNlcnZlcnMiOiJmYWlsb3Zlcjooc3NsOi8vZWMyLTU0LTkxLTUzLTg1LmNvbXB1dGUtMS5hbWF6b25hd3MuY29tOjg0NDMpIiwiZXhwIjoxNzYzMDg1MTk2LCJpYXQiOjE3NjI5MTIzOTZ9.dgo5ZhruyMxUQ8hZb5fdYcKJsCCBUrycEDnxD_NsQlSNG46JJObqn_Uh2-wt08N8PB8tPL4Ifkw1dQYX97lZjA
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |Unsubscribing.....Tue Nov 11 20:53:22 EST 2025
+11-11 20:53:22, Thread=ActiveMQ Session Task-2 |Received 591 messages
+11-11 20:53:22, Thread=pool-10-thread-1 |Processing chartchecker file=C:\spankoddscharttemplate.csv..secs=5..amt=1000..1 at Tue Nov 11 20:53:22 EST 2025
+11-11 20:53:22, Thread=pool-10-thread-1 |exception reading chart file java.io.FileNotFoundException: C:\spankoddscharttemplate.csv (The system cannot find the file specified)
+11-11 20:53:22, Thread=SwingWorker-pool-7-thread-2 |timesort?=false..allgames size=12
+11-11 20:53:22, Thread=SwingWorker-pool-7-thread-2 |MainScreen: adding 12 of game group to data model
+11-11 20:53:23, Thread=AWT-EventQueue-0 |done drawing Football
+11-11 20:53:36, Thread=AWT-EventQueue-0 |creating userprefsproducer!!!
+11-11 20:53:36, Thread=AWT-EventQueue-0 |SENDING COLORPREFS=817=#9999FF,996=#99FFFF,604=#CCFFFF,894=#FFFFCC
+11-11 20:53:36, Thread=AWT-EventQueue-0 |CUSTOMTAB INFO=|3 11/11|7 11/11|2 11/11|2 11/12|2 11/13|1 11/13*CBB*true*true*true*true*false*false
+11-11 20:53:36, Thread=AWT-EventQueue-0 |CUSTOMTAB INFO=|1 11/10|2 11/11*NFL*true*true*true*true*true*false
+11-11 20:53:36, Thread=AWT-EventQueue-0 |CUSTOMTAB INFO=|1 10/30|3 10/30|7 10/30*CFB*true*true*true*true*true*false
+11-11 20:53:36, Thread=AWT-EventQueue-0 |CUSTOMTAB INFO=|2 10/10|8 10/10*NBA*true*true*true*true*false*false
+11-11 20:53:36, Thread=AWT-EventQueue-0 |SENDING CUSTOMTABS=|3 11/11|7 11/11|2 11/11|2 11/12|2 11/13|1 11/13*CBB*true*true*true*true*false*false?|1 11/10|2 11/11*NFL*true*true*true*true*true*false?|1 10/30|3 10/30|7 10/30*CFB*true*true*true*true*true*false?|2 10/10|8 10/10*NBA*true*true*true*true*false*false
+11-11 20:53:36, Thread=AWT-EventQueue-0 |SENDING LINEALERTS=
+11-11 20:53:36, Thread=AWT-EventQueue-0 |cmsstring=
+11-11 20:53:37, Thread=ActiveMQ Transport: ssl://ec2-54-91-53-85.compute-1.amazonaws.com/54.91.53.85:8443 |producer Successfully sent message.
+LOG STREAM CLOSED -- User logged out

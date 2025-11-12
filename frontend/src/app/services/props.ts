@@ -1,11 +1,28 @@
 import { Injectable } from '@angular/core';
 import { Observable, of } from 'rxjs';
+import mergedPropsData from '../../assets/data/merged_props.json';
 
 interface MockProp {
   id: string;
   entity_name: string;
   type_display: string;
   line: number;
+}
+
+interface MergedProp {
+  id: string;
+  entity_name: string;
+  type_display: string;
+  line: number;
+  average_odds: number;
+  win_probability: number;
+  odds_by_bookie?: { [bookieId: string]: number }; // Odds per bookie ID
+  side_by_bookie?: { [bookieId: string]: string }; // Side (over/under) per bookie
+  odds_by_exchange?: { [exchange: string]: number }; // Odds per exchange
+  primary_side?: 'over' | 'under' | null; // Primary side for this prop
+  exchanges: string[];
+  bookieIds: number[];
+  matched: boolean;
 }
 
 @Injectable({
@@ -55,6 +72,78 @@ export class PropsService {
    */
   getMockProps(): Observable<MockProp[]> {
     return of([...this.mockProps]);
+  }
+
+  /**
+   * Get merged props data (Splash + SpankOdds)
+   * This loads the automatically integrated dataset
+   */
+  getMergedProps(): Observable<MergedProp[]> {
+    // Load from the integrated dataset
+    const mergedData = (mergedPropsData as any);
+    // Handle both old format (array) and new format (object with metadata)
+    const props = Array.isArray(mergedData) ? mergedData : (mergedData.props || mergedData);
+    return of([...props]);
+  }
+
+  /**
+   * Get all available bookie IDs from merged data metadata
+   */
+  getAllAvailableBookieIds(): number[] {
+    const mergedData = (mergedPropsData as any);
+    if (mergedData.metadata && mergedData.metadata.all_available_bookie_ids) {
+      return mergedData.metadata.all_available_bookie_ids;
+    }
+    // Fallback: extract from props if metadata not available
+    const allBookieIdsSet = new Set<number>();
+    const props = Array.isArray(mergedData) ? mergedData : (mergedData.props || mergedData);
+    props.forEach((prop: MergedProp) => {
+      if (prop.odds_by_bookie) {
+        Object.keys(prop.odds_by_bookie).forEach(id => allBookieIdsSet.add(parseInt(id)));
+      }
+      prop.bookieIds?.forEach(id => allBookieIdsSet.add(id));
+    });
+    return Array.from(allBookieIdsSet).sort((a, b) => a - b);
+  }
+
+  /**
+   * Get exchange name for a given bookie ID
+   */
+  getExchangeForBookie(bookieId: number): string {
+    const mergedData = (mergedPropsData as any);
+    if (mergedData.metadata && mergedData.metadata.bookie_to_exchange) {
+      return mergedData.metadata.bookie_to_exchange[bookieId] || 'Unknown';
+    }
+    return 'Unknown';
+  }
+
+  /**
+   * Get all available exchanges from merged data metadata
+   */
+  getAllAvailableExchanges(): string[] {
+    const mergedData = (mergedPropsData as any);
+    if (mergedData.metadata && mergedData.metadata.all_available_exchanges) {
+      return mergedData.metadata.all_available_exchanges;
+    }
+    // Fallback: extract from props if metadata not available
+    const allExchangesSet = new Set<string>();
+    const props = Array.isArray(mergedData) ? mergedData : (mergedData.props || mergedData);
+    props.forEach((prop: MergedProp) => {
+      if (prop.odds_by_exchange) {
+        Object.keys(prop.odds_by_exchange).forEach(ex => allExchangesSet.add(ex));
+      }
+      prop.exchanges?.forEach(ex => allExchangesSet.add(ex));
+    });
+    const sortedExchanges = Array.from(allExchangesSet).sort((a, b) => {
+      const order = ['ProphetX', 'Novig'];
+      const aIndex = order.indexOf(a);
+      const bIndex = order.indexOf(b);
+      if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
+      if (aIndex !== -1) return -1;
+      if (bIndex !== -1) return 1;
+      return a.localeCompare(b);
+    });
+    return sortedExchanges;
   }
 
   /**

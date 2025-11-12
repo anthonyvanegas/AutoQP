@@ -1,0 +1,17 @@
+{
+  "name": "data-integration-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for integrating SpankOdds and Splash props data",
+  "main": "integrate-data.ts",
+  "scripts": {
+    "integrate": "ts-node integrate-data.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
+

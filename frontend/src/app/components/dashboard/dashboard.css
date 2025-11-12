@@ -149,9 +149,10 @@
 
 /* Props Section */
 .props-section {
-  max-width: 1400px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 2rem;
+  overflow-x: visible;
 }
 
 .section-header {
@@ -168,23 +169,104 @@
   color: #333;
 }
 
-/* Table Styling */
-.table-responsive {
+/* Table Wrapper for dual scrollbars */
+.table-wrapper {
+  position: relative;
   background: white;
   border-radius: 0.75rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  overflow: hidden;
+}
+
+/* Table Styling */
+.table-responsive {
+  overflow-x: auto;
+  overflow-y: visible;
+  max-width: 100%;
+  position: relative;
+  margin: 0 auto;
+}
+
+/* Scrollbar containers */
+.table-scrollbar {
+  width: 100%;
+  height: 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  background: #f1f1f1;
+  border-radius: 6px;
+}
+
+.table-scrollbar-top {
+  border-bottom: 2px solid #dee2e6;
+  border-radius: 0.75rem 0.75rem 0 0;
+}
+
+.table-scrollbar-bottom {
+  border-top: 2px solid #dee2e6;
+  border-radius: 0 0 0.75rem 0.75rem;
+}
+
+.table-scrollbar-content {
+  height: 1px;
+  /* Width will be set dynamically to match table width */
+}
+
+/* Sync scrollbars */
+.table-scrollbar-top::-webkit-scrollbar,
+.table-scrollbar-bottom::-webkit-scrollbar {
+  height: 12px;
+}
+
+.table-scrollbar-top::-webkit-scrollbar-track,
+.table-scrollbar-bottom::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 6px;
+}
+
+.table-scrollbar-top::-webkit-scrollbar-thumb,
+.table-scrollbar-bottom::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 6px;
+  border: 2px solid #f1f1f1;
+}
+
+.table-scrollbar-top::-webkit-scrollbar-thumb:hover,
+.table-scrollbar-bottom::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+/* Firefox scrollbar */
+.table-scrollbar-top,
+.table-scrollbar-bottom {
+  scrollbar-width: thin;
+  scrollbar-color: #667eea #f1f1f1;
 }
 
 .props-table {
-  width: 100%;
+  width: max-content;
+  min-width: 100%;
   border-collapse: collapse;
   margin: 0;
+  table-layout: auto;
 }
 
 .props-table thead {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   border-bottom: 2px solid #dee2e6;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.props-table thead th.col-player,
+.props-table thead th.col-prop,
+.props-table thead th.col-line,
+.props-table thead th.col-average,
+.props-table thead th.col-exchange,
+.props-table thead th.col-winprob,
+.props-table thead th.col-actions {
+  z-index: 30;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%) !important;
 }
 
 .props-table th {
@@ -206,31 +288,74 @@
   background-color: #f8f9fa;
 }
 
+.props-table tbody tr:hover td.col-player,
+.props-table tbody tr:hover td.col-prop,
+.props-table tbody tr:hover td.col-line,
+.props-table tbody tr:hover td.col-average,
+.props-table tbody tr:hover td.col-exchange,
+.props-table tbody tr:hover td.col-winprob,
+.props-table tbody tr:hover td.col-actions {
+  background-color: #f8f9fa;
+}
+
 .props-table tbody tr.value-play {
   background-color: #f0f7ff;
   border-left: 4px solid #667eea;
 }
 
+.props-table tbody tr.value-play td.col-player,
+.props-table tbody tr.value-play td.col-prop,
+.props-table tbody tr.value-play td.col-line,
+.props-table tbody tr.value-play td.col-average,
+.props-table tbody tr.value-play td.col-exchange,
+.props-table tbody tr.value-play td.col-winprob,
+.props-table tbody tr.value-play td.col-actions {
+  background-color: #f0f7ff;
+}
+
 .props-table td {
-  padding: 1.25rem;
+  padding: 1rem 0.75rem;
   vertical-align: middle;
+  white-space: nowrap;
+}
+
+.props-table th {
+  white-space: nowrap;
 }
 
 /* Column Widths */
 .col-player {
-  width: 15%;
-  min-width: 150px;
+  width: 200px !important;
+  min-width: 200px !important;
+  max-width: 200px !important;
+  position: sticky;
+  left: 0;
+  background: white;
+  z-index: 10;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.05);
 }
 
 .col-prop {
-  width: 12%;
-  min-width: 120px;
+  width: 150px !important;
+  min-width: 150px !important;
+  max-width: 150px !important;
+  position: sticky;
+  left: 200px; /* Player width */
+  background: white;
+  z-index: 10;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.05);
 }
 
 .col-line {
-  width: 8%;
-  min-width: 80px;
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
   text-align: center;
+  position: sticky;
+  left: 350px; /* Player (200) + Prop (150) */
+  background: white;
+  z-index: 10;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.05);
 }
 
 .col-odds {
@@ -238,20 +363,162 @@
   min-width: 200px;
 }
 
-.col-average {
-  width: 12%;
-  min-width: 120px;
-}
-
-.col-exchanges {
-  width: 15%;
-  min-width: 140px;
-}
-
-.col-actions {
-  width: 8%;
-  min-width: 80px;
+.col-book {
+  width: 80px !important;
+  min-width: 80px !important;
+  max-width: 80px !important;
   text-align: center;
+  padding: 0.75rem 0.5rem !important;
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+
+.book-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.book-id {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.book-exchange {
+  font-size: 0.7rem;
+  color: #667eea;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Over/Under Side Badges */
+.odds-side {
+  margin-bottom: 0.25rem;
+}
+
+.side-badge {
+  display: inline-block;
+  padding: 0.15rem 0.35rem;
+  border-radius: 0.25rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge-over {
+  background-color: #28a745;
+  color: white;
+}
+
+.badge-under {
+  background-color: #dc3545;
+  color: white;
+}
+
+.col-exchange {
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+  text-align: center;
+  position: sticky;
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.exchange-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.exchange-name {
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: #667eea;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.exchange-odds {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.exchange-odds strong {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Right-side sticky columns - positioned from right edge */
+/* Order matters: Actions (rightmost), Exchanges, Win %, Average */
+.col-actions {
+  width: 110px !important;
+  min-width: 110px !important;
+  max-width: 110px !important;
+  text-align: center;
+  position: sticky;
+  right: 0;
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Calculate right positions for sticky columns */
+/* Order from right: Actions (110px), Win % (110px), Exchanges (100px each), Average (120px) */
+.col-actions {
+  width: 110px !important;
+  min-width: 110px !important;
+  max-width: 110px !important;
+  text-align: center;
+  position: sticky;
+  right: 0;
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.col-winprob {
+  width: 110px !important;
+  min-width: 110px !important;
+  max-width: 110px !important;
+  text-align: center;
+  position: sticky;
+  right: 110px; /* Actions width */
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Exchange columns - positioned dynamically via inline styles in HTML */
+/* Right positions are calculated: Actions (110) + Win % (110) + (index * 100) */
+.col-exchange {
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+  text-align: center;
+  position: sticky;
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.col-average {
+  width: 120px !important;
+  min-width: 120px !important;
+  max-width: 120px !important;
+  text-align: center;
+  position: sticky;
+  background: white;
+  z-index: 10;
+  box-shadow: -2px 0 4px rgba(0, 0, 0, 0.05);
+  /* Right position will be calculated dynamically: Actions (110) + Win % (110) + Exchanges (100 * count) */
 }
 
 /* Player Info */
@@ -334,6 +601,32 @@
   padding: 0.2rem 0.5rem;
   border-radius: 0.25rem;
   font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* Book Odds */
+.book-odds {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.book-odds strong {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+/* Exchange Odds */
+.exchange-odds {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.exchange-odds strong {
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -543,22 +836,30 @@
   }
 }
 
-/* Scrollbar Styling */
+/* Scrollbar Styling for main table */
 .table-responsive::-webkit-scrollbar {
-  height: 8px;
+  height: 12px;
 }
 
 .table-responsive::-webkit-scrollbar-track {
   background: #f1f1f1;
+  border-radius: 6px;
 }
 
 .table-responsive::-webkit-scrollbar-thumb {
-  background: #667eea;
-  border-radius: 4px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 6px;
+  border: 2px solid #f1f1f1;
 }
 
 .table-responsive::-webkit-scrollbar-thumb:hover {
-  background: #764ba2;
+  background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+}
+
+/* Firefox scrollbar */
+.table-responsive {
+  scrollbar-width: thin;
+  scrollbar-color: #667eea #f1f1f1;
 }
 
 /* Animations */

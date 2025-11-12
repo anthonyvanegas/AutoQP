@@ -94,6 +94,14 @@
             >
               BEST {{ sortDescending && sortBy === 'best_odds' ? '↓' : '↑' }}
             </button>
+            <button 
+              class="sort-btn"
+              [class.active]="sortBy === 'win_probability'"
+              (click)="onSortChange('win_probability')"
+              title="Sort by win probability"
+            >
+              WIN% {{ sortDescending && sortBy === 'win_probability' ? '↓' : '↑' }}
+            </button>
           </div>
         </div>
       </div>
@@ -107,22 +115,43 @@
       <span class="badge bg-primary">{{ filteredProps.length }} shown</span>
     </div>
 
-    <div class="table-responsive">
-      <table class="props-table">
+    <div class="table-wrapper">
+      <!-- Top scrollbar -->
+      <div class="table-scrollbar table-scrollbar-top">
+        <div class="table-scrollbar-content"></div>
+      </div>
+      
+      <div class="table-responsive">
+        <table class="props-table">
         <thead>
           <tr>
             <th class="col-player">Player</th>
             <th class="col-prop">Prop Type</th>
             <th class="col-line">Splash Line</th>
-            <th class="col-odds">Market Odds</th>
-            <th class="col-average">Average</th>
-            <th class="col-exchanges">Exchanges</th>
+            <!-- Dynamic bookie ID columns (individual books) -->
+            <th *ngFor="let bookieId of allBookieIds" class="col-book text-center">
+              <div class="book-header">
+                <div class="book-id">{{ bookieId }}</div>
+                <div class="book-exchange">{{ getExchangeForBookie(bookieId) }}</div>
+              </div>
+            </th>
+            <th class="col-average text-center">Average</th>
+            <!-- Exchange columns (right side) - positioned from right edge -->
+            <!-- Order from right: Actions (0), Win % (110), Exchanges (220, 320, 420...), Average (520+) -->
+            <th *ngFor="let exchange of allExchanges; let i = index" 
+                class="col-exchange text-center"
+                [style.right.px]="110 + 110 + ((allExchanges.length - 1 - i) * 100)">
+              <div class="exchange-header">
+                <div class="exchange-name">{{ exchange }}</div>
+              </div>
+            </th>
+            <th class="col-winprob text-center">Win %</th>
             <th class="col-actions">Actions</th>
           </tr>
         </thead>
         <tbody>
           <tr *ngIf="filteredProps.length === 0" class="empty-state">
-            <td colspan="7" class="text-center py-5">
+            <td [attr.colspan]="4 + allBookieIds.length + allExchanges.length + 1" class="text-center py-5">
               <p class="text-muted mb-2">No props match your criteria</p>
               <small class="text-muted">Try adjusting your filters or enter odds for available props</small>
             </td>
@@ -148,101 +177,64 @@
               <span class="line-badge">{{ prop.line }}</span>
             </td>
 
-            <!-- Market Odds Entry -->
-            <td class="col-odds">
-              <div class="odds-entry-cell">
-                <div *ngIf="prop.odds_entries.length === 0" class="empty-odds">
-                  <button 
-                    class="btn btn-sm btn-outline-primary"
-                    (click)="setEditingProp(prop.id)"
-                  >
-                    + Add Odds
-                  </button>
+            <!-- Bookie ID columns (individual books) -->
+            <td *ngFor="let bookieId of allBookieIds" class="col-book text-center">
+              <div *ngIf="prop.odds_by_bookie && prop.odds_by_bookie[bookieId.toString()]" 
+                   class="book-odds">
+                <div class="odds-side" *ngIf="prop.side_by_bookie && prop.side_by_bookie[bookieId.toString()] && prop.side_by_bookie[bookieId.toString()] !== 'unknown'">
+                  <span class="side-badge" [ngClass]="prop.side_by_bookie[bookieId.toString()] === 'over' ? 'badge-over' : 'badge-under'">
+                    {{ prop.side_by_bookie[bookieId.toString()] === 'over' ? 'O' : 'U' }}
+                  </span>
                 </div>
-
-                <div *ngIf="editingPropId === prop.id" class="odds-form">
-                  <div class="input-group input-group-sm mb-2">
-                    <input 
-                      type="text" 
-                      class="form-control" 
-                      placeholder="Sportsbook"
-                      [(ngModel)]="newOddsEntry.sportsbook"
-                    />
-                    <input 
-                      type="number" 
-                      class="form-control" 
-                      placeholder="Odds (e.g., -135)"
-                      [(ngModel)]="newOddsEntry.odds"
-                    />
-                    <select class="form-select form-select-sm" [(ngModel)]="newOddsEntry.exchange">
-                      <option value="">Exchange</option>
-                      <option value="ProphetX">ProphetX</option>
-                      <option value="Novig">Novig</option>
-                      <option value="Other">Other</option>
-                    </select>
-                  </div>
-                  <div class="d-flex gap-2">
-                    <button 
-                      class="btn btn-sm btn-success"
-                      (click)="addOddsEntry(prop.id)"
-                    >
-                      ✓ Add
-                    </button>
-                    <button 
-                      class="btn btn-sm btn-secondary"
-                      (click)="setEditingProp(null)"
-                    >
-                      ✕ Cancel
-                    </button>
-                  </div>
-                </div>
-
-                <div *ngIf="editingPropId !== prop.id && prop.odds_entries.length > 0" class="odds-list">
-                  <div *ngFor="let entry of prop.odds_entries; let i = index" class="odds-item">
-                    <div class="odds-item-content">
-                      <strong [ngClass]="getOddsColor(entry.odds)">{{ entry.odds }}</strong>
-                      <span class="odds-item-label">{{ entry.sportsbook }}</span>
-                      <span *ngIf="entry.exchange" class="exchange-badge">{{ entry.exchange }}</span>
-                    </div>
-                    <button 
-                      class="btn btn-sm btn-link text-danger p-0"
-                      (click)="removeOddsEntry(prop.id, i)"
-                      title="Remove this odds entry"
-                    >
-                      ✕
-                    </button>
-                  </div>
-                  <button 
-                    class="btn btn-sm btn-outline-primary mt-2 w-100"
-                    (click)="setEditingProp(prop.id)"
-                  >
-                    + Add Another
-                  </button>
-                </div>
+                <strong [ngClass]="getOddsColor(prop.odds_by_bookie[bookieId.toString()])">
+                  {{ prop.odds_by_bookie[bookieId.toString()] }}
+                </strong>
               </div>
+              <div *ngIf="!prop.odds_by_bookie || !prop.odds_by_bookie[bookieId.toString()]" 
+                   class="text-muted">—</div>
             </td>
 
             <!-- Average Odds -->
             <td class="col-average text-center">
-              <div *ngIf="prop.average_odds !== undefined" class="average-odds">
+              <div *ngIf="prop.average_odds !== undefined && prop.average_odds !== 0" class="average-odds">
                 <strong [ngClass]="getOddsColor(prop.average_odds)">{{ prop.average_odds }}</strong>
-                <div class="text-muted small">
-                  {{ oddsToImpliedProbability(prop.average_odds) }}% win prob
-                </div>
               </div>
-              <div *ngIf="prop.average_odds === undefined" class="text-muted">
+              <div *ngIf="prop.average_odds === undefined || prop.average_odds === 0" class="text-muted">
                 —
               </div>
             </td>
 
-            <!-- Exchanges Included -->
-            <td class="col-exchanges">
-              <div *ngIf="prop.exchanges_included && prop.exchanges_included.length > 0" class="exchange-badges">
-                <span *ngFor="let exchange of prop.exchanges_included" class="exchange-badge-primary">
-                  {{ exchange }}
-                </span>
+            <!-- Exchange columns (right side) - positioned from right edge -->
+            <!-- Order from right: Actions (0), Win % (110), Exchanges (220, 320, 420...), Average (520+) -->
+            <td *ngFor="let exchange of allExchanges; let i = index" 
+                class="col-exchange text-center"
+                [style.right.px]="110 + 110 + ((allExchanges.length - 1 - i) * 100)">
+              <div *ngIf="prop.odds_by_exchange && prop.odds_by_exchange[exchange]" 
+                   class="exchange-odds">
+                <div class="odds-side" *ngIf="prop.primary_side">
+                  <span class="side-badge" [ngClass]="prop.primary_side === 'over' ? 'badge-over' : 'badge-under'">
+                    {{ prop.primary_side === 'over' ? 'O' : 'U' }}
+                  </span>
+                </div>
+                <strong [ngClass]="getOddsColor(prop.odds_by_exchange[exchange])">
+                  {{ prop.odds_by_exchange[exchange] }}
+                </strong>
               </div>
-              <div *ngIf="!prop.exchanges_included || prop.exchanges_included.length === 0" class="text-muted small">
+              <div *ngIf="!prop.odds_by_exchange || !prop.odds_by_exchange[exchange]" 
+                   class="text-muted">—</div>
+            </td>
+
+            <!-- Win Probability -->
+            <td class="col-winprob text-center">
+              <div *ngIf="prop.win_probability !== undefined" class="win-probability">
+                <strong [ngClass]="prop.win_probability >= 57.0 ? 'text-success' : prop.win_probability >= 52.0 ? 'text-info' : 'text-muted'">
+                  {{ prop.win_probability.toFixed(2) }}%
+                </strong>
+              </div>
+              <div *ngIf="prop.win_probability === undefined && prop.average_odds !== undefined" class="text-muted small">
+                {{ oddsToImpliedProbability(prop.average_odds) }}%
+              </div>
+              <div *ngIf="prop.win_probability === undefined && prop.average_odds === undefined" class="text-muted">
                 —
               </div>
             </td>
@@ -262,6 +254,12 @@
           </tr>
         </tbody>
       </table>
+      </div>
+      
+      <!-- Bottom scrollbar -->
+      <div class="table-scrollbar table-scrollbar-bottom">
+        <div class="table-scrollbar-content"></div>
+      </div>
     </div>
 
     <!-- Legend -->

@@ -1,0 +1,1933 @@
+{
+  "metadata": {
+    "all_available_bookie_ids": [
+      37,
+      46,
+      49,
+      107,
+      118,
+      130,
+      205,
+      379,
+      404,
+      405,
+      416,
+      418,
+      419,
+      420,
+      426,
+      427,
+      428,
+      433,
+      441,
+      443,
+      444,
+      445,
+      457,
+      458,
+      459,
+      520,
+      539,
+      540,
+      604,
+      605,
+      624,
+      625,
+      642,
+      656,
+      721,
+      763,
+      764,
+      802,
+      809,
+      810,
+      811,
+      812,
+      815,
+      816,
+      817,
+      818,
+      819,
+      821,
+      829,
+      832,
+      834,
+      844,
+      846,
+      847,
+      851,
+      854,
+      855,
+      862,
+      881,
+      882,
+      883,
+      888,
+      889,
+      894,
+      895,
+      898,
+      899,
+      921,
+      925,
+      929,
+      932,
+      937,
+      947,
+      951,
+      963,
+      964,
+      965,
+      966,
+      973,
+      974,
+      999
+    ],
+    "all_available_exchanges": [
+      "ProphetX",
+      "Novig",
+      "Other"
+    ],
+    "bookie_to_exchange": {
+      "37": "Other",
+      "46": "Other",
+      "49": "Other",
+      "107": "Other",
+      "118": "Other",
+      "130": "Other",
+      "205": "Other",
+      "379": "Other",
+      "404": "Other",
+      "405": "Other",
+      "416": "Other",
+      "418": "Other",
+      "419": "Other",
+      "420": "Other",
+      "426": "Other",
+      "427": "Other",
+      "428": "Other",
+      "433": "ProphetX",
+      "441": "Other",
+      "443": "Other",
+      "444": "Other",
+      "445": "Other",
+      "457": "Other",
+      "458": "Other",
+      "459": "Other",
+      "520": "Other",
+      "539": "Other",
+      "540": "Other",
+      "604": "Other",
+      "605": "Other",
+      "624": "Novig",
+      "625": "Novig",
+      "642": "Other",
+      "656": "Other",
+      "721": "Other",
+      "763": "Other",
+      "764": "Other",
+      "802": "Other",
+      "809": "Other",
+      "810": "Other",
+      "811": "Other",
+      "812": "Other",
+      "815": "Other",
+      "816": "Other",
+      "817": "Other",
+      "818": "Other",
+      "819": "Other",
+      "821": "Other",
+      "829": "Other",
+      "832": "Other",
+      "834": "Other",
+      "844": "Other",
+      "846": "Other",
+      "847": "Other",
+      "851": "Other",
+      "854": "Other",
+      "855": "Other",
+      "862": "Other",
+      "881": "Other",
+      "882": "Other",
+      "883": "Other",
+      "888": "Other",
+      "889": "Other",
+      "894": "Other",
+      "895": "Other",
+      "898": "Other",
+      "899": "Other",
+      "921": "Other",
+      "925": "Other",
+      "929": "Other",
+      "932": "Other",
+      "937": "Other",
+      "947": "Other",
+      "951": "Other",
+      "963": "Other",
+      "964": "Other",
+      "965": "Other",
+      "966": "Other",
+      "973": "Other",
+      "974": "Other",
+      "999": "Other"
+    },
+    "total_splash_props": 1081,
+    "matched_props": 50,
+    "generated_at": "2025-11-12T02:37:06.395Z"
+  },
+  "props": [
+    {
+      "id": "prop_6912654a2bdd12782484089b338caacb",
+      "entity_name": "Zach Ertz",
+      "type_display": "Rec",
+      "line": 3.5,
+      "average_odds": 25,
+      "win_probability": 80,
+      "odds_by_bookie": {
+        "656": -118,
+        "721": 125,
+        "937": 23
+      },
+      "side_by_bookie": {
+        "656": "over",
+        "721": "over",
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 25
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        721,
+        656
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691284b79199ecc5fcad8d14161fd320",
+      "entity_name": "Xavier Worthy",
+      "type_display": "Rec",
+      "line": 3.5,
+      "average_odds": 25,
+      "win_probability": 80,
+      "odds_by_bookie": {
+        "656": -118,
+        "721": 125,
+        "937": 23
+      },
+      "side_by_bookie": {
+        "656": "over",
+        "721": "over",
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 25
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        721,
+        656
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913d7b11e48ed2d2ee0905605c9d08b",
+      "entity_name": "Jahmyr Gibbs",
+      "type_display": "Rec",
+      "line": 3.5,
+      "average_odds": 25,
+      "win_probability": 80,
+      "odds_by_bookie": {
+        "656": -118,
+        "721": 125,
+        "937": 23
+      },
+      "side_by_bookie": {
+        "656": "over",
+        "721": "over",
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 25
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        721,
+        656
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912e16c7d430fb788658cdd671db58f",
+      "entity_name": "Rashee Rice",
+      "type_display": "Rec",
+      "line": 6.5,
+      "average_odds": 38,
+      "win_probability": 72.46,
+      "odds_by_bookie": {
+        "444": 114,
+        "721": -9,
+        "810": 109,
+        "817": -50,
+        "821": 181,
+        "882": -55,
+        "999": -3
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "721": "over",
+        "810": "over",
+        "817": "over",
+        "821": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 38
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        810,
+        821,
+        817,
+        882,
+        721,
+        999,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691268afe4d710c883e4ace30c8ac913",
+      "entity_name": "Stefon Diggs",
+      "type_display": "Rec",
+      "line": 4.5,
+      "average_odds": -184,
+      "win_probability": 64.79,
+      "odds_by_bookie": {
+        "444": -125,
+        "604": -120,
+        "656": -123,
+        "721": -62,
+        "817": -129,
+        "882": -150,
+        "937": -294,
+        "999": -128
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "817": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -184
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        817,
+        604,
+        882,
+        721,
+        656,
+        999,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69134bed4b524acd41423dd8f74e1698",
+      "entity_name": "Bijan Robinson",
+      "type_display": "Rec",
+      "line": 4.5,
+      "average_odds": -184,
+      "win_probability": 64.79,
+      "odds_by_bookie": {
+        "444": -125,
+        "604": -120,
+        "656": -123,
+        "721": -62,
+        "817": -129,
+        "882": -150,
+        "937": -294,
+        "999": -128
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "817": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -184
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        817,
+        604,
+        882,
+        721,
+        656,
+        999,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69135f52e4f6d62b11d134965a7cb663",
+      "entity_name": "Tetairoa McMillan",
+      "type_display": "Rec",
+      "line": 4.5,
+      "average_odds": -184,
+      "win_probability": 64.79,
+      "odds_by_bookie": {
+        "444": -125,
+        "604": -120,
+        "656": -123,
+        "721": -62,
+        "817": -129,
+        "882": -150,
+        "937": -294,
+        "999": -128
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "817": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -184
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        817,
+        604,
+        882,
+        721,
+        656,
+        999,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a3df9cf7a8039563cef8e1146cd3",
+      "entity_name": "DeVonta Smith",
+      "type_display": "Rec",
+      "line": 4.5,
+      "average_odds": -184,
+      "win_probability": 64.79,
+      "odds_by_bookie": {
+        "444": -125,
+        "604": -120,
+        "656": -123,
+        "721": -62,
+        "817": -129,
+        "882": -150,
+        "937": -294,
+        "999": -128
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "817": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -184
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        817,
+        604,
+        882,
+        721,
+        656,
+        999,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691260d9ee9f94d1a6dfbca40d7ca5dc",
+      "entity_name": "Rashee Rice",
+      "type_display": "Rec Yds",
+      "line": 73.5,
+      "average_odds": 58,
+      "win_probability": 63.29,
+      "odds_by_bookie": {
+        "441": 105,
+        "520": 105,
+        "721": -129,
+        "899": 105
+      },
+      "side_by_bookie": {
+        "441": "over",
+        "520": "over",
+        "721": "over",
+        "899": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 58
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        520,
+        441,
+        721,
+        899
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913ca91418659b246c9b5bab5200644",
+      "entity_name": "Breece Hall",
+      "type_display": "Rec Yds",
+      "line": 15.5,
+      "average_odds": -139,
+      "win_probability": 58.16,
+      "odds_by_bookie": {
+        "721": -139
+      },
+      "side_by_bookie": {
+        "721": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -139
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        721
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69136dfde55e27b403159a8d2b0bf8ba",
+      "entity_name": "Tetairoa McMillan",
+      "type_display": "Rec Yds",
+      "line": 57.5,
+      "average_odds": -128,
+      "win_probability": 56.14,
+      "odds_by_bookie": {
+        "815": -129,
+        "816": -128
+      },
+      "side_by_bookie": {
+        "815": "over",
+        "816": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -128
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        815,
+        816
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a3df602bf383852cb562e0908ac9",
+      "entity_name": "DeVonta Smith",
+      "type_display": "Rec Yds",
+      "line": 57.5,
+      "average_odds": -128,
+      "win_probability": 56.14,
+      "odds_by_bookie": {
+        "815": -129,
+        "816": -128
+      },
+      "side_by_bookie": {
+        "815": "over",
+        "816": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -128
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        815,
+        816
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a9d022a3b319befb71ce6e7583a5",
+      "entity_name": "Jared Goff",
+      "type_display": "Pass Yds",
+      "line": 243.5,
+      "average_odds": -126,
+      "win_probability": 55.75,
+      "odds_by_bookie": {
+        "815": -126
+      },
+      "side_by_bookie": {
+        "815": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -126
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        815
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69139bc590231ba3dda7fc837b5550a1",
+      "entity_name": "Mason Taylor",
+      "type_display": "Rec Yds",
+      "line": 32.5,
+      "average_odds": -125,
+      "win_probability": 55.56,
+      "odds_by_bookie": {
+        "882": -125
+      },
+      "side_by_bookie": {
+        "882": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -125
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912771809a0858910172fe3ef1af2be",
+      "entity_name": "Hunter Henry",
+      "type_display": "Rec Yds",
+      "line": 33.5,
+      "average_odds": -123,
+      "win_probability": 55.16,
+      "odds_by_bookie": {
+        "656": -123
+      },
+      "side_by_bookie": {
+        "656": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -123
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        656
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912664e79d03ee602b37f423246747d",
+      "entity_name": "Deebo Samuel",
+      "type_display": "Rec Yds",
+      "line": 49.5,
+      "average_odds": -122,
+      "win_probability": 54.95,
+      "odds_by_bookie": {
+        "847": -122
+      },
+      "side_by_bookie": {
+        "847": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -122
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        847
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691260d918d6ddcd29a841238d840819",
+      "entity_name": "Courtland Sutton",
+      "type_display": "Rec Yds",
+      "line": 49.5,
+      "average_odds": -122,
+      "win_probability": 54.95,
+      "odds_by_bookie": {
+        "847": -122
+      },
+      "side_by_bookie": {
+        "847": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -122
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        847
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913ac5df6aced0636b20750ee69db9e",
+      "entity_name": "DeMario Douglas",
+      "type_display": "Rec Yds",
+      "line": 23.5,
+      "average_odds": -121,
+      "win_probability": 54.75,
+      "odds_by_bookie": {
+        "416": -115,
+        "539": -115,
+        "882": -110,
+        "937": -124,
+        "999": -110
+      },
+      "side_by_bookie": {
+        "416": "over",
+        "539": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -121
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        416,
+        539,
+        999,
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69126b83624c81f1f1f53b6214acdbf7",
+      "entity_name": "Drake Maye",
+      "type_display": "Rush Yds",
+      "line": 23.5,
+      "average_odds": -121,
+      "win_probability": 54.75,
+      "odds_by_bookie": {
+        "416": -115,
+        "539": -115,
+        "882": -110,
+        "937": -124,
+        "999": -110
+      },
+      "side_by_bookie": {
+        "416": "over",
+        "539": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -121
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        416,
+        539,
+        999,
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a3df75b3c5b99e38f480f7cc86ed",
+      "entity_name": "Dallas Goedert",
+      "type_display": "Rec Yds",
+      "line": 37.5,
+      "average_odds": -120,
+      "win_probability": 54.55,
+      "odds_by_bookie": {
+        "882": -120
+      },
+      "side_by_bookie": {
+        "882": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -120
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913cbf38c005d2a8164dae2731b9450",
+      "entity_name": "Bryce Young",
+      "type_display": "Pass Yds",
+      "line": 160.5,
+      "average_odds": -119,
+      "win_probability": 54.34,
+      "odds_by_bookie": {
+        "881": -120,
+        "882": -120,
+        "888": -120,
+        "895": -120,
+        "947": -115,
+        "999": -120
+      },
+      "side_by_bookie": {
+        "881": "over",
+        "882": "over",
+        "888": "over",
+        "895": "over",
+        "947": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -119
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        888,
+        895,
+        881,
+        999,
+        947,
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69139396c428b10c3c4adb572e9cab40",
+      "entity_name": "Kenneth Walker III",
+      "type_display": "Rush Yds",
+      "line": 44.5,
+      "average_odds": -118,
+      "win_probability": 54.13,
+      "odds_by_bookie": {
+        "444": -132,
+        "604": -122,
+        "605": -122,
+        "624": -122,
+        "656": -117,
+        "881": -128,
+        "888": -128,
+        "895": -128,
+        "937": -102,
+        "963": -118,
+        "999": -128
+      },
+      "side_by_bookie": {
+        "444": "over",
+        "604": "over",
+        "605": "over",
+        "624": "over",
+        "656": "over",
+        "881": "over",
+        "888": "over",
+        "895": "over",
+        "937": "over",
+        "963": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -118,
+        "Novig": -122
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other",
+        "Novig"
+      ],
+      "bookieIds": [
+        937,
+        888,
+        895,
+        881,
+        999,
+        604,
+        605,
+        624,
+        656,
+        963,
+        444
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69130caf0a0e139baedb7c80319ae5d4",
+      "entity_name": "Michael Penix Jr.",
+      "type_display": "Pass Yds",
+      "line": 228.5,
+      "average_odds": -117,
+      "win_probability": 53.92,
+      "odds_by_bookie": {
+        "844": -113,
+        "846": -113,
+        "937": -118,
+        "973": -113
+      },
+      "side_by_bookie": {
+        "844": "over",
+        "846": "over",
+        "937": "over",
+        "973": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -117
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        846,
+        973,
+        844
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69134611f502ca62dc900f179ce2eb1f",
+      "entity_name": "Bijan Robinson",
+      "type_display": "Rush Yds",
+      "line": 71.5,
+      "average_odds": -117,
+      "win_probability": 53.92,
+      "odds_by_bookie": {
+        "37": -120,
+        "46": -120,
+        "416": -120,
+        "426": -120,
+        "427": -120,
+        "428": -120,
+        "539": -119,
+        "802": -110,
+        "921": -110,
+        "951": -120
+      },
+      "side_by_bookie": {
+        "37": "over",
+        "46": "over",
+        "416": "over",
+        "426": "over",
+        "427": "over",
+        "428": "over",
+        "539": "over",
+        "802": "over",
+        "921": "over",
+        "951": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -117
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        921,
+        802,
+        416,
+        539,
+        37,
+        951,
+        426,
+        427,
+        428,
+        46
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691395d000779fb66e17c969701c7b92",
+      "entity_name": "Saquon Barkley",
+      "type_display": "Rush Yds",
+      "line": 72.5,
+      "average_odds": -116,
+      "win_probability": 53.7,
+      "odds_by_bookie": {
+        "418": -110,
+        "419": -110,
+        "604": -125,
+        "605": -125,
+        "642": -110
+      },
+      "side_by_bookie": {
+        "418": "over",
+        "419": "over",
+        "604": "over",
+        "605": "over",
+        "642": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -116
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        642,
+        419,
+        418,
+        604,
+        605
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691260d9ff2cfb62a7887077a66e889f",
+      "entity_name": "Davante Adams",
+      "type_display": "Rec Yds",
+      "line": 61.5,
+      "average_odds": -115,
+      "win_probability": 53.49,
+      "odds_by_bookie": {
+        "441": -115,
+        "899": -115
+      },
+      "side_by_bookie": {
+        "441": "over",
+        "899": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -115
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        899,
+        441
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913d51832f39685bbb865384a3ba63f",
+      "entity_name": "Travis Kelce",
+      "type_display": "Rec Yds",
+      "line": 45.5,
+      "average_odds": -113,
+      "win_probability": 53.05,
+      "odds_by_bookie": {
+        "405": -110,
+        "416": -113,
+        "441": -111,
+        "457": -116,
+        "458": -116,
+        "459": -116,
+        "520": -112,
+        "539": -110,
+        "816": -110,
+        "899": -110,
+        "925": -115
+      },
+      "side_by_bookie": {
+        "405": "over",
+        "416": "over",
+        "441": "over",
+        "457": "over",
+        "458": "over",
+        "459": "over",
+        "520": "over",
+        "539": "over",
+        "816": "over",
+        "899": "over",
+        "925": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -113
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        520,
+        441,
+        457,
+        458,
+        459,
+        925,
+        416,
+        816,
+        539,
+        899,
+        405
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69137e66dd4f5defb1a6117b69b71c42",
+      "entity_name": "Aaron Rodgers",
+      "type_display": "Pass Yds",
+      "line": 230.5,
+      "average_odds": -111,
+      "win_probability": 52.61,
+      "odds_by_bookie": {
+        "416": -115,
+        "539": -115,
+        "656": -117,
+        "851": 0,
+        "937": -117,
+        "963": -118
+      },
+      "side_by_bookie": {
+        "416": "over",
+        "539": "over",
+        "656": "over",
+        "851": "over",
+        "937": "over",
+        "963": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -111
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        656,
+        937,
+        963,
+        416,
+        539,
+        851
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a54f80fa3d1cb3081a0d710676ee",
+      "entity_name": "Jahmyr Gibbs",
+      "type_display": "Rec Yds",
+      "line": 21.5,
+      "average_odds": -111,
+      "win_probability": 52.61,
+      "odds_by_bookie": {
+        "416": -115,
+        "539": -115,
+        "817": -102
+      },
+      "side_by_bookie": {
+        "416": "over",
+        "539": "over",
+        "817": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -111
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        416,
+        539,
+        817
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a54f03b37c0d4c92205bb66bc68f",
+      "entity_name": "Jameson Williams",
+      "type_display": "Rec Yds",
+      "line": 48.5,
+      "average_odds": -108,
+      "win_probability": 51.92,
+      "odds_by_bookie": {
+        "937": -108
+      },
+      "side_by_bookie": {
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -108
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69133801df70d354b2151227dc87a816",
+      "entity_name": "Stefon Diggs",
+      "type_display": "Rec Yds",
+      "line": 54.5,
+      "average_odds": -107,
+      "win_probability": 51.69,
+      "odds_by_bookie": {
+        "441": -105,
+        "520": -105,
+        "818": -108
+      },
+      "side_by_bookie": {
+        "441": "over",
+        "520": "over",
+        "818": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        520,
+        441,
+        818
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913924263e1a2f383a9d728a5201a50",
+      "entity_name": "Zach Charbonnet",
+      "type_display": "Rush Yds",
+      "line": 34.5,
+      "average_odds": -107,
+      "win_probability": 51.69,
+      "odds_by_bookie": {
+        "937": -107
+      },
+      "side_by_bookie": {
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a3df1640fe2ec63269c79c00356c",
+      "entity_name": "A.J. Brown",
+      "type_display": "Rec Yds",
+      "line": 54.5,
+      "average_odds": -107,
+      "win_probability": 51.69,
+      "odds_by_bookie": {
+        "441": -105,
+        "520": -105,
+        "818": -108
+      },
+      "side_by_bookie": {
+        "441": "over",
+        "520": "over",
+        "818": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        520,
+        441,
+        818
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691379e1dca07b8c080808f86f9aa1b8",
+      "entity_name": "Drake London",
+      "type_display": "Rec Yds",
+      "line": 74.5,
+      "average_odds": -105,
+      "win_probability": 51.22,
+      "odds_by_bookie": {
+        "882": -105
+      },
+      "side_by_bookie": {
+        "882": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -105
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69139396746675a0d7c20c86a8ca3de3",
+      "entity_name": "Blake Corum",
+      "type_display": "Rush Yds",
+      "line": 27.5,
+      "average_odds": -102,
+      "win_probability": 50.5,
+      "odds_by_bookie": {
+        "721": 117,
+        "937": -115
+      },
+      "side_by_bookie": {
+        "721": "over",
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -102
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        721
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69139ab2ae97087142d48feab2207e39",
+      "entity_name": "Jalen Hurts",
+      "type_display": "Rush Yds",
+      "line": 27.5,
+      "average_odds": -102,
+      "win_probability": 50.5,
+      "odds_by_bookie": {
+        "721": 117,
+        "937": -115
+      },
+      "side_by_bookie": {
+        "721": "over",
+        "937": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -102
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        721
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912654a6dd01965d54af8dc8681260d",
+      "entity_name": "De'Von Achane",
+      "type_display": "Rec",
+      "line": 5.5,
+      "average_odds": -101,
+      "win_probability": 50.25,
+      "odds_by_bookie": {
+        "721": -109,
+        "810": -141,
+        "817": -122,
+        "821": -141,
+        "882": -20,
+        "999": -67
+      },
+      "side_by_bookie": {
+        "721": "over",
+        "810": "over",
+        "817": "over",
+        "821": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -101
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        810,
+        821,
+        817,
+        882,
+        721,
+        999
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912760fe225c5be2aa48cf429a22814",
+      "entity_name": "Jaylen Waddle",
+      "type_display": "Rec",
+      "line": 5.5,
+      "average_odds": -101,
+      "win_probability": 50.25,
+      "odds_by_bookie": {
+        "721": -109,
+        "810": -141,
+        "817": -122,
+        "821": -141,
+        "882": -20,
+        "999": -67
+      },
+      "side_by_bookie": {
+        "721": "over",
+        "810": "over",
+        "817": "over",
+        "821": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -101
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        810,
+        821,
+        817,
+        882,
+        721,
+        999
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913db44fb78da1ed9d49a78fe23d747",
+      "entity_name": "Amon-Ra St. Brown",
+      "type_display": "Rec Yds",
+      "line": 77.5,
+      "average_odds": -98,
+      "win_probability": 49.49,
+      "odds_by_bookie": {
+        "107": -110,
+        "118": -110,
+        "130": -110,
+        "404": -110,
+        "418": -105,
+        "419": -105,
+        "420": 107,
+        "441": 105,
+        "443": -110,
+        "520": 105,
+        "817": -105,
+        "818": 101,
+        "832": -110,
+        "881": -114,
+        "888": -114,
+        "895": -114,
+        "999": -114
+      },
+      "side_by_bookie": {
+        "107": "over",
+        "118": "over",
+        "130": "over",
+        "404": "over",
+        "418": "over",
+        "419": "over",
+        "420": "over",
+        "441": "over",
+        "443": "over",
+        "520": "over",
+        "817": "over",
+        "818": "over",
+        "832": "over",
+        "881": "over",
+        "888": "over",
+        "895": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -98
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        832,
+        130,
+        404,
+        443,
+        118,
+        107,
+        818,
+        888,
+        895,
+        881,
+        999,
+        520,
+        441,
+        420,
+        418,
+        817,
+        419
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912e16cc546be5e4f1b23cdae493a84",
+      "entity_name": "Jaxon Smith-Njigba",
+      "type_display": "Rec",
+      "line": 7.5,
+      "average_odds": 107,
+      "win_probability": 48.31,
+      "odds_by_bookie": {
+        "604": 128,
+        "656": 106,
+        "721": 108,
+        "882": 102,
+        "999": 105
+      },
+      "side_by_bookie": {
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        604,
+        882,
+        656,
+        721,
+        999
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_691261eb1a9449ea862c577ed92ba66c",
+      "entity_name": "Puka Nacua",
+      "type_display": "Rec",
+      "line": 7.5,
+      "average_odds": 107,
+      "win_probability": 48.31,
+      "odds_by_bookie": {
+        "604": 128,
+        "656": 106,
+        "721": 108,
+        "882": 102,
+        "999": 105
+      },
+      "side_by_bookie": {
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        604,
+        882,
+        656,
+        721,
+        999
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a3dfa5f541cf12a7d710cd3d89d8",
+      "entity_name": "Amon-Ra St. Brown",
+      "type_display": "Rec",
+      "line": 7.5,
+      "average_odds": 107,
+      "win_probability": 48.31,
+      "odds_by_bookie": {
+        "604": 128,
+        "656": 106,
+        "721": 108,
+        "882": 102,
+        "999": 105
+      },
+      "side_by_bookie": {
+        "604": "over",
+        "656": "over",
+        "721": "over",
+        "882": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 107
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        604,
+        882,
+        656,
+        721,
+        999
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912c4bb2a86321f4275cb77f18435c6",
+      "entity_name": "Breece Hall",
+      "type_display": "Rush Yds",
+      "line": 59.5,
+      "average_odds": 116,
+      "win_probability": 46.3,
+      "odds_by_bookie": {
+        "819": 116
+      },
+      "side_by_bookie": {
+        "819": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 116
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        819
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913b335321fab4c07d6bcf296000c13",
+      "entity_name": "Kyle Williams",
+      "type_display": "Rec Yds",
+      "line": 20.5,
+      "average_odds": -83,
+      "win_probability": 45.36,
+      "odds_by_bookie": {
+        "416": -115,
+        "539": -115,
+        "604": 102,
+        "656": -113,
+        "882": -120,
+        "937": -105,
+        "999": 105
+      },
+      "side_by_bookie": {
+        "416": "over",
+        "539": "over",
+        "604": "over",
+        "656": "over",
+        "882": "over",
+        "937": "over",
+        "999": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -83
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        937,
+        604,
+        656,
+        416,
+        539,
+        999,
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913a667325116ffddb81db0b5ea0528",
+      "entity_name": "Saquon Barkley",
+      "type_display": "Rec Yds",
+      "line": 16.5,
+      "average_odds": -80,
+      "win_probability": 44.44,
+      "odds_by_bookie": {
+        "656": -111,
+        "817": -11,
+        "882": -117
+      },
+      "side_by_bookie": {
+        "656": "over",
+        "817": "over",
+        "882": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -80
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        817,
+        882,
+        656
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912d6c32b4f22c30d0f419a36e88f17",
+      "entity_name": "Jaxon Smith-Njigba",
+      "type_display": "Rec Yds",
+      "line": 100.5,
+      "average_odds": 130,
+      "win_probability": 43.48,
+      "odds_by_bookie": {
+        "882": 130
+      },
+      "side_by_bookie": {
+        "882": "over"
+      },
+      "odds_by_exchange": {
+        "Other": 130
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        882
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913d89c337d7f109a101d1b62cd1e5c",
+      "entity_name": "Jaylen Waddle",
+      "type_display": "Rec Yds",
+      "line": 78.5,
+      "average_odds": -61,
+      "win_probability": 37.89,
+      "odds_by_bookie": {
+        "379": -112,
+        "441": -105,
+        "721": -165,
+        "819": 110,
+        "844": -159,
+        "899": -105
+      },
+      "side_by_bookie": {
+        "379": "over",
+        "441": "over",
+        "721": "over",
+        "819": "over",
+        "844": "over",
+        "899": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -61
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        844,
+        379,
+        899,
+        441,
+        721,
+        819
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6912b182c7a1cb848dd8529070ca571a",
+      "entity_name": "De'Von Achane",
+      "type_display": "Rush Yds",
+      "line": 78.5,
+      "average_odds": -61,
+      "win_probability": 37.89,
+      "odds_by_bookie": {
+        "379": -112,
+        "441": -105,
+        "721": -165,
+        "819": 110,
+        "844": -159,
+        "899": -105
+      },
+      "side_by_bookie": {
+        "379": "over",
+        "441": "over",
+        "721": "over",
+        "819": "over",
+        "844": "over",
+        "899": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -61
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        844,
+        379,
+        899,
+        441,
+        721,
+        819
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_6913ac5d4942f8da76e8de660387a386",
+      "entity_name": "Drake Maye",
+      "type_display": "Pass Yds",
+      "line": 241.5,
+      "average_odds": -29,
+      "win_probability": 22.48,
+      "odds_by_bookie": {
+        "851": -118,
+        "925": 0
+      },
+      "side_by_bookie": {
+        "851": "over",
+        "925": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -29
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        851,
+        925
+      ],
+      "matched": true
+    },
+    {
+      "id": "prop_69137e66bd9f45563b6f1ddaeff3b925",
+      "entity_name": "Rico Dowdle",
+      "type_display": "Rush Yds",
+      "line": 90.5,
+      "average_odds": -10,
+      "win_probability": 9.09,
+      "odds_by_bookie": {
+        "441": -10,
+        "520": -120,
+        "899": 100
+      },
+      "side_by_bookie": {
+        "441": "over",
+        "520": "over",
+        "899": "over"
+      },
+      "odds_by_exchange": {
+        "Other": -10
+      },
+      "primary_side": "over",
+      "exchanges": [
+        "Other"
+      ],
+      "bookieIds": [
+        520,
+        441,
+        899
+      ],
+      "matched": true
+    }
+  ]
+}
